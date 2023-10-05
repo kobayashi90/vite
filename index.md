@@ -5,21 +5,28 @@ layout: home
 hero:
   name: "Wotaku"
   text: "The Otaku Index"
-  tagline: My great project tagline
+  tagline: A diverse range of resources related to japanese media and language
+  image: /static/asset/Padoru.png
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /websites.md
+      text: Get started
+      link: /qs.md
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Discord
+      link: https://discord.gg/WYchhG8z8T
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+  - title: Websites
+    details: Websites for everything. anime manga, ln, games
+    icon: 🌏
+    link: /websites.md
+  - title: Software
+    details: Software for every shit
+    icon: 💾
+    link: /software.md
+  - title: NSFW
+    details: ahem.. ahem....
+    icon: 🔞
+    link: /nsfw.md
 
+---
