@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "Wotaku"
-  text: "something something"
+  text: "The Otaku Index"
   tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: /websites.md
     - theme: alt
       text: API Examples
       link: /api-examples
