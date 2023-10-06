@@ -1,4 +1,6 @@
 import { defineConfig } from "vitepress";
+import { fileURLToPath, URL } from "node:url";
+import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -15,6 +17,23 @@ export default defineConfig({
     ["meta", { name: "og:locale", content: "en" }],
     ["link", { rel: "icon", href: "/asset/podarufav.png" }],
   ],
+  markdown: {
+    config(md) {
+      md.use(tabsMarkdownPlugin);
+    },
+  },
+  vite: {
+    resolve: {
+      alias: [
+        {
+          find: /^.*\/VPBadge\.vue$/,
+          replacement: fileURLToPath(
+            new URL("./components/Badge.vue", import.meta.url)
+          ),
+        },
+      ],
+    },
+  },
   themeConfig: {
     search: {
       provider: "local",

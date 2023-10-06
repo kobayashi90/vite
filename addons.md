@@ -14,7 +14,8 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 ## Apps
 
-+++ Essentials
+:::tabs
+== Essentials
 
 - Browsers
   - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) [!badge variant="ghost" size="xs" text="Android"]
@@ -30,7 +31,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
   - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
 
-+++ Downloaders
+== Downloaders
 
 - [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
 - [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
@@ -39,7 +40,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [libretorrent](https://github.com/proninyaroslav/libretorrent) [!badge variant="ghost" size="xs" text="Android"]
 - [iTorrent](https://github.com/XITRIX/iTorrent) [!badge variant="ghost" size="xs" text="iOS"]
 
-+++ Media
+== Media
 
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
@@ -51,7 +52,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Spotify++](https://appdb.to/app/cydia/1900000540) [!badge variant="ghost" size="xs" text="iOS"]
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
-+++ Trackers
+== Trackers
 
 - [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
 - [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
@@ -60,21 +61,22 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
 - [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
 
-+++ Others
+== Others
 
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US)
 - Illustrations
   - Anime Boxes [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
   - [Boorusphere](https://github.com/nullxception/boorusphere)
   - Pixiv [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
-- [KizzyRPC](https://github.com/dead8309/KizzyRPC)
-  +++
+- # [KizzyRPC](https://github.com/dead8309/KizzyRPC)
+  :::
 
 ![](/static/banner/tools.png)
 
 ## Tools
 
-+++ Anime
+:::tabs
+== Anime
 
 - [Anitomy](https://github.com/erengy/anitomy)
 - Arr [!badge variant="dark" target="blank" text="Radarr"](https://radarr.video/) [!badge variant="dark" target="blank" text="Sonarr"](https://sonarr.tv/) [!badge variant="dark" target="blank" text="Prowlarr"](https://prowlarr.com/){target="\_blank"} [!badge variant="dark" target="blank" text="Overseerr"](https://overseerr.dev/){target="\_blank"} [!badge variant="dark" target="blank" text="Guide"](https://wiki.servarr.com/){target="\_blank"}
@@ -87,7 +89,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Shoko Anime](https://github.com/shokoanime) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://shokoanime.com/)
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
-+++ Manga
+== Manga
 
 - [ACBR - Comic Book Reader](https://github.com/binarynonsense/comic-book-reader)
 - [ComicTagger](https://github.com/comictagger/comictagger)
@@ -97,7 +99,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Manga Manager](https://github.com/MangaManagerORG/Manga-Manager)
 - [Tachisync](https://github.com/axiel7/Tachisync)
 
-+++ Trackers
+== Trackers
 
 - [Animeo](https://github.com/Jenrykster/animeo) [!badge variant="ghost" size="xs" text="Stremio"]
 - [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/) [!badge variant="ghost" size="xs" text="MacOS"]
@@ -106,7 +108,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Trackma](https://github.com/z411/trackma) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) [!badge variant="ghost" size="xs" text="Linux"]
 - [Tundra](https://github.com/m4tx/tundra) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) [!badge variant="ghost" size="xs" text="Linux"]
 
-+++ mpv
+== mpv
 
 - **Resources**
   - [mpv](https://mpv.io/) [!badge variant="dark" target="blank" text="Manual"](https://mpv.io/manual/stable/)
@@ -133,14 +135,14 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - [Prescalers](https://github.com/bjin/mpv-prescalers)
   - [Upscale 2x](https://github.com/the-database/mpv-upscale-2x_animejanai)
 
-+++ Fansubbing
+== Fansubbing
 
 - [Aegisub](https://aegisub.org/) [!badge variant="dark" target="blank" icon="repo-forked" text="Fork"](https://github.com/arch1t3cht/Aegisub)
 - [MKVToolNixWrapper](https://github.com/H3X1C/MKVToolNixWrapper)
 - [mpvQC](https://github.com/mpvqc/mpvQC)
 - [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)
 
-+++ Discord bots
+== Discord bots
 
 - [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://ichbinleoon.github.io/anisearch-discord-bot/#/)
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
@@ -153,7 +155,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Picsiv](https://github.com/jckli/picsiv)
 - [Poketwo](https://poketwo.net/)
 
-+++ OCR
+== OCR
 
 - [Ballons Translator](https://github.com/dmMaze/BallonsTranslator)
 - [Capture2text](https://capture2text.sourceforge.net/)
@@ -165,11 +167,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Sugoi Translation Toolkit](https://www.patreon.com/mingshiba)
 - [Yomiwa](https://www.yomiwa.net/)
 
-!!!danger Don't use MTL
-Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
-!!!
-
-+++ Others
+== Others
 
 - [Hydrus network](https://hydrusnetwork.github.io/hydrus/)
 - Media
@@ -183,13 +181,19 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
 - [Textractor](https://github.com/Artikash/Textractor)
 
-+++
+:::
+
+:::danger Don't use MTL
+Using Machine Translation to translate manga will be a mess. Manga has lots of slang, cultural references, and visual elements that MTL won't understand. So, it's better to have a human translator who knows the language and culture well. You don't want to end up with a wonky or inaccurate translation!
+:::
 
 ![](/static/banner/ext.png)
 
 ## Extensions
 
-+++ Anime
+:::tabs
+
+== Anime
 
 - [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="\_blank"}
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
@@ -198,13 +202,13 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="\_blank"}
 - Substital [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/){target="\_blank"}
 
-+++ Manga
+== Manga
 
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
 - [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/){target="\_blank"}
 - [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
-+++ Others
+== Others
 
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
 - Improve Crunchyroll [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
@@ -212,13 +216,15 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/){target="\_blank"}
 - [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="dark" target="blank" icon="/static/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh){target="\_blank"}
 - [Search by Image](https://github.com/dessant/search-by-image)
-  +++
+
+:::
 
 ![](/static/banner/script.png)
 
 ## Scripts
 
-+++ Anime
+:::tabs
+== Anime
 
 - 9anime Bingewatcher+ [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
@@ -226,14 +232,14 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - Find on Nyaa [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 - [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 
-+++ Anilist
+== Anilist
 
 - [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
 - Anilist External Links [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
 - Anisongs [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
 - [Automail](https://github.com/hohMiyazawa/Automail) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail)
 
-+++ MyAnimeList
+== MyAnimeList
 
 - Affinity to you [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you)
 - Auto Date Add [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
@@ -242,13 +248,13 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
 - Series Highlighter [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
-+++ Manga
+== Manga
 
 - MangaDex Condensed [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
 - Mangadex Follows [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
-+++ Pixiv & Booru
+== Pixiv & Booru
 
 - Pixiv Downloader [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
 - [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
@@ -257,8 +263,8 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
 - [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
 
-+++
+:::
 
-!!!warning Scripts may not function correctly or reliably all the time
+:::warning Scripts may not function correctly or reliably all the time
 Active maintenance is necessary for scripts to work properly. If a script fails, try reinstalling it; otherwise, wait for a fix to be released. Install [**Violentmonkey**](https://violentmonkey.github.io/) or [**Tampermonkey**](https://www.tampermonkey.net/) to use scripts.
-!!!
+:::
