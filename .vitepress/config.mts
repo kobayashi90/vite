@@ -3,19 +3,20 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Wotaku",
-  description: "something something",
+  description: "The Otaku Index",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Anime', link: '/anime.md' },
+      { text: 'Manga', link: '/manga.md' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: '🌏 Websites', link: '/websites.md' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }

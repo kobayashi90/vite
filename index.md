@@ -9,7 +9,7 @@ hero:
   image: /static/asset/Padoru.png
   actions:
     - theme: brand
-      text: Get started
+      text: Quick Start
       link: /qs.md
     - theme: alt
       text: Discord
@@ -17,16 +17,21 @@ hero:
 
 features:
   - title: Websites
-    details: Websites for everything. anime manga, ln, games
+    details: Websites for anime, manga, music, light novels & games
     icon: 🌏
     link: /websites.md
   - title: Software
-    details: Software for every shit
+    details: Software for every Operating System
     icon: 💾
     link: /software.md
   - title: NSFW
-    details: ahem.. ahem....
+    details: ahem... ahem....
     icon: 🔞
     link: /nsfw.md
+  - title: Glossary
+    details: General, anime and manga terms explained
+    icon: 📖
+    link: /glossary/general.md
+
 
 ---
