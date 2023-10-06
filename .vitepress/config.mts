@@ -1,63 +1,72 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Wotaku",
   description: "The Otaku Index",
-  head: [['link', { rel: 'icon', href: '/static/asset/podarufav.png' }]],
+  lang: "en-US",
+  lastUpdated: true,
+  cleanUrls: true,
+  appearance: "dark",
+  titleTemplate: ":title • Wotaku",
+  head: [
+    ["meta", { name: "theme-color", content: "#7bc5e4" }],
+    ["meta", { name: "og:type", content: "website" }],
+    ["meta", { name: "og:locale", content: "en" }],
+    ["link", { rel: "icon", href: "/asset/podarufav.png" }],
+  ],
   themeConfig: {
-    logo: '/static/asset/inaidle.webp',
-    // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+    },
+    logo: "/asset/inaidle.webp",
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Anime', link: '/anime.md' },
-      { text: 'Manga', link: '/manga.md' }
+      { text: "Home", link: "/" },
+      { text: "Anime", link: "/anime" },
+      { text: "Manga", link: "/manga" },
     ],
-
     sidebar: [
+      { text: "⚡ Quick Start", link: "/qs" },
+      { text: "🌏 Websites", link: "/websites" },
+      { text: "💾 Software", link: "/software" },
+      { text: "🗃️ Misc-sites", link: "/misc" },
+      { text: "🧩 Add-ons", link: "/addons" },
+      { text: "🗺️ Non-English", link: "/nonen" },
+      { text: "🔞 NSFW", link: "/nsfw" },
+      { text: "🗾 Learning Japanese", link: "/jp" },
+      { text: "📦 Merch", link: "/merch" },
+      { text: "🗣️ Communities", link: "/comms" },
+      { text: "📃 Scanlation", link: "/scanlation" },
+      { text: "⚗️ Brewing", link: "/brewing" },
       {
-        text: 'Pages',
+        text: "📖 Glossary",
+        collapsed: true,
         items: [
-          { text: '⚡ Quick Start', link: '/qs.md' },
-          { text: '🌏 Websites', link: '/websites.md' },
-          { text: '💾 Software', link: '/software.md' },
-          { text: '🗃️ Misc-sites', link: '/misc.md' },
-          { text: '🧩 Add-ons', link: '/addons.md' },
-          { text: '🗺️ Non-English', link: '/nonen.md' },
-          { text: '🔞 NSFW', link: '/nsfw.md' },
-          { text: '🗾 Learning Japanese', link: '/jp.md' },
-          { text: '📦 Merch', link: '/merch.md' },
-          { text: '🗣️ Communities', link: '/comms.md' },
-          { text: '📃 Scanlation', link: '/scanlation.md' },
-          { text: '⚗️ Brewing', link: '/brewing.md' }
-        ]
+          { text: "General", link: "/glossary/general" },
+          { text: "Anime", link: "/glossary/anime" },
+          { text: "Manga", link: "/glossary/manga" },
+          { text: "File Naming", link: "/glossary/file" },
+        ],
       },
       {
-        text: 'Glossary',
+        text: "📂 Guides",
+        collapsed: true,
         items: [
-          { text: 'General', link: '/glossary/general.md' },
-          { text: 'Anime', link: '/glossary/anime.md' },
-          { text: 'Manga', link: '/glossary/manga.md' },
-          { text: 'File Naming', link: '/glossary/file.md' }
-        ]
-        
+          { text: "Digital Manga", link: "/guides/digim" },
+          { text: "IRC", link: "/guides/irc" },
+          { text: "Madokami", link: "/guides/mado" },
+          { text: "Manga Image Editing", link: "/guides/imagedit" },
+          { text: "Network Stream", link: "/guides/ns" },
+          { text: "Squidify", link: "guides/squidify" },
+        ],
       },
-      {
-        text: 'Guides',
-        items: [
-          { text: 'Digital Manga', link: '/guides/digim.md' },
-          { text: 'IRC', link: '/guides/irc.md' },
-          { text: 'Madokami', link: '/guides/mado.md' },
-          { text: 'Manga Image Editing', link: '/guides/imagedit.md' },
-          { text: 'Network Stream', link: '/guides/ns.md' },
-          { text: 'Squidify', link: 'guides/squidify.md' }
-        ]
-      },
+      { text: "⚗️ Brewing", link: "/brewing" },
+      { text: "💖 Credits", link: "/credits" },
+      { text: "🗄️Megathread", link: "/megathread" },
     ],
-
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/anotherduckling/Wotaku' },
-      { icon: 'discord', link: 'https://discord.gg/WYchhG8z8T' }
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
+      { icon: "discord", link: "https://discord.gg/WYchhG8z8T" },
+    ],
+  },
+});
