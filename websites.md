@@ -173,8 +173,9 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/Guides/mado.md). They have very little compression, if any.
 
+:::tabs
 
-+++ :icon-book: Reader
+== Reader
 
 - [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
     - Uploads without compression
@@ -209,7 +210,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
     - Decent filtering options with site theme options
     - Indexing is really poor
 
-=== More
+::: details More
 - [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
 - [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
 - [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
@@ -220,11 +221,11 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Like Manga](https://likemanga.io) [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
 - [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
-===
+:::
 
-+++ :icon-log: Scanlator
+== Scanlator
 
-==- Manga
+::: details Manga
 
 - [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans){target="_blank"}
 - [Assorted Scans](https://assortedscans.com/)
@@ -233,8 +234,9 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Scylla Scans](https://scyllascans.org/r) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042){target="_blank"}
 - [TCB Scans](https://onepiecechapters.com/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans){target="_blank"}
 - [Tritinia](https://tritinia.org/) + `CN` `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans){target="_blank"}
+:::
 
-==- Mangadex group
+::: details Mangadex group
 
 - [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans){target="_blank"}
 - [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations){target="_blank"}
@@ -252,7 +254,9 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans){target="_blank"}
 - [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting){target="_blank"}
 
-==- Manhwa
+:::
+
+::: details Manhwa
 
 - [Asura Scans](https://www.asurascans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura){target="_blank"}
 - [Flame Scans](https://flamescans.org/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans){target="_blank"}
@@ -267,7 +271,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Void Scans](https://void-scans.com/) + `CN`
 - [Zero Scans](https://zeroscans.com/) + `CN` | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord){target="_blank"}
 
-==- Manhua
+::: details Manhua
 
 - [Ansh Scans](https://anshscans.org/) | [!badge variant="ghost" icon="/static/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans){target="_blank"} [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans){target="_blank"}
 - [Disaster Scans](https://disasterscans.com/)
@@ -278,11 +282,13 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Realm Scans](https://realmscans.com/) + `KR` | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans){target="_blank"}
 - [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/static/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr){target="_blank"}
 
-===
+:::
+
+:::
 
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
-+++ :icon-unfold: Nyaa
+== Nyaa
 - [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
 - [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
 - [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
@@ -299,7 +305,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9) 
 
 
-+++ :icon-move-to-bottom: Direct Download
+== Direct Download
 - [Madokami](https://manga.madokami.al) [!button target="blank" variant="primary" size="xs" text="Guide"](/Guides/mado.md)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
@@ -307,7 +313,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
 
-+++
+:::
 
 ![](/static/banner/msuic.png)
 
