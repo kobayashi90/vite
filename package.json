@@ -5,10 +5,13 @@
     "docs:preview": "vitepress preview"
   },
   "dependencies": {
+    "unocss": "^0.56.5",
     "vitepress": "1.0.0-rc.20",
     "vue": "^3.3.4"
   },
   "devDependencies": {
+    "@iconify-json/octicon": "^1.1.49",
+    "@types/node": "^20.8.2",
     "vitepress-plugin-tabs": "^0.4.1"
   }
 }

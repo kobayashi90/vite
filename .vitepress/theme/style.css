@@ -90,10 +90,6 @@
   -webkit-text-decoration-color: var(--vp-c-brand);
 }
 
-/**
- * Component: Home
- * -------------------------------------------------------------------------- */
-
 :root {
     --vp-home-hero-name-color: transparent;
     --vp-home-hero-name-background: -webkit-linear-gradient( 120deg, #198CC6 20%, var(--vp-c-brand) );
@@ -111,4 +107,9 @@
   :root {
     --vp-home-hero-image-filter: blur(72px);
   }
+}
+
+.VPNavBarTitle .title {
+  font-size: 18px;
+  font-weight: 600;
 }

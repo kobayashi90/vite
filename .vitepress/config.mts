@@ -1,6 +1,8 @@
 import { defineConfig } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
+import UnoCSS from "unocss/vite";
+import { presetUno, presetAttributify, presetIcons } from "unocss";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -23,6 +25,15 @@ export default defineConfig({
     },
   },
   vite: {
+    plugins: [
+      UnoCSS({
+        presets: [
+          presetUno(),
+          presetAttributify(),
+          presetIcons(),
+        ],
+      }),
+    ],
     resolve: {
       alias: [
         {
