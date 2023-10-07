@@ -10,10 +10,13 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <span class="VPBadge" :class="type">
-    <a :href="link">
-      <slot>{{ text }}</slot>
-    </a>
+  <span v-if="link" class="VPBadge" :class="type">
+    <a :href="link"
+      ><slot>{{ text }}</slot></a
+    >
+  </span>
+  <span v-else class="VPBadge" :class="type">
+    <slot>{{ text }}</slot>
   </span>
 </template>
 

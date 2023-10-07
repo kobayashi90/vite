@@ -1,7 +1,5 @@
 ---
 title: Add-ons
-order: 850
-icon: ":jigsaw:"
 ---
 
 ![](https://cdn.apollo.moe/img/addons.png)
@@ -18,7 +16,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Essentials
 
 - Browsers
-  - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) [!badge variant="ghost" size="xs" text="Android"]
+  - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge text="Android" />
   - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) [!badge variant="ghost" size="xs" text="Android"]
   - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
   - [Cromite](https://github.com/uazo/cromite) [!badge variant="ghost" size="xs" text="Android"]
