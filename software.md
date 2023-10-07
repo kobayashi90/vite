@@ -15,7 +15,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 
 
-![](/static/banner/and.png)
+![](/banner/and.png)
 
 ## Android
 
@@ -103,7 +103,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++
 
-![](/static/banner/pc.png)
+![](/banner/pc.png)
 
 ## PC
 
@@ -198,7 +198,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en){target="_blank"}
 
-![](/static/banner/ios.png)
+![](/banner/ios.png)
 
 ## iOS
 
@@ -253,7 +253,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++
 
-![](/static/banner/dler.png)
+![](/banner/dler.png)
 
 ## Downloader
 
