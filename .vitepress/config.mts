@@ -11,6 +11,7 @@ export default defineConfig({
   lang: "en-US",
   lastUpdated: true,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   appearance: "dark",
   titleTemplate: ":title • Wotaku",
   head: [
