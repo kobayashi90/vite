@@ -25,7 +25,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 1. The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html)  
 2. Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail
 
-![Illustration of speed of the options](/public/ss/shipping.gif)
+![Illustration of speed of the options](/ss/shipping.gif)
 
 
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)

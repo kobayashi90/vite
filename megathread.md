@@ -114,10 +114,10 @@ Online resources for anime, manga, light novels and more. All links have been ca
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 ===
 
-> Use [!badge variant="dark" target="blank" icon="/public/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" target="blank" icon="/public/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" target="blank" icon="/public/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" target="blank" icon="/public/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
+> Use [!badge variant="dark" target="blank" icon="/icon/ada.png" text="AdAway"](https://adaway.org/) or [!badge variant="dark" target="blank" icon="/icon/adg.png" text="Adguard"](https://adguard.com/en/welcome.html) on Android and [!badge variant="dark" target="blank" icon="/icon/ubo.png" text="uBlock Origin"](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [!badge variant="dark" target="blank" icon="/icon/ahadns.png" text="AhaDNS"](https://blitz-setup.ahadns.com/) as profile.
 
 
-![](/public/banner/anime.png)
+![](/banner/anime.png)
 
 ### Anime
 
@@ -161,8 +161,8 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 ==- :bulb: Quick Tips
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/public/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/public/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" target="blank" icon="/public/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
-4. For VPN, use [!badge variant="dark" target="blank" icon="/public/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" target="blank" icon="/public/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" target="blank" icon="/public/icon/wind.png" text="Windscribe"](https://windscribe.com/).
+3. Recommended torrent client for Android is [!badge variant="dark" target="blank" icon="/icon/lt.png" text="libretorrent"](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [!badge variant="dark" target="blank" icon="/icon/qb.svg" text="qBittorrent"](https://www.qbittorrent.org/) or [!badge variant="dark" target="blank" icon="/icon/trans.png" text="Transmission"](https://transmissionbt.com/).
+4. For VPN, use [!badge variant="dark" target="blank" icon="/icon/mv.png" text="Mullvad"](https://mullvad.net/) or [!badge variant="dark" target="blank" icon="/icon/ivpn.png" text="IVPN"](https://www.ivpn.net/). If you want free alternative, use [!badge variant="dark" target="blank" icon="/icon/wind.png" text="Windscribe"](https://windscribe.com/).
 5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android.
 ===
@@ -181,7 +181,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
 - [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
 
-> To download in Android, use [!badge variant="dark" target="blank" icon="/public/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" target="blank" icon="/public/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" target="blank" icon="/public/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" target="blank" icon="/public/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" target="blank" icon="/public/icon/jdl.png" text="JDL"](https://jdownloader.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/public/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/){target="_blank"}. You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html){target="_blank"} to activate IDM. Read [this guide](https://rentry.org/jdownloader2){target="_blank"} to debloat JDL.
+> To download in Android, use [!badge variant="dark" target="blank" icon="/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" target="blank" icon="/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" target="blank" icon="/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" target="blank" icon="/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" target="blank" icon="/icon/jdl.png" text="JDL"](https://jdownloader.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/){target="_blank"}. You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html){target="_blank"} to activate IDM. Read [this guide](https://rentry.org/jdownloader2){target="_blank"} to debloat JDL.
 
 +++ :icon-command-palette: IRC
 - [**nibl**](https://nibl.co.uk/search)
@@ -257,7 +257,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++
 
-![](/public/banner/manga.png)
+![](/banner/manga.png)
 
 ### Manga
 
@@ -316,57 +316,57 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 ==- Manga
 
-- [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
+- [Animated Glitched Scans](https://anigliscans.com/) + `KR` | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/1dde9054-11fd-4f5e-a575-a50f7bd22d5f/animated-glitched-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/15ncn1v/animated-glitched-scans)
 - [Assorted Scans](https://assortedscans.com/)
-- [Danke fürs Lesen Scans](https://danke.moe/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen)
-- [LHTranslation](https://lhtranslation.net/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation)
-- [Scylla Scans](https://scyllascans.org/r) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042)
-- [TCB Scans](https://onepiecechapters.com/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans)
-- [Tritinia](https://tritinia.org/) + `CN` `KR` | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
+- [Danke fürs Lesen Scans](https://danke.moe/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/91035fe1-d6b0-4816-be51-b54d05d546cf/danke-furs-lesen) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/xlp7424/danke-fuers-lesen)
+- [LHTranslation](https://lhtranslation.net/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/24adf288-d0e3-4d34-b342-bf8c189aacaa/lhtranslation) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/f6nc2yt/lhtranslation)
+- [Scylla Scans](https://scyllascans.org/r) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/4209a4a9-b838-4817-be40-0c8ef2f7be4a/scylla-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/groups.html?id=14042)
+- [TCB Scans](https://onepiecechapters.com/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/db85f2a1-d69b-4181-a7a0-aa37db4bcbcf/tcb-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wn8v9bv/tcb-scans)
+- [Tritinia](https://tritinia.org/) + `CN` `KR` | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
 
 ==- Mangadex group
 
-- [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans)
-- [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations)
-- [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle)
-- [Kirei Cake](https://mangadex.org/group/5fa94491-6f6f-4d53-b8ff-4a4967ac40b5/kirei-cake) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/7ixehww/kirei-cake)
-- [Knox](https://mangadex.org/group/28ba3526-e436-4c05-ab23-a2396fd08ce5/knox) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mecpt76/knox)
-- [Komi-scan wa komyushou desu](https://mangadex.org/group/d81ab540-30de-413f-a23f-95bf007e7397/komi-scan-wa-komyushou-desu) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3kcvfvw/komi-scan-wa-komyushou-desu)
-- [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations)
-- [Laughing in quarantine](https://mangadex.org/group/71ade5cd-93cf-4397-a5cc-d5c6181d8697/laughing-in-quarantine) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/hef6zqd/laughing-in-quarantine)
-- [Random scans](https://mangadex.org/group/8bc0f2aa-90b0-4423-afd4-501b9d623d41/random-scans-en) + `KR` `ID` `CN` 💀 | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/gja9x6m/random-scans)
-- [Sho Habby Scans](https://mangadex.org/group/2015e273-89af-41f6-9488-cae400463c93/sho-habby-scans) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/12je778/sho-habby-scans)
-- [SleepySlimeTL](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl)
-- [Tonikaku scans](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496/tonikaku-scans) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/85x42f0/tonikaku-scans)
-- [Toor Scans](https://mangadex.org/group/428fa899-6f51-4330-a4e0-2a8aeaab44b0/toor-scans) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qzru5y0/toor-scans)
-- [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans)
-- [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting)
+- [Ace Scans](https://mangadex.org/group/6cdcccb1-5ed9-4cbd-b391-675b42de3ee6) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/189byvu/ace-scans)
+- [Boredom society](https://mangadex.org/group/f62c0c65-d7bb-42ee-8d44-f14d9ae974af/boredom-society) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/stxl2b5/boredom-society-scanlations)
+- [Circle](https://mangadex.org/group/916a8c9a-c743-426f-8660-6bc7c0590b35/circle) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mzq2toi/circle)
+- [Kirei Cake](https://mangadex.org/group/5fa94491-6f6f-4d53-b8ff-4a4967ac40b5/kirei-cake) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/7ixehww/kirei-cake)
+- [Knox](https://mangadex.org/group/28ba3526-e436-4c05-ab23-a2396fd08ce5/knox) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/mecpt76/knox)
+- [Komi-scan wa komyushou desu](https://mangadex.org/group/d81ab540-30de-413f-a23f-95bf007e7397/komi-scan-wa-komyushou-desu) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3kcvfvw/komi-scan-wa-komyushou-desu)
+- [Kouhai scanlations](https://mangadex.org/group/b25e068a-5363-4f1d-872b-eba5b0224ae9/kouhai-scanlations) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/2995jae/kouhai-scanlations)
+- [Laughing in quarantine](https://mangadex.org/group/71ade5cd-93cf-4397-a5cc-d5c6181d8697/laughing-in-quarantine) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/hef6zqd/laughing-in-quarantine)
+- [Random scans](https://mangadex.org/group/8bc0f2aa-90b0-4423-afd4-501b9d623d41/random-scans-en) + `KR` `ID` `CN` 💀 | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/gja9x6m/random-scans)
+- [Sho Habby Scans](https://mangadex.org/group/2015e273-89af-41f6-9488-cae400463c93/sho-habby-scans) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/12je778/sho-habby-scans)
+- [SleepySlimeTL](https://mangadex.org/group/a074ddce-798c-4b3c-8568-fa6f2833dc96/sleepyslimetl) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/1mls20r/sleepyslimetl)
+- [Tonikaku scans](https://mangadex.org/group/063cf1b0-9e25-495b-b234-296579a34496/tonikaku-scans) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/85x42f0/tonikaku-scans)
+- [Toor Scans](https://mangadex.org/group/428fa899-6f51-4330-a4e0-2a8aeaab44b0/toor-scans) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qzru5y0/toor-scans)
+- [Toru Scans](https://mangadex.org/group/69148b88-5740-434d-b62f-b67711ca490b/toruscans) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vsugigg/toruscans)
+- [What's typesetting](https://mangadex.org/group/d93016fa-0af4-4967-a1b3-7bd8a6a87483/what-s-typesetting) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/qmoi94j/what-s-typesetting)
 
 ==- Manhwa
 
-- [Asura Scans](https://www.asurascans.com/) + `CN` | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura)
-- [Flame Scans](https://flamescans.org/) + `CN` | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans)
-- [Immortal Updates](https://immortalupdates.com/) + `CN` | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan)
-- [Leviatan scans](https://en.leviatanscans.com/home/) + `CN` | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/rot79ib/leviatanscans)
-- [Luminous Scans](https://luminousscans.com/) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/jufm30w/luminous)
-- [Manhwa Freak](https://manhwafreak.com/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/busmxbf/manhwafreak)
-- [MM Scans](https://mm-scans.org/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wctgyjk/mmscans)
-- [Reaper Scans](https://reaperscans.com/) + `CN` | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans)
-- [Reset Scams](https://reset-scans.com/) +`JP` `CN` | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/df9ckct/reset-scans)
-- [Tritinia Scans](https://tritinia.org/) +`JP` `CN` [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
+- [Asura Scans](https://www.asurascans.com/) + `CN` | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/juxsa9z/asura)
+- [Flame Scans](https://flamescans.org/) + `CN` | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/fdad9851-164f-43fc-9ab0-25b8054c99ed/flame-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/btgsdiy/flame-scans)
+- [Immortal Updates](https://immortalupdates.com/) + `CN` | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/1296f28d-7888-4fcc-8861-93edb6c05e8c/immortal-updates-scan) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/10z1hxo/immortal-updates-scan)
+- [Leviatan scans](https://en.leviatanscans.com/home/) + `CN` | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/rot79ib/leviatanscans)
+- [Luminous Scans](https://luminousscans.com/) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/jufm30w/luminous)
+- [Manhwa Freak](https://manhwafreak.com/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/3cc5b54a-b20e-4fc5-b2aa-bb51fed328dc/manhwafreak) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/busmxbf/manhwafreak)
+- [MM Scans](https://mm-scans.org/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/35ab5df4-f668-4ca4-895d-3e02cef509b6/mmscans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/wctgyjk/mmscans)
+- [Reaper Scans](https://reaperscans.com/) + `CN` | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/e892ed1b-ed75-414a-bc86-71226f3364ad/reaper-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/5ev5t5s/reaper-scans)
+- [Reset Scams](https://reset-scans.com/) +`JP` `CN` | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/df9ckct/reset-scans)
+- [Tritinia Scans](https://tritinia.org/) +`JP` `CN` [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/zfxsenj/tritinia-scans)
 - [Void Scans](https://void-scans.com/) + `CN`
-- [Zero Scans](https://zeroscans.com/) + `CN` | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord)
+- [Zero Scans](https://zeroscans.com/) + `CN` | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord)
 
 ==- Manhua
 
-- [Ansh Scans](https://anshscans.org/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans)
+- [Ansh Scans](https://anshscans.org/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/tmszmfv/ansh-scans)
 - [Disaster Scans](https://disasterscans.com/)
-- [Drake Scans](https://drakescans.com/) | [!badge variant="ghost" icon="/public/icon/md.png" text="Dex"](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ktajd9u/drake-scans)
+- [Drake Scans](https://drakescans.com/) | [!badge variant="ghost" icon="/icon/md.png" text="Dex"](https://mangadex.org/group/50caf96d-fe2b-4638-9d13-4954b782e112/drake-scans) [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ktajd9u/drake-scans)
 - [Manhua Ga](https://manhuaga.com/)
-- [Manhua Plus](https://manhuaplus.com/) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3apm0du/manhua-plus)
+- [Manhua Plus](https://manhuaplus.com/) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/3apm0du/manhua-plus)
 - [Manhua SY](https://www.manhuasy.com/manhua/) | [Manga SY](https://www.mangasy.com/)
-- [Realm Scans](https://realmscans.com/) + `KR` | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans)
-- [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/public/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
+- [Realm Scans](https://realmscans.com/) + `KR` | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/g8dqjxt/realm-scans)
+- [xCaliBR Scans](https://xcalibrscans.com/) | [!badge variant="ghost" icon="/icon/mu.png" text="Baka"](https://www.mangaupdates.com/group/ynopo9s/cursed-xcalibr)
 
 ===
 
@@ -399,7 +399,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 +++
 
-![](/public/banner/msuic.png)
+![](/banner/msuic.png)
 
 ### Music
 
@@ -484,7 +484,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 +++
 
 
-![](/public/banner/ln.png)
+![](/banner/ln.png)
 
 ### Light Novels
 
@@ -513,7 +513,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Just Light Novels](https://www.justlightnovels.com/)
 - [That Novel Corner](https://thatnovelcorner.com/)
 - [MP4 Directs](https://mp4directs.com/)
-- [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/public/icon/jp.png" text="JP"]
+- [All EPUBs](https://boroboro.neocities.org/listfullepub) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
 
 
 +++ :icon-unfold: Nyaa
@@ -530,7 +530,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 +++
 
 
-![](/public/banner/games.png)
+![](/banner/games.png)
 ### Games
 
 
@@ -571,7 +571,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 > Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
 
-![](/public/banner/legal.png)
+![](/banner/legal.png)
 
 ### Legal
 
@@ -657,7 +657,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 
 
-![](/public/banner/and.png)
+![](/banner/and.png)
 
 ### Android
 
@@ -745,7 +745,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++
 
-![](/public/banner/pc.png)
+![](/banner/pc.png)
 
 ### PC
 
@@ -840,7 +840,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
 - [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en)
 
-![](/public/banner/ios.png)
+![](/banner/ios.png)
 
 ### iOS
 
@@ -895,7 +895,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++
 
-![](/public/banner/dler.png)
+![](/banner/dler.png)
 
 ### Downloader
 
@@ -997,7 +997,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 
 
-![](/public/banner/info.png)
+![](/banner/info.png)
 ### Info
 
 #### Database & Tracker
@@ -1032,7 +1032,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) [!button target="blank" variant="primary" size="xs" icon="/public/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
+- [Sneedex](https://sneedex.moe/) [!button target="blank" variant="primary" size="xs" icon="/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -1070,7 +1070,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Info
 
-- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/public/icon/jp.png" text="JP"]
+- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
@@ -1096,7 +1096,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/illust.png)
+![](/banner/illust.png)
 ### Illustrations
 - [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
 - [Anime Pictures](https://anime-pictures.net/)
@@ -1109,7 +1109,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
 - [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
 
-![](/public/banner/jp.png)
+![](/banner/jp.png)
 ### Japan
 +++ Culture & History
 
@@ -1248,7 +1248,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 > You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 
-![](/public/banner/others.png)
+![](/banner/others.png)
 ### Others
 
 +++ Recommendations
@@ -1324,7 +1324,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/tools.png)
+![](/banner/tools.png)
 ### Tools
 
 +++ Analysis
@@ -1354,7 +1354,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/vt2.png)
+![](/banner/vt2.png)
 ### VTuber
 
 +++ General
@@ -1476,7 +1476,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [JQHN](https://twitter.com/JQHNHARQLD)
 +++
 
-![](/public/banner/random.png)
+![](/banner/random.png)
 ### Random
 
 +++ Drawing
@@ -1563,7 +1563,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 
 
-![](/public/banner/apps.png)
+![](/banner/apps.png)
 ### Apps
 
 +++ Essentials
@@ -1595,20 +1595,20 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
-- [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
+- [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) [!button target="blank" variant="dark" size="xs" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly)
 - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) [!badge variant="ghost" size="xs" text="iOS"]
-- [Poweramp](https://powerampapp.com/) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
+- [Poweramp](https://powerampapp.com/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" text="Spotify"]
 - [Spotify++](https://appdb.to/app/cydia/1900000540) [!badge variant="ghost" size="xs" text="iOS"]
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 +++ Trackers
 
-- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
 - [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
-- DailyAL [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826) [!badge variant="ghost" size="xs" text="Kitsu"]
+- DailyAL [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826) [!badge variant="ghost" size="xs" text="Kitsu"]
 - [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
 - [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
 
@@ -1617,11 +1617,11 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - Illustrations
     - Anime Boxes [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.animebox.es/)
     - [Boorusphere](https://github.com/nullxception/boorusphere)
-    - Pixiv [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
+    - Pixiv [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.pxv.android)
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
 +++
 
-![](/public/banner/tools.png)
+![](/banner/tools.png)
 
 ### Tools
 
@@ -1701,7 +1701,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
 - [Rinbot](https://rinbot.moe/)
 - [Michelle](https://github.com/JacenBoy/michelle) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://michelle.jacenboy.com/)
-- Sneedex [!button target="blank" variant="primary" size="xs" icon="/public/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
+- Sneedex [!button target="blank" variant="primary" size="xs" icon="/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot)
 - [Picsiv](https://github.com/jckli/picsiv)
 - [Poketwo](https://poketwo.net/)
 
@@ -1737,80 +1737,80 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 +++
 
-![](/public/banner/ext.png)
+![](/banner/ext.png)
 ### Extensions
 
 
 +++ Anime
 
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
-- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
-- [Anime Skip Player](https://github.com/anime-skip/player) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
-- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
-- [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
-- Substital [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://animewatchparties.com/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/)
+- [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/)
+- [Anime Skip Player](https://github.com/anime-skip/player) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://anime-skip.com/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-skip)
+- [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/aniskip/)
+- [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
+- Substital [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://substital.com/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/substital/)
 
 
 +++ Manga
 
 - [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.allmangasreader.com/)
-- [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
-- [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
+- [MALSync](https://github.com/MALSync/MALSync) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malsync.moe/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
+- [Similar Manga](https://github.com/similar-manga/similar) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg)
 
 
 +++ Others
 
-- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
-- Improve Crunchyroll [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/public/mal.html) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="dark" target="blank" icon="/public/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="dark" target="blank" icon="/public/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
+- [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)
+- Improve Crunchyroll [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh)
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kellydownloader.com/en/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/)
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hritikvaishnav.github.io/Project-Redesign/mal.html) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal) [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/)
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://pixiv.download/) [!badge variant="dark" target="blank" icon="/icon/crm.svg" text="Chrome"](https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh)
 - [Search by Image](https://github.com/dessant/search-by-image)
 +++
 
-![](/public/banner/script.png)
+![](/banner/script.png)
 
 ### Scripts
 
 
 +++ Anime
 
-- 9anime Bingewatcher+ [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
+- 9anime Bingewatcher+ [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher)
 - [Anifilters](https://github.com/Karmesinrot/Anifiltrs)
-- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
-- Find on Nyaa [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
+- [Anime Website Buttons Plus](https://github.com/Deatthwing/anime-website-buttons-plus) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/398046-anime-website-custom-buttons-plus)
+- Find on Nyaa [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/379776-find-on-nyaa)
 - [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 
 +++ Anilist
 
-- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
-- Anilist External Links [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
-- Anisongs [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
-- [Automail](https://github.com/hohMiyazawa/Automail) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail)
+- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header)
+- Anilist External Links [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/442599-anilist-external-links)
+- Anisongs [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/374785-anisongs)
+- [Automail](https://github.com/hohMiyazawa/Automail) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370473-automail)
 
 +++ MyAnimeList
 
-- Affinity to you [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you)
-- Auto Date Add [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
-- Endless MAL Search Pages [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
-- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
-- [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
-- Series Highlighter [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
+- Affinity to you [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/423918-affinity-to-you)
+- Auto Date Add [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/407730-automatically-add-start-finish-dates-for-animes-mangas-helpful-buttons)
+- Endless MAL Search Pages [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/409957-endless-mal-search-pages)
+- [MAL Dubs](https://github.com/MAL-Dubs/MAL-Dubs) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/376546-mal-myanimelist-dubs)
+- [MAL English Titles](https://github.com/Animorphs/MAL-English-Titles) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/420200-mal-english-titles)
+- Series Highlighter [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/424774-series-highlighter-mal)
 
 +++ Manga
 
-- MangaDex Condensed [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
-- Mangadex Follows [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
+- MangaDex Condensed [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/429495-mangadex-condensed)
+- Mangadex Follows [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/430295-new-mangadex-follows)
 - [Manga Online Viewer](https://github.com/TagoDR/MangaOnlineViewer)
 
 +++ Pixiv & Booru
 
-- Pixiv Downloader [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
-- [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
-- [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
+- Pixiv Downloader [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/432150-pixiv-downloader)
+- [Pixiv Preview](https://github.com/NightLancer/PixivPreview) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/39387-pixiv-arts-preview-followed-atrists-coloring-extended-history)
+- [ppixiv for Pixiv](https://github.com/ppixiv/ppixiv) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Fork"](https://greasyfork.org/en/scripts/370418-ppixiv-for-pixiv)
 - [Max URL](https://github.com/qsniyg/maxurl)
 - [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B)
-- [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
+- [Handy Image](https://github.com/Owyn/HandyImage) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/109-handy-image)
 
 +++
 
@@ -1822,7 +1822,7 @@ Active maintenance is necessary for scripts to work properly. If a script fails,
 ## Learning Japanese
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
 
-![](/public/banner/sites.png)
+![](/banner/sites.png)
 ### Websites
 
 +++ Starter
@@ -2001,7 +2001,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Similar word finder](https://hinoki-project.org/natsume/)
 +++
 
-![](/public/banner/books.png)
+![](/banner/books.png)
 ### Books
 
 +++ N5 & N4
@@ -2059,10 +2059,10 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
 +++
 
-![](/public/banner/software.png)
+![](/banner/software.png)
 ### Software
 +++ Anki
-- [Anki](https://apps.ankiweb.net/) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.ichi2.anki) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) [!badge variant="dark" target="blank" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki)
+- [Anki](https://apps.ankiweb.net/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.ichi2.anki) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) [!badge variant="dark" target="blank" text="Guide"](https://tatsumoto.neocities.org/blog/setting-up-anki)
 - Card templates
     - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
     - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
@@ -2077,9 +2077,9 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-_2023-06-24.apkg/file) [!badge variant="dark" target="blank" text="Support"](https://discord.gg/cSEXEB5DgF)
 +++ Learning tools
 - Dictionary
-	- jidoujisho [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://github.com/lrorpilla/jidoujisho)
+	- jidoujisho [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://github.com/lrorpilla/jidoujisho)
     - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
-	- Takoboto [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto)
+	- Takoboto [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=jp.takoboto)
 - Media Player
     - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
 	- [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
@@ -2087,18 +2087,18 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Asbplayer](https://killergerbah.github.io/asbplayer/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/killergerbah/asbplayer)
 	- [Voracious](https://voracious.app/)
 - Practice
-	- Learn Japanese! - Kanji [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
-	- Kana - Hiragana and Katakana [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
-	- [Kanji Garden](https://kanji.garden/) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114)
+	- Learn Japanese! - Kanji [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994)
+	- Kana - Hiragana and Katakana [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955)
+	- [Kanji Garden](https://kanji.garden/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114)
 - Reader
-	- [Easy Japanese](https://easyjapanese.net/) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166)
-	- [Immersion Reader](https://reader.immersionkit.com/) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/immersion-reader/id6443721334)
-	- Japanese Kanji Study [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US)
+	- [Easy Japanese](https://easyjapanese.net/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166)
+	- [Immersion Reader](https://reader.immersionkit.com/) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/immersion-reader/id6443721334)
+	- Japanese Kanji Study [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US)
 	- [mokuro](https://github.com/kha-white/mokuro)
     - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader)
     - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon)
-	- [Satori Reader](https://www.satorireader.com/) [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/satori-reader/id1382950847)
-	- Write It! Japanese [!badge variant="dark" target="blank" icon="/public/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/public/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
+	- [Satori Reader](https://www.satorireader.com/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/satori-reader/id1382950847)
+	- Write It! Japanese [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="Apple"](https://apps.apple.com/us/app/write-it-japanese/id1268225663)
 +++ Tools
 - Extension
     - [jimaku player](https://github.com/sheodox/jimaku-player)
@@ -2121,7 +2121,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 +++
 
 
-![](/public/banner/comms.png)
+![](/banner/comms.png)
 ### Communities
 - [Japanese Language Study Space](https://discord.gg/jlss)
 - [Marshall's Server](https://discord.com/invite/ejmrfwSYAH)
@@ -2151,7 +2151,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 1. The option for SAL shipments are temporarily unavailable due to covid protocols. You can find JP Post's service availability by country [here](https://www.post.japanpost.jp/int/information/overview_en.html)  
 2. Combine the reasonable"ish" rate of surface, with somewhat the faster duration of airmail, but still less priority than airmail
 
-![Illustration of speed of the options](/public/ss/shipping.gif)
+![Illustration of speed of the options](/ss/shipping.gif)
 
 
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
@@ -2257,14 +2257,14 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
 
 
-![](/public/banner/comms.png)
+![](/banner/comms.png)
 ### Communities
 - [Scanner Usage School Server](https://discord.com/invite/NCzxVB9)
 - [r/Scanlation](https://www.reddit.com/r/Scanlation/)
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
 
-![](/public/banner/raw.png)
+![](/banner/raw.png)
 ### Raw
 
 +++ Reader
@@ -2297,7 +2297,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++
 
-![](/public/banner/res.png)
+![](/banner/res.png)
 ### Resources
 
 +++ Assets
@@ -2331,7 +2331,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++
 
-![](/public/banner/tools.png)
+![](/banner/tools.png)
 ### Tools
 
 +++ Software
@@ -2370,7 +2370,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 Everyone has to let off some steam once in a while, we don't judge.
 
 
-![](/public/banner/sites.png)
+![](/banner/sites.png)
 ### Websites
 
 
@@ -2441,7 +2441,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 +++
 
-![](/public/banner/software.png)
+![](/banner/software.png)
 ### Software
 
 +++ Android
@@ -2478,18 +2478,18 @@ Everyone has to let off some steam once in a while, we don't judge.
 +++
 
 
-![](/public/banner/others.png)
+![](/banner/others.png)
 
 ### Others
 +++ Scripts
-- E-HENTAI-VIEW-ENHANCE [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
-- Eza's Image Glutton [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
-- Image Board Enhancer [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
-- Let's panda! [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
-- MALSync Adult [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- Manga Loader NSFW [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
-- Manga OnlineViewer [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
-- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
+- E-HENTAI-VIEW-ENHANCE [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
+- Eza's Image Glutton [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
+- Image Board Enhancer [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
+- Let's panda! [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
+- MALSync Adult [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+- Manga Loader NSFW [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
+- Manga OnlineViewer [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" target="blank" icon="/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper)
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 +++ Misc

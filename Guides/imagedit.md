@@ -3,10 +3,10 @@ title: Manga Image Editing
 author:  
   name: "Oakminati"
   link: https://nyaa.si/user/Oakminati
-  avatar: /public/pfp/oak.png
+  avatar: /pfp/oak.png
 ---
 
-![](/public/thumb/imgedit.png)
+![](/thumb/imgedit.png)
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.
 
@@ -17,7 +17,7 @@ One can simple denoise pages using waifu2x, which in contradiction is not only u
 
 Using the `2-D Illust (CUnet Model)` on `Level 2 Denoise Only` and `Use TTA Mode`  unchecked is generally "good enough" for denoising on low to mid machines.
 
-![generic denoising](/public/ss/waifu.jpg)
+![generic denoising](/ss/waifu.jpg)
 
 Under processing Speed Settings it is recommended to leave the Split Size on default, unless you are getting weird/incorrect outputs which you might need to adjust this then. You can increase the Batch Size if your GPU can handle more load to process the splits parallel to speed up the denoising.
 
@@ -47,7 +47,7 @@ The command (CLI) to use with ImageMagic to batch process all images inside the 
 
 Leveling images would only be required when blacks ain't actual black, and after grayscaling it would look a bit washed. Before grayscaling it can even have a hue or colored tint.
 
-![leveling example](/public/ss/scaling.png)
+![leveling example](/ss/scaling.png)
 
 #### Stretching
 

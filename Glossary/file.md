@@ -12,7 +12,7 @@ Standard file naming scheme for Anime & Manga file.
 - **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
 ===
 
-![](/public/glossary/file/af.png)
+![](/glossary/file/af.png)
 ## Anime
 
 #### Release group
@@ -54,7 +54,7 @@ A unique string of letters and numbers that’s calculated for each file, used t
 The container used for the video file, with the most widely used one today being **MKV**, for the ability to put miltiple audio/subtitle tracks in one video file. The most popular one in the past was **MP4**, focused on being compatible with a wide range of devices, but only being able to have burned-in hardsubs.
 
 
-![](/public/glossary/file/mf.png)
+![](/glossary/file/mf.png)
 ## Manga
 
 #### Publisher

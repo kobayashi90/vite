@@ -11,7 +11,7 @@ order: 800
 Otaku resources for other languages/regions.
 
 
-![](/public/banner/anime.png)
+![](/banner/anime.png)
 ## Anime
 
 
@@ -175,7 +175,7 @@ Otaku resources for other languages/regions.
 
 
 
-![](/public/banner/manga.png)
+![](/banner/manga.png)
 ## Manga
 
 
@@ -242,61 +242,61 @@ Otaku resources for other languages/regions.
 
 
 
-![](/public/banner/others.png)
+![](/banner/others.png)
 ## Others
 
 ### Websites
-- [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/public/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
-- [Annict](https://annict.com/) [!badge variant="ghost" icon="/public/icon/jp.png" text="JP"]
-- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/public/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"]
-- [EroGamescape](https://erogamescape.org/) [!badge variant="dark" target="blank" text="EN Guide"](https://www.youtube.com/watch?v=oPIWgXDllzQ){target="_blank"} [!badge variant="ghost" icon="/public/icon/jp.png" text="JP"] [!badge variant="ghost" size="xs" text="Tracker"]
-- [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/public/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
-- [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
+- [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
+- [Annict](https://annict.com/) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
+- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"]
+- [EroGamescape](https://erogamescape.org/) [!badge variant="dark" target="blank" text="EN Guide"](https://www.youtube.com/watch?v=oPIWgXDllzQ){target="_blank"} [!badge variant="ghost" icon="/icon/jp.png" text="JP"] [!badge variant="ghost" size="xs" text="Tracker"]
+- [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
+- [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
 
 
 ### Software
 
 #### Apps
-- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/public/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
-- [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
-- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
-- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Manga"]
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
-- [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
+- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
+- [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
+- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
+- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Manga"]
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
+- [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
 
 === Multi
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"}
 - [Aniyomi](https://github.com/jmir1/aniyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"]
-- Saikou [!badge variant="ghost" icon="/public/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" icon="/public/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano){target="_blank"} [!badge variant="ghost" icon="/public/icon/spain.png" text="ES"](https://github.com/Diegopyl1209/saikouSP){target="_blank"} [!badge variant="ghost" icon="/public/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN){target="_blank"}
+- Saikou [!badge variant="ghost" icon="/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" icon="/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano){target="_blank"} [!badge variant="ghost" icon="/icon/spain.png" text="ES"](https://github.com/Diegopyl1209/saikouSP){target="_blank"} [!badge variant="ghost" icon="/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN){target="_blank"}
 
 ===
 
 #### Windows / Linux / macOS
-- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
-- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
-- [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/public/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
-- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/public/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
+- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
+- [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
+- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
 
 ### Add-ons
 
 #### Apps
-- [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/public/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/public/icon/andy.png" text="Android"]
+- [Bangumi](https://github.com/czy0729/Bangumi)  [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" icon="/icon/apple.png" size="xs" text="Apple"] [!badge variant="ghost" size="xs" icon="/icon/andy.png" text="Android"]
 
 #### Extension
-- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/public/icon/crm.svg" text="Chrome"]
+- [Shikimorist](https://github.com/Hokid/shikimorist) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" icon="/icon/crm.svg" text="Chrome"]
 
 #### Script
-- [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]
-- [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B)  [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]
-- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"]
+- [Anilist Chinese](https://github.com/soruly/anilist-chinese)  [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]
+- [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B)  [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]
+- [Watch and download on Shikimori](https://github.com/Malanavi/Watch-and-download-on-Shikimori) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"]
 
 ### Brewing
 
 #### Website
-- [ANIFOX](https://anifox.club/anime) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX){target="_blank"} [!badge variant="ghost" icon="/public/icon/russia.png" size="xs" text="RU"]
+- [ANIFOX](https://anifox.club/anime) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/YockyMai/ANIFOX){target="_blank"} [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"]
 
 #### Apps
-- [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]
-- [Miru App](https://github.com/miru-project/miru-app) [!badge variant="ghost" size="xs" icon="/public/icon/cn.png" text="CN"]
+- [Neko Anime](https://github.com/xioneko/neko-anime) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]
+- [Miru App](https://github.com/miru-project/miru-app) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]

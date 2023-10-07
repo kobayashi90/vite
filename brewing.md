@@ -9,7 +9,7 @@ description: Cool projects under development.
 
 Cool prospective projects under works worth looking into, or maybe contributing too!
 
-![](/static/banner/sites.png)
+![](/banner/sites.png)
 
 ## Websites
 
@@ -25,7 +25,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 - [Tankobon](https://tankobon.net/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon){target="\_blank"}
 
-![](/static/banner/software.png)
+![](/banner/software.png)
 
 ## Software
 
@@ -61,7 +61,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 #### Miscellaneous
 
-- [Kurozora](https://kurozora.app/welcome) [!badge variant="dark" target="blank" icon="/static/icon/apple.png" text="iOS"](https://github.com/Kurozora/kurozora-app){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="\_blank"} [!badge variant="dark" target="blank" icon="/static/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot){target="\_blank"}
+- [Kurozora](https://kurozora.app/welcome) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://github.com/Kurozora/kurozora-app){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot){target="\_blank"}
 
 ### macOS
 

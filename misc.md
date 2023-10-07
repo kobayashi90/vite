@@ -11,7 +11,7 @@ icon: ":card_file_box:"
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 
 
-![](/public/banner/info.png)
+![](/banner/info.png)
 ## Info
 
 ### Database & Tracker
@@ -46,7 +46,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) [!button target="blank" variant="primary" size="xs" icon="/public/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
+- [Sneedex](https://sneedex.moe/) [!button target="blank" variant="primary" size="xs" icon="/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -84,7 +84,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Info
 
-- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/public/icon/jp.png" text="JP"]
+- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
@@ -110,7 +110,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/illust.png)
+![](/banner/illust.png)
 ## Illustrations
 - [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
 - [Anime Pictures](https://anime-pictures.net/)
@@ -123,7 +123,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
 - [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
 
-![](/public/banner/jp.png)
+![](/banner/jp.png)
 ## Japan
 +++ Culture & History
 
@@ -262,7 +262,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 > You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/){target="_blank"}, [**PDF Drive**](https://www.pdfdrive.com/){target="_blank"} & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106){target="_blank"} to download books.
 
-![](/public/banner/others.png)
+![](/banner/others.png)
 ## Others
 
 +++ Recommendations
@@ -338,7 +338,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/tools.png)
+![](/banner/tools.png)
 ## Tools
 
 +++ Analysis
@@ -368,7 +368,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++
 
 
-![](/public/banner/vt2.png)
+![](/banner/vt2.png)
 ## VTuber
 
 +++ General
@@ -490,7 +490,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [JQHN](https://twitter.com/JQHNHARQLD)
 +++
 
-![](/public/banner/random.png)
+![](/banner/random.png)
 ## Random
 
 +++ Drawing
