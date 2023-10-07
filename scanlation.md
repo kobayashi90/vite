@@ -9,7 +9,7 @@ description: Guides and resources for scanlation.
 
 Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
 
-![](/static/banner/comms.png)
+![](/public/banner/comms.png)
 
 ## Communities
 
@@ -18,7 +18,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [Manga Helpers](https://mangahelpers.com/)
 - [Font recommendations](https://discord.gg/kgZ4MXgzpx)
 
-![](/static/banner/raw.png)
+![](/public/banner/raw.png)
 
 ## Raw
 
@@ -52,7 +52,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++
 
-![](/static/banner/res.png)
+![](/public/banner/res.png)
 
 ## Resources
 
@@ -90,7 +90,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++
 
-![](/static/banner/tools.png)
+![](/public/banner/tools.png)
 
 ## Tools
 

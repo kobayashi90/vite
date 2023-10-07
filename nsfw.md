@@ -10,7 +10,7 @@ icon: ":underage:"
 Everyone has to let off some steam once in a while, we don't judge.
 
 
-![](/static/banner/sites.png)
+![](/public/banner/sites.png)
 ## Websites
 
 
@@ -81,7 +81,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 +++
 
-![](/static/banner/software.png)
+![](/public/banner/software.png)
 ## Software
 
 +++ Android
@@ -118,18 +118,18 @@ Everyone has to let off some steam once in a while, we don't judge.
 +++
 
 
-![](/static/banner/others.png)
+![](/public/banner/others.png)
 
 ## Others
 +++ Scripts
-- E-HENTAI-VIEW-ENHANCE [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
-- Eza's Image Glutton [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
-- Image Board Enhancer [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
-- Let's panda! [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
-- MALSync Adult [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
-- Manga Loader NSFW [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
-- Manga OnlineViewer [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
-- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" target="blank" icon="/static/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper){target="_blank"}
+- E-HENTAI-VIEW-ENHANCE [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance)
+- Eza's Image Glutton [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton)
+- Image Board Enhancer [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more)
+- Let's panda! [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/33979-let-s-panda)
+- MALSync Adult [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/387981-mal-sync-adult-fatexxxblood-edition)
+- Manga Loader NSFW [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/12657-manga-loader-nsfw)
+- Manga OnlineViewer [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/1319-manga-onlineviewer)
+- [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) [!badge variant="dark" target="blank" icon="/public/icon/fork.png" text="Sleezy"](https://sleazyfork.org/en/scripts/375992-nhentai-helper){target="_blank"}
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
 +++ Misc

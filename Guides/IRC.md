@@ -62,12 +62,12 @@ More clients [**here.**](https://ircv3.net/software/clients){target="_blank"}
 1. Click on the ℹ️ button
 2. Join the server and the channel of the bot
 3. copy and send the bot command in the channel
-    ![XDCC EU](/static/ss/irc/xdcceu.png)
+    ![XDCC EU](/public/ss/irc/xdcceu.png)
 !!!
 !!!info SunXDCC
 1. Join the server and the channel of the bot. 
 2. Make the bot command according to the standard form. For this screenshot the bot command will be `/msg [FutureBot]-[C21] xdcc send #530`
-	![SunXDCC](/static/ss/irc/sunxdcc.png)
+	![SunXDCC](/public/ss/irc/sunxdcc.png)
 !!!
 
 ## Batch DL
