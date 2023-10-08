@@ -24,9 +24,9 @@ import Credits from './.vitepress/components/Credits.vue'
   [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
 - Ninomae Ina'nis's back by [Himeliofon](https://twitter.com/hmlf_/status/1581015485524545536)
 - Other icons are from [Octicons](https://primer.github.io/octicons/),
-  [Flaticon](https://www.flaticon.com/){target="\_blank"},
-  [SVGRepo](https://www.svgrepo.com/){target="\_blank"},
-  [Mangadex](https://mangadex.org/){target="\_blank"}
+  [Flaticon](https://www.flaticon.com/),
+  [SVGRepo](https://www.svgrepo.com/),
+  [Mangadex](https://mangadex.org/)
 
 ## Glossary Credits
 

@@ -118,10 +118,10 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Manga, Anime, OST & Others
-- [CDJapan](https://www.cdjapan.co.jp/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="LN" />  <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
-- [Play-Asia](https://www.play-asia.com/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
-- [HMV & Books](https://www.hmv.co.jp/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
-- [Qobuz](https://www.qobuz.com/us-en/shop) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
-- [Ototoy](https://ototoy.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Physical" />
-- [Mora](https://mora.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
-- [Recochoku](https://recochoku.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
+- [CDJapan](https://www.cdjapan.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="LN" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [Play-Asia](https://www.play-asia.com/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [HMV & Books](https://www.hmv.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [Qobuz](https://www.qobuz.com/us-en/shop) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
+- [Ototoy](https://ototoy.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Physical" />
+- [Mora](https://mora.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
+- [Recochoku](https://recochoku.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
