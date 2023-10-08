@@ -1,8 +1,8 @@
 // https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
-import Theme from 'vitepress/theme'
-import './style.css'
-import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
+import { h } from "vue";
+import Theme from "vitepress/theme";
+import "./style.css";
+import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import "uno.css";
 
 export default {
@@ -10,9 +10,9 @@ export default {
   Layout: () => {
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
+    });
   },
   enhanceApp({ app, router, siteData }) {
-    enhanceAppWithTabs(app)
-  }
-}
+    enhanceAppWithTabs(app);
+  },
+};

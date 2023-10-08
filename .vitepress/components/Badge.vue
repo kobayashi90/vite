@@ -10,12 +10,7 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <component
-    :is="link ? 'a' : 'span'"
-    class="VPBadge"
-    :class="type"
-    :href="link"
-  >
+  <component :is="link ? 'a' : 'span'" class="VPBadge" :class="type" :href="link">
     <slot>{{ text }}</slot>
   </component>
 </template>
