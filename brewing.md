@@ -15,15 +15,15 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 ### Manga
 
-- [Atsumaru](https://atsu.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru){target="\_blank"} [!badge variant="ghost" size="xs" text="Mangasee"]
+- [Atsumaru](https://atsu.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
 
 ### Anime
 
-- [CoreProject](https://coreproject.moe/anime) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/baseplate-admin/CoreProject){target="\_blank"}
+- [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
 
 ### Miscellaneous
 
-- [Tankobon](https://tankobon.net/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/crxssed7/tankobon){target="\_blank"}
+- [Tankobon](https://tankobon.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
 
 ![](/banner/software.png)
 
@@ -40,7 +40,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 #### Manga
 
-- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://atsumeru.xyz/){target="\_blank"}
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="globe" text="Web" link="https://atsumeru.xyz/" />
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
@@ -61,7 +61,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 #### Miscellaneous
 
-- [Kurozora](https://kurozora.app/welcome) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://github.com/Kurozora/kurozora-app){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://github.com/Kurozora/kurozora-android){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/ff.webp" text="Firefox"](https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/){target="\_blank"} [!badge variant="dark" target="blank" icon="/icon/discord.svg" text="Discord"](https://github.com/Kurozora/kurozora-discord-bot){target="\_blank"}
+- [Kurozora](https://kurozora.app/welcome) <Badge type="dark" icon="/icon/apple.png" text="iOS" link="https://github.com/Kurozora/kurozora-app" /><Badge type="dark" icon="/icon/andy.png" text="Android" link="https://github.com/Kurozora/kurozora-android" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" /><Badge type="dark" icon="/icon/discord.svg" text="Discord" link="https://github.com/Kurozora/kurozora-discord-bot" />
 
 ### macOS
 

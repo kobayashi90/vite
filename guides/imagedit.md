@@ -30,9 +30,9 @@ On a final note, it is recommended to have the Output Extension set to PNG as th
 ### Tools
 
 The following tools would be used for any kind of grayscaling, leveling, and lastly lossless optimizing;
-- [ImageMagic](https://imagemagick.org/index.php){target="_blank"}
-- [Pingo](https://css-ig.net/pingo){target="_blank"}
-- [imgdanke](https://github.com/DrWhoCares/imgdanke){target="_blank"}
+- [ImageMagic](https://imagemagick.org/index.php)
+- [Pingo](https://css-ig.net/pingo)
+- [imgdanke](https://github.com/DrWhoCares/imgdanke)
     - optional for GUI but does not support Pingo v1+ at the moment.
 
 ### Grayscaling

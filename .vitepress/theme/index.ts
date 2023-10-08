@@ -7,7 +7,7 @@ import "uno.css";
 
 export default {
   extends: Theme,
-  Layout: () => {
+  Layout: () =>{
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });

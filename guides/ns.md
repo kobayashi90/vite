@@ -1,7 +1,7 @@
 ---
 title: Network Stream
 ---
-![](https://cdn.apollo.moe/img/nsw.png){target="_blank"}
+![](https://cdn.apollo.moe/img/nsw.png)
 
 # Network Stream
 
@@ -12,9 +12,9 @@ The basic process:
 1. Copy the download link
 2. Put it in the stream button
 
-> You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/){target="_blank"}. You can get more good DDL sites [**here**](/Websites.md/#direct-download).
+>You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/). You can get more good DDL sites [**here**](/Websites.md/#direct-download).
 
-[!embed text="Network streaming DDL"](https://youtu.be/1dsTb8YoNDM){target="_blank"}
+[!embed text="Network streaming DDL"](https://youtu.be/1dsTb8YoNDM)
 
 
 ## IRC
@@ -22,6 +22,6 @@ Read the [full guide](/Guides/IRC.md) on IRC. When you start the download, a fil
 
 
 ## Torrent
-The same procedure as DDL network streaming, you have to use magnet link instead. For the software, we are using [Webtorrent](https://webtorrent.io/desktop/){target="_blank"} to network streaming. If you don't like the internal player of webtorrent, you can choose external player in the webtorrent settings.
+The same procedure as DDL network streaming, you have to use magnet link instead. For the software, we are using [Webtorrent](https://webtorrent.io/desktop/) to network streaming. If you don't like the internal player of webtorrent, you can choose external player in the webtorrent settings.
 
-[!embed text="Network streaming Torrent"](https://youtu.be/abkKsVsyRdE){target="_blank"}
+[!embed text="Network streaming Torrent"](https://youtu.be/abkKsVsyRdE)

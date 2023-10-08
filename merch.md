@@ -88,7 +88,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
 - [Gundam Forums](https://www.gundamforums.com/)
 - [Gunpla](https://www.reddit.com/r/Gunpla)
-- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) [!badge variant="danger" size="xs" text="R+"]
+- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) <Badge type="info" text="R+" />
 
 ## Retailers
 - [AmiAmi](https://www.amiami.com)
@@ -97,7 +97,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Dekai Anime](https://www.dekaianime.com/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
-- [FAKKU Merch](https://merch.fakku.net/) [!badge variant="danger" size="xs" text="R+"]
+- [FAKKU Merch](https://merch.fakku.net/) <Badge type="info" text="R+" />
 - [Mandarake](https://order.mandarake.co.jp/order/)
 - [Otaku Mode](https://otakumode.com/)
 
@@ -118,10 +118,10 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ## Manga, Anime, OST & Others
-- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [HMV & Books](https://www.hmv.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+- [CDJapan](https://www.cdjapan.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="LN" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [Play-Asia](https://www.play-asia.com/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [HMV & Books](https://www.hmv.co.jp/) <Badge type="info" text="Manga" /><Badge type="info" text="Anime" /><Badge type="info" text="OST" /><Badge type="info" text="Merch" /><Badge type="info" text="Physical" />
+- [Qobuz](https://www.qobuz.com/us-en/shop) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
+- [Ototoy](https://ototoy.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Physical" />
+- [Mora](https://mora.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
+- [Recochoku](https://recochoku.jp/) <Badge type="info" text="OST" /><Badge type="info" text="Digital" />
