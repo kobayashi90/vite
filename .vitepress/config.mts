@@ -1,12 +1,12 @@
-import { defineConfig, loadEnv } from "vitepress";
+import { defineConfig } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { generateImages, generateMeta } from "./hooks";
 
-const env = loadEnv("", process.cwd())
-const hostname: string = env.VITE_HOSTNAME || "http://localhost:4173"
+// FIXME: remove this after we are done
+const hostname: string = "https://wvite.pages.dev" || "http://localhost:4173";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -24,10 +24,10 @@ export default defineConfig({
     ["meta", { name: "og:locale", content: "en" }],
     ["link", { rel: "icon", href: "/asset/podarufav.png" }],
   ],
-	transformHead: async (context) => generateMeta(context, hostname),
-	buildEnd: async (context) => {
-		generateImages(context)
-	},
+  transformHead: async (context) => generateMeta(context, hostname),
+  buildEnd: async (context) => {
+    generateImages(context);
+  },
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin);
