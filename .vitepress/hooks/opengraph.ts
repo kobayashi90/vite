@@ -11,10 +11,7 @@ const __fonts = resolve(__dirname, "../fonts");
 
 export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader("**/*.md", { excerpt: true }).load();
-  const template = await readFile(
-    resolve(__dirname, "../components/OgImageTemplate.vue"),
-    "utf-8",
-  );
+  const template = await readFile(resolve(__dirname, "../components/OgImageTemplate.vue"), "utf-8");
 
   const fonts: SatoriOptions["fonts"] = [
     {
@@ -77,8 +74,8 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
   const { frontmatter, url } = page;
 
   const options: SatoriOptions = {
-    width: 1200,
-    height: 628,
+    width: 1098,
+    height: 530,
     fonts,
     props: {
       title:
