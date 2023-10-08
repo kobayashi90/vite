@@ -95,12 +95,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
     - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - **Publisher**
-    - [Azuki](https://www.azuki.co/release-calendar) [!badge variant="ghost" size="xs" text="CaaS"]
+    - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
     - [Dark Horse](https://www.darkhorse.com/Manga/Upcoming)
     - [J-Novel Club](https://j-novel.club/calendar)
     - [Kodansha](https://kodansha.us/calendar/)
     - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
-    - [SuBLime](https://www.sublimemanga.com/calendar)  [!badge variant="danger" size="xs" text="R+"]
+    - [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="info" text="R+" />
     - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
     - [TITAN Comics](https://titan-comics.com/manga/)
     - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
@@ -112,16 +112,16 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ![](/banner/illust.png)
 ## Illustrations
-- [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
+- [Pixiv](https://www.pixiv.net) <Badge type="info" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} [!badge variant="danger" size="xs" text="R+"]
-- [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} <Badge type="info" text="R+" />
+- [Gelbooru](https://gelbooru.com/) <Badge type="info" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
-- [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
-- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-- [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
+- [Kona chan](https://konachan.com/) <Badge type="info" text="R+" />
+- [Safebooru](https://safebooru.org/) <Badge type="info" text="E" />
+- [Yandere](https://yande.re/post) <Badge type="info" text="R+" />
+- [Zerochan](https://www.zerochan.net/) <Badge type="info" text="R" />
+- [/w/](http://catalog.neet.tv/w/) <Badge type="info" text="R+" />
 
 ![](/banner/jp.png)
 ## Japan
@@ -182,7 +182,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
         - [Tokyojin](http://tokyojin.info/)
         - [Souda Kyoto](https://souda-kyoto.jp/index.html)
         - [Kyoto Travel](https://kyototravel.info/)
-        - [Hokkaido Guide](https://hokkaidoguide.com/) [!badge variant="ghost" size="xs" text="English"]
+        - [Hokkaido Guide](https://hokkaidoguide.com/) <Badge type="info" text="English" />
 
 +++ Cooking
 
@@ -342,13 +342,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Tools
 
 +++ Analysis
-- [anime.plus](https://anime.plus/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
-- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats) [!badge variant="ghost" size="xs" text="AL"]
-- [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
+- [anime.plus](https://anime.plus/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} <Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats) <Badge type="info" text="AL" />
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} <Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
+- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" />  <Badge type="info" text="AL" />
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/)
@@ -373,24 +373,24 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
-- [Holodex](https://holodex.net/) [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} [!badge variant="ghost" size="xs" text="Frontend"]
-- [Good VTuber Subs](https://goodvtubersubs.com/) [!badge variant="ghost" size="xs" text="DB"]
-- [VChama](https://vchama.xyz) [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) [!badge variant="ghost" size="xs" text="DB"]
-- [VSTATS](https://www.vstats.jp/) [!badge variant="ghost" size="xs" text="Stats"]
-- [Hololist](https://hololist.net/) [!badge variant="ghost" size="xs" text="DB"]
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [vTubie](https://vtubie.com/) [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Hololyzer](https://www.hololyzer.net/) [!badge variant="ghost" size="xs" text="Schedule"]
+- [Holodex](https://holodex.net/) [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} <Badge type="info" text="Frontend" />
+- [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
+- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
+- [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
+- [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /> <Badge type="info" text="Schedule" />
+- [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
 +++ Hololive
 
-- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) [!badge variant="ghost" size="xs" text="DB"]
-- [HoloStats](https://holo.poi.cat/youtube-stream) [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives){target="_blank"} [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="News"]
-- [Holotracker](https://trackholo.live/en/) [!badge variant="ghost" size="xs" text="Stats"]
-- [hololive TODAY](https://hololivetoday.com/) [!badge variant="ghost" size="xs" text="News"]
-- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) [!badge variant="ghost" size="xs" text="DB"]
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
+- [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives){target="_blank"} <Badge type="info" text="DB" /> <Badge type="info" text="News" />
+- [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
+- [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
+- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
 
 +++ Youtube
@@ -444,7 +444,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/)
     - Add-On for VTubeStudio to improve tracking
     - Costs 8,19€ (one-time)
-    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) [!badge variant="ghost" size="xs" text="iOS"], [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} [!badge variant="ghost" size="xs" text="iOS"], [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} [!badge variant="ghost" size="xs" text="Android"]
+    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} <Badge type="info" text="Android" />
 
 #### 3D
 - [**VRoidStudio**](https://vroid.com/en/studio)

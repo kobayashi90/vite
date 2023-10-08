@@ -46,13 +46,13 @@ Otaku resources for other languages/regions.
 - [XG Cartoon](https://www.xgcartoon.com/)
 - [Yinghuacd](http://www.yinghuacd.com/)
 - [ysgc](https://www.ysgc.vip/vodtype/4.html)
-- [Bangumi](https://bangumi.moe/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [DMHY](https://dmhy.org/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [Mikanani](https://mikanani.me/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [MioBT](http://www.miobt.com/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [ACG](https://acg.rip/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [ACGNX](https://share.acgnx.se/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Torrent"]
-- [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) [!badge variant="ghost" size="xs" text="Misc"]
+- [Bangumi](https://bangumi.moe/) <Badge type="info" text="Torrent" />
+- [DMHY](https://dmhy.org/) <Badge type="info" text="Torrent" />
+- [Mikanani](https://mikanani.me/) <Badge type="info" text="Torrent" />
+- [MioBT](http://www.miobt.com/) <Badge type="info" text="Torrent" />
+- [ACG](https://acg.rip/) <Badge type="info" text="Torrent" />
+- [ACGNX](https://share.acgnx.se/) <Badge type="info" text="DDL" /> <Badge type="info" text="Torrent" />
+- [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList) <Badge type="info" text="Misc" />
 
 #### French
 - [Anime vostfr](https://animevostfr.tv/)
@@ -69,9 +69,9 @@ Otaku resources for other languages/regions.
 - [Anime Archive](https://anime-archive.com/)
 - [AniWorld](https://aniworld.to/)
 - [Aniflix](https://aniflix.cc/)
-- [Anime Loads](https://www.anime-loads.org/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
-- [Animes](https://www.animes.so/) [!badge variant="ghost" size="xs" text="DDL"]
-- [AnimeWorld](https://animeworld.cx/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [Anime Loads](https://www.anime-loads.org/) <Badge type="info" text="Stream" /> <Badge type="info" text="DDL" /> 
+- [Animes](https://www.animes.so/) <Badge type="info" text="DDL" />
+- [AnimeWorld](https://animeworld.cx/) <Badge type="info" text="Torrent" />
 
 #### Greek
 - [An1me](https://an1me.to/) (Adblock filter `an1me.to##+js(acis, Math)`)
@@ -82,9 +82,9 @@ Otaku resources for other languages/regions.
 - [Animesaga](https://www.animesaga.in/)
 - [ToonsHub](https://www.toonshub.xyz/)
 - [ToonStream](https://toonstream.in/)
-- [Anime Academy](https://animeacademy.in/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Toonworld4all](https://toonworld4all.me/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Toonworld Tamil](https://toonworldtamil.com) [!badge variant="ghost" size="xs" text="DDL"]
+- [Anime Academy](https://animeacademy.in/) <Badge type="info" text="DDL" />
+- [Toonworld4all](https://toonworld4all.me/) <Badge type="info" text="DDL" />
+- [Toonworld Tamil](https://toonworldtamil.com) <Badge type="info" text="DDL" />
 
 
 #### Indonesian
@@ -97,8 +97,8 @@ Otaku resources for other languages/regions.
 - [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Kusonime](https://kusonime.com/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Meownime](https://m.meownime.ai/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Kusonime](https://kusonime.com/) <Badge type="info" text="DDL" />
+- [Meownime](https://m.meownime.ai/) <Badge type="info" text="DDL" />
 
 #### Italian
 - [Anime Saturn](https://www.animesaturn.tv/)
@@ -124,8 +124,8 @@ Otaku resources for other languages/regions.
 - [Anime Online HD](https://animesonlinehd.vip/)
 - [Animes Zone](https://animeszone.net/)
 - [Better Anime](https://betteranime.net/)
-- [Anime Kage](https://ak560.anime-kage.eu/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Kero Seed](https://www.keroseed.com/)  [!badge variant="ghost" size="xs" text="Torrent"]
+- [Anime Kage](https://ak560.anime-kage.eu/) <Badge type="info" text="DDL" />
+- [Kero Seed](https://www.keroseed.com/)  <Badge type="info" text="Torrent" />
 
 #### Romanian
 - [AnimeAZU](https://www.animeazu.net/)
@@ -135,18 +135,18 @@ Otaku resources for other languages/regions.
 - [Akari Anime](https://akari-anime.com/)
 - [Anidub](https://anidub.live/)
 - [Anifilm](https://anifilm.net/)
-- [Anilibria](https://anilibria.life/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Anime Buff](https://animebuff.ru/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Anime Stars](https://animestars.org/) [!badge variant="ghost" size="xs" text="Sub"]
-- [AnimeGO](https://animego.org/) [!badge variant="ghost" size="xs" text="Sub"]
+- [Anilibria](https://anilibria.life/) <Badge type="info" text="Sub" />
+- [Anime Buff](https://animebuff.ru/) <Badge type="info" text="Sub" />
+- [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
+- [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
 - [Averlist](https://averlist.xyz/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/Averito/Averlist){target="_blank"}
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
-- [Sovet Romantica](https://sovetromantica.com/) [!badge variant="ghost" size="xs" text="Sub"]
-- [Tunime](https://an0ncer.github.io/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io){target="_blank"} [!badge variant="ghost" size="xs" text="Sub"]
+- [Sovet Romantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/AN0NCER/an0ncer.github.io){target="_blank"} <Badge type="info" text="Sub" />
 - [Yummy Anime](https://yummyanime.club/)
-- [Anime Slayer](http://animelayer.ru/) [!badge variant="ghost" size="xs" text="Torrent"]
-- [Dark Libria](https://darklibria.it/) [!badge variant="ghost" size="xs" text="Stream"] [!badge variant="ghost" size="xs" text="DDL"] 
+- [Anime Slayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
+- [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /> <Badge type="info" text="DDL" /> 
 
 
 #### Spanish
@@ -156,11 +156,11 @@ Otaku resources for other languages/regions.
 - [Mundo Donghua](https://www.mundodonghua.com/)
 - [OtakusTV](https://www1.otakustv.com/)
 - [Tio Donghua](https://tiodonghua.com/)
-- [Sphin X Anime](https://sphinxanime.com/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Japan Paw](https://japan-paw.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Ivanime](https://www.ivanime.com/) [!badge variant="ghost" size="xs" text="DDL"]
-- [DW Anime](https://dw-anime.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [Frozen Layer](https://www.frozen-layer.com/) [!badge variant="ghost" size="xs" text="Torrent"]
+- [Sphin X Anime](https://sphinxanime.com/) <Badge type="info" text="DDL" />
+- [Japan Paw](https://japan-paw.net/) <Badge type="info" text="DDL" />
+- [Ivanime](https://www.ivanime.com/) <Badge type="info" text="DDL" />
+- [DW Anime](https://dw-anime.net/) <Badge type="info" text="DDL" />
+- [Frozen Layer](https://www.frozen-layer.com/) <Badge type="info" text="Torrent" />
 
 #### Turkish
 - [Anizm](https://anizm.net/)
@@ -246,38 +246,38 @@ Otaku resources for other languages/regions.
 ## Others
 
 ### Websites
-- [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
+- [Animexx](https://www.animexx.de/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] <Badge type="info" text="Community" />
 - [Annict](https://annict.com/) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
-- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/icon/cn.png" size="xs" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"]
-- [EroGamescape](https://erogamescape.org/) [!badge variant="dark" target="blank" text="EN Guide"](https://www.youtube.com/watch?v=oPIWgXDllzQ){target="_blank"} [!badge variant="ghost" icon="/icon/jp.png" text="JP"] [!badge variant="ghost" size="xs" text="Tracker"]
-- [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] [!badge variant="ghost" size="xs" text="Community"]
-- [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Tracker"]
+- [Bangumi](https://bangumi.tv/) [!badge variant="ghost" icon="/icon/cn.png" size="xs" text="CN"] <Badge type="info" text="Tracker" />
+- [EroGamescape](https://erogamescape.org/) [!badge variant="dark" target="blank" text="EN Guide"](https://www.youtube.com/watch?v=oPIWgXDllzQ){target="_blank"} [!badge variant="ghost" icon="/icon/jp.png" text="JP"] <Badge type="info" text="Tracker" />
+- [Proxer](https://proxer.me/) [!badge variant="ghost" icon="/icon/germany.png" size="xs" text="DE"] <Badge type="info" text="Community" />
+- [Shikimori](https://shikimori.one/) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] <Badge type="info" text="Tracker" />
 
 
 ### Software
 
 #### Apps
-- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/icon/vietnam.png" text="VN"] [!badge variant="ghost" size="xs" text="Stream"]
-- [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Freemium"]
-- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Tracker"]
-- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  [!badge variant="ghost" size="xs" text="Manga"]
-- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Tracker"] 
-- [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Stream"]
+- [Anime VSub](https://github.com/anime-vsub/app) [!badge variant="ghost" size="xs" icon="/icon/vietnam.png" text="VN"] <Badge type="info" text="Stream" />
+- [AnilabX](https://github.com/CrazyXacker/anilabx) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] <Badge type="info" text="Freemium" />
+- [Bangumi MX](http://bgmx.mysxl.cn/) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  <Badge type="info" text="Tracker" />
+- [Copy MangaX](https://github.com/CrowForKotlin/CopyMangaX) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"]  <Badge type="info" text="Manga" />
+- [Easy Bangumi](https://github.com/easybangumiorg/EasyBangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] <Badge type="info" text="Tracker" /> 
+- [Mediabox](https://github.com/RyensX/MediaBox) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] <Badge type="info" text="Stream" />
 
 === Multi
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"}
-- [Aniyomi](https://github.com/jmir1/aniyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/){target="_blank"} [!badge variant="ghost" size="xs" text="Manga"]
+- [Aniyomi](https://github.com/jmir1/aniyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/){target="_blank"} <Badge type="info" text="Manga" />
 - Saikou [!badge variant="ghost" icon="/icon/id.png" text="ID"](https://github.com/saikou-app/saikou-in/) [!badge variant="ghost" icon="/icon/italy.png" text="IT"](https://github.com/antonydp/saikou-italiano){target="_blank"} [!badge variant="ghost" icon="/icon/spain.png" text="ES"](https://github.com/Diegopyl1209/saikouSP){target="_blank"} [!badge variant="ghost" icon="/icon/vietnam.png" text="VN"](https://github.com/hoangvu12/SaikouVN){target="_blank"}
 
 ===
 
 #### Windows / Linux / macOS
-- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] [!badge variant="ghost" size="xs" text="Stream"]
-- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] [!badge variant="ghost" size="xs" text=" Downloader"]
-- [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/icon/france.png" text="FR"] [!badge variant="ghost" size="xs" text=" Downloader"] [!badge variant="ghost" size="xs" text=" Stream"]
-- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/icon/italy.png" text="IT"] [!badge variant="ghost" size="xs" text="Downloader"]
+- [Aniship](https://github.com/progzone122/AniShip) [!badge variant="ghost" icon="/icon/russia.png" size="xs" text="RU"] <Badge type="info" text="Stream" />
+- [Auto Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] <Badge type="info" text="Downloader" />
+- [Bilibili manga downloader](https://github.com/Zeal-L/BiliBili-Manga-Downloader) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] <Badge type="info" text="Downloader" />
+- [JProxy](https://github.com/LuckyPuppy514/jproxy) [!badge variant="ghost" size="xs" icon="/icon/cn.png" text="CN"] <Badge type="info" text=" Downloader" />
+- [Otakuapuri](https://github.com/Dorian25/otakuapuri) [!badge variant="ghost" size="xs" icon="/icon/france.png" text="FR"] <Badge type="info" text=" Downloader" /> <Badge type="info" text=" Stream" />
+- [Sonarr Anime Downloader](https://github.com/MainKronos/Sonarr-AnimeDownloader) [!badge variant="ghost" size="xs" icon="/icon/italy.png" text="IT"] <Badge type="info" text="Downloader" />
 
 ### Add-ons
 

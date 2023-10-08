@@ -17,14 +17,14 @@ Everyone has to let off some steam once in a while, we don't judge.
 +++ Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) [!badge variant="ghost" size="xs" text="720p"]
+- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/) [!badge variant="ghost" size="xs" text="4K"]
+- [Hentai Stream](https://hstream.moe/) <Badge type="info" text="4K" />
 - [Hentai World](https://hentaiworld.tv/)
-- [Mucho Hentai](https://muchohentai.com/) [!badge variant="ghost" size="xs" text="Schedule"] [!badge variant="ghost" size="xs" text="PV"]
-- [Oppai](https://oppai.stream/) [!badge variant="ghost" size="xs" text="4K"]
+- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
+- [Oppai](https://oppai.stream/) <Badge type="info" text="4K" />
 - [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
@@ -108,7 +108,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hakuneko.download/){target="_blank"}
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://doujindownloader.com/){target="_blank"}
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Anime" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
 - [nHentai](https://github.com/RicterZ/nhentai)
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)

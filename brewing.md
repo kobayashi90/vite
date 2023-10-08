@@ -15,7 +15,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 ### Manga
 
-- [Atsumaru](https://atsu.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru){target="\_blank"} [!badge variant="ghost" size="xs" text="Mangasee"]
+- [Atsumaru](https://atsu.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheUndo/Atsumaru){target="\_blank"} <Badge type="info" text="Mangasee" />
 
 ### Anime
 

@@ -16,8 +16,8 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Subtracks](https://github.com/austinried/subtracks#readme){target="_blank"}
 - [substreamer](https://substreamerapp.com/){target="_blank"}
 - [Ultrasonic](https://ultrasonic.gitlab.io/){target="_blank"}
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"} [!badge variant="warning" size="xs" text="Paid"]
-- [Symfonium](https://symfonium.app/){target="_blank"} [!badge variant="warning" size="xs" text="Paid"]
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"} <Badge type="info" text="Paid" />
+- [Symfonium](https://symfonium.app/){target="_blank"} <Badge type="info" text="Paid" />
 
 +++ iOS
 
@@ -29,20 +29,20 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 
 +++ Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Sublime Music](https://sublimemusic.app/){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"]
-- [Supersonic](https://github.com/dweymouth/supersonic){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Submariner](https://submarinerapp.com/){target="_blank"} [!badge variant="ghost" size="xs" text="MacOS"]
-- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} [!badge variant="danger" size="xs" text="Buggy"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Sonixd](https://github.com/jeffvli/sonixd){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Sublime Music](https://sublimemusic.app/){target="_blank"} <Badge type="info" text="Linux" />
+- [Supersonic](https://github.com/dweymouth/supersonic){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Submariner](https://submarinerapp.com/){target="_blank"} <Badge type="info" text="MacOS" />
+- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} <Badge type="info" text="Buggy" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"]
-    - [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+    - [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" />
+    - [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
 
 +++ Others
 
 - **Connected Speakers**
-  - [bonob](https://github.com/simojenki/bonob#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Sonos"]
-  - [AskSonic](https://github.com/srichter/asksonic#readme){target="_blank"} [!badge variant="ghost" size="xs" text="Alexa"]
+  - [bonob](https://github.com/simojenki/bonob#readme){target="_blank"} <Badge type="info" text="Sonos" />
+  - [AskSonic](https://github.com/srichter/asksonic#readme){target="_blank"} <Badge type="info" text="Alexa" />
 - [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme){target="_blank"}
 - [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme){target="_blank"}
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme){target="_blank"}

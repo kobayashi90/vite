@@ -17,7 +17,7 @@ The most important things to get you started.
 +++ Anime
 - [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) [!badge variant="dark" target="blank" size="xs" text="formerly 9anime"]
 - [KickAssAnime](https://kickassanime.am/) (use duck or birdstream if available)
-- [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="DDL" />
 
 +++ Manga
 - [Comick](https://comick.app/home)
@@ -25,10 +25,10 @@ The most important things to get you started.
 - [Mangasee](https://mangasee123.com/) | [Atsumaru](https://atsu.moe/)
 
 +++ Music
-- [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="DDL"]
-- [SquidBoard](https://www.squid-board.org/) [!badge variant="Dark" text="Alt"](https://sqb.moe/) [!badge variant="ghost" size="xs" text="DDL"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [Anithemes.moe](https://animethemes.moe/) [!badge variant="ghost" size="xs" text="stream"]
-- [Squidify](https://www.squidify.org/) [!badge variant="ghost" size="xs" text="stream"]
+- [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="DDL" />
+- [SquidBoard](https://www.squid-board.org/) [!badge variant="Dark" text="Alt"](https://sqb.moe/) <Badge type="info" text="DDL" /> <Badge type="info" text="Needs account" />
+- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" text="stream" />
+- [Squidify](https://www.squidify.org/) <Badge type="info" text="stream" />
 
 +++ Torrent
 - [Nyaa](https://nyaa.si/)
@@ -41,55 +41,55 @@ The most important things to get you started.
 ### Software
 
 +++ Android
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/) [!badge variant="ghost" size="xs" text="Manga"]
-- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
-- [Quicknovel](https://github.com/LagradOst/QuickNovel) [!badge variant="ghost" size="xs" text="LN"]
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/) [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/) <Badge type="info" text="Manga" />
+- [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge type="info" text="Anime" /> <Badge type="info" text="Manga" />
+- [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge type="info" text="LN" />
 
 +++ iOS
-- [Aidoku](https://github.com/Aidoku/Aidoku) [!badge variant="ghost" size="xs" text="Manga"]
-- [Paperback](https://github.com/Paperback-iOS/app) [!badge variant="ghost" size="xs" text="Manga"]
-- [Anime Now](https://github.com/AnimeNow-Team/AnimeNow) [!badge variant="ghost" size="xs" text="Anime"]
+- [Aidoku](https://github.com/Aidoku/Aidoku) <Badge type="info" text="Manga" />
+- [Paperback](https://github.com/Paperback-iOS/app) <Badge type="info" text="Manga" />
+- [Anime Now](https://github.com/AnimeNow-Team/AnimeNow) <Badge type="info" text="Anime" />
 
 +++ PC
-- [Houdoku](https://github.com/xgi/houdoku) [!badge variant="ghost" size="xs" text="Manga"]
-- [CDisplayEx](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="Manga"]
-- [Miru](https://github.com/ThaUnknown/miru/) [!badge variant="ghost" size="xs" text="Anime"]
-- [Hakuneko](https://github.com/manga-download/hakuneko) [!badge variant="ghost" size="xs" text="Downloader"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="Manga"]
-- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) [!badge variant="ghost" size="xs" text="Downloader"] [!badge variant="ghost" size="xs" text="Manga"]
+- [Houdoku](https://github.com/xgi/houdoku) <Badge type="info" text="Manga" />
+- [CDisplayEx](https://www.cdisplayex.com/) <Badge type="info" text="Manga" />
+- [Miru](https://github.com/ThaUnknown/miru/) <Badge type="info" text="Anime" />
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" text="Downloader" /> <Badge type="info" text="Anime" /> <Badge type="info" text="Manga" />
+- [Free Manga Downloader 2](https://github.com/dazedcat19/FMD2) <Badge type="info" text="Downloader" /> <Badge type="info" text="Manga" />
 
 +++
 
 ### Essentials
 
 +++ Adblocker
-- [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
-- [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
-- [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="iOS"]
-- [uBlock Origin](https://ublockorigin.com/) [!badge variant="ghost" size="xs" text="Browser"]
+- [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
+- [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
+- [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="iOS" />
+- [uBlock Origin](https://ublockorigin.com/) <Badge type="info" text="Browser" />
 
 +++ Browsers
-- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) [!badge variant="ghost" size="xs" text="Android"]
-- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) [!badge variant="ghost" size="xs" text="Android"]
-- [Librewolf](https://librewolf.net/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Brave](https://brave.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Cromite](https://github.com/uazo/cromite) [!badge variant="ghost" size="xs" text="Android"]
+- [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge type="info" text="Android" />
+- [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
+- [Librewolf](https://librewolf.net/) <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Brave](https://brave.com/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" /> <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
 
 +++ Downloader
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [IDM](https://www.internetdownloadmanager.com/) [!badge variant="dark" target="blank" text="Activator"](https://massgrave.dev/idm-activation-script.html) [!badge variant="ghost" size="xs" text="Windows"]
-- [JDL](https://jdownloader.org/) [!badge variant="dark" target="blank" text="Debloat"](https://rentry.org/jdownloader2) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Nicotine+](https://nicotine-plus.org/) [!badge variant="ghost" size="xs" text="p2p"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
+- [IDM](https://www.internetdownloadmanager.com/) [!badge variant="dark" target="blank" text="Activator"](https://massgrave.dev/idm-activation-script.html) <Badge type="info" text="Windows" />
+- [JDL](https://jdownloader.org/) [!badge variant="dark" target="blank" text="Debloat"](https://rentry.org/jdownloader2) <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /> <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
 
 +++ Torrent
-- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) [!badge variant="ghost" size="xs" text="Android"]
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [qBittorrent](https://www.qbittorrent.org/) [!badge variant="dark" target="blank" text="Enhanced"](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [!badge variant="dark" target="blank" text="Dark theme"](https://github.com/maboroshin/qBittorrentDarktheme) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
-- [Transmission](https://transmissionbt.com/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [libretorrent](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent) <Badge type="info" text="Android" />
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
+- [qBittorrent](https://www.qbittorrent.org/) [!badge variant="dark" target="blank" text="Enhanced"](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [!badge variant="dark" target="blank" text="Dark theme"](https://github.com/maboroshin/qBittorrentDarktheme) <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Transmission](https://transmissionbt.com/) <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
 
 +++ VPN
-- [Mullvad](https://mullvad.net/) [!badge variant="ghost" size="xs" text="Paid"]
-- [IVPN](https://www.ivpn.net/) [!badge variant="ghost" size="xs" text="Paid"]
-- [Windscribe](https://windscribe.com/) [!badge variant="ghost" size="xs" text="Freemium"]
+- [Mullvad](https://mullvad.net/) <Badge type="info" text="Paid" />
+- [IVPN](https://www.ivpn.net/) <Badge type="info" text="Paid" />
+- [Windscribe](https://windscribe.com/) <Badge type="info" text="Freemium" />
 
 +++
 
@@ -150,13 +150,13 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 - [Nyaa](https://nyaa.si/) [!button target="blank" variant="primary" size="xs" text="Proxy 1"](https://nyaa.iss.one/)  [!button target="blank" variant="primary" size="xs" text="Proxy 2"](https://nyaa.iss.ink/)
 - [Animek](https://animek.fun/)
-- [Anime Tosho](https://animetosho.org/) [!badge variant="ghost" size="xs" text="DDL"]
+- [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
-- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [Baka BT](https://bakabt.me/) [!badge variant="ghost" size="xs" text="Private tracker"]
-- [U2](https://u2.dmhy.org/portal.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />
+- [Baka BT](https://bakabt.me/) <Badge type="info" text="Private tracker" />
+- [U2](https://u2.dmhy.org/portal.php) <Badge type="info" text="Private tracker" />
 
 ==- :bulb: Quick Tips
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
@@ -168,18 +168,18 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 ===
 
 +++ :icon-move-to-bottom: Direct Download
-- [Tokyo Insider](https://www.tokyoinsider.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Anime out](https://www.animeout.xyz/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Judas](https://rentry.org/judas-ddl) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [hi10anime](https://hi10anime.com/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="ad"]
-- [Anime Senpai](https://www.animesenpai4u.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Kayo anime](https://kayoanime.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Chauthanh](https://chauthanh.info/) [!badge variant="ghost" size="xs" text="Direct"] [!badge variant="ghost" size="xs" text="no ad"]
-- [Anime time](https://www.animetime.pw/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="ad"]
-- [RIP Crabby Anime](https://ripcrabbyanime.in/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="no ad"]
-- [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
-- [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Misc"] [!badge variant="ghost" size="xs" text="Host"]
-- [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] [!badge variant="ghost" size="xs" text="Host"]
+- [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="Direct" /> <Badge type="info" text="no ad" />
+- [Anime out](https://www.animeout.xyz/) <Badge type="info" text="Direct" /> <Badge type="info" text="no ad" />
+- [Judas](https://rentry.org/judas-ddl) <Badge type="info" text="GDrive" /> <Badge type="info" text="no ad" />
+- [hi10anime](https://hi10anime.com/) <Badge type="info" text="Direct" /> <Badge type="info" text="ad" />
+- [Anime Senpai](https://www.animesenpai4u.com/) <Badge type="info" text="GDrive" /> <Badge type="info" text="Mega" /> <Badge type="info" text="no ad" />
+- [Kayo anime](https://kayoanime.com/) <Badge type="info" text="GDrive" /> <Badge type="info" text="no ad" />
+- [Chauthanh](https://chauthanh.info/) <Badge type="info" text="Direct" /> <Badge type="info" text="no ad" />
+- [Anime time](https://www.animetime.pw/) <Badge type="info" text="GDrive" /> <Badge type="info" text="ad" />
+- [RIP Crabby Anime](https://ripcrabbyanime.in/) <Badge type="info" text="GDrive" /> <Badge type="info" text="no ad" />
+- [JPFiles](https://jpfiles.eu/) [!badge size="xs" variant="ghost" text="Blu-ray"] <Badge type="info" text="Misc" /> <Badge type="info" text="Host" />
+- [JPLearner](http://www.jplearner.to/) [!badge size="xs" variant="ghost" text="Blu-ray"] <Badge type="info" text="Misc" /> <Badge type="info" text="Host" />
+- [AnimeRSS](https://animerss.com/) [!badge size="xs" variant="ghost" text="Blu-ray"] <Badge type="info" text="Host" />
 
 > To download in Android, use [!badge variant="dark" target="blank" icon="/icon/1dm.png" text="1DM"](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [!badge variant="dark" target="blank" icon="/icon/fdm.png" text="FDM"](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) or [!badge variant="dark" target="blank" icon="/icon/adm.png" text="ADM"](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [!badge variant="dark" target="blank" icon="/icon/idm.webp" text="IDM"](https://www.internetdownloadmanager.com/), [!badge variant="dark" target="blank" icon="/icon/jdl.png" text="JDL"](https://jdownloader.org/){target="_blank"} or [!badge variant="dark" target="blank" icon="/icon/fdm.png" text="FDM"](https://www.freedownloadmanager.org/){target="_blank"}. You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html){target="_blank"} to activate IDM. Read [this guide](https://rentry.org/jdownloader2){target="_blank"} to debloat JDL.
 
@@ -266,50 +266,50 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 +++ :icon-book: Reader
 
-- [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
+- [**Mangadex**](https://mangadex.org/) <Badge type="info" text="R+" />
     - Uploads without compression
     - Best reader UI
     - Uploads from various scanlation groups
     - No official translations[^*^](https://mangadex.org/rules#content_restrictions) since it was created for fansub
     - May remove content if there is a DMCA request by the publisher or doesn't allow upload at all (e.g. One Punch-Man)
-- [**Comick**](https://comick.app/home) [!badge variant="dark" target="blank" text="Alt"](https://comick.ink/) [!badge variant="danger" size="xs" text="R+"]
+- [**Comick**](https://comick.app/home) [!badge variant="dark" target="blank" text="Alt"](https://comick.ink/) <Badge type="info" text="R+" />
     - Minimal compression
     - Aggregates from various scanlation groups
     - Has official translations
     - Reader isn't as good as mangadex
-- [**Mangasee**](https://mangasee123.com/) [!badge variant="dark" target="blank" text="Mangalife"](https://manga4life.com/) [!badge variant="dark" target="blank" text="Atsumaru"](https://atsu.moe/) [!badge variant="ghost" size="xs" text="R"]
+- [**Mangasee**](https://mangasee123.com/) [!badge variant="dark" target="blank" text="Mangalife"](https://manga4life.com/) [!badge variant="dark" target="blank" text="Atsumaru"](https://atsu.moe/) <Badge type="info" text="R" />
     - Has official translations
     - Compresses chapter images
     - Chapter updates are relatively slow
     - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
-- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+- [**Colored Manga**](https://coloredmanga.com/) <Badge type="info" text="R" />
     - Uploads without compression but mostly Shounen centric
     - Has both B&W and colored releases
     - Uploads official translations & volume releases (if available)
     - Lacks in library and upload schedule
-- [**Manga Fire**](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
+- [**Manga Fire**](https://mangafire.to/home) <Badge type="info" text="R" />
     - The UI is very clean with notification system
     - Uploads both chapter(multi-lang) & volume releases
     - Basic reader UI
     - Watermark on almost every manga chapters
     - Manga uploads are upto x1600
-- [**Batoto**](https://battwo.com/v3x) | [!badge variant="dark" target="blank" text="Mangatoto"](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
+- [**Batoto**](https://battwo.com/v3x) | [!badge variant="dark" target="blank" text="Mangatoto"](https://mangatoto.com/) <Badge type="info" text="R+" />
     - Has both scanlated and official releases
     - Has some exclusive uploads
     - Decent filtering options with site theme options
     - Indexing is really poor
 
 === More
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangapark](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
-- [Mangahub](https://mangahub.io/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Needs account"]
-- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [Like Manga](https://likemanga.io) [!badge variant="ghost" size="xs" text="R-"] [!badge variant="ghost" size="xs" text="Manhwa/hua centric"]
-- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) [!badge variant="danger" size="xs" text="R+"]
-- [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="info" text="R+" />
+- [Manga Katana](https://mangakatana.com/) <Badge type="info" text="R+" />
+- [Mangapark](https://mangapark.net/) <Badge type="info" text="R+" />
+- [Mangahasu](https://mangahasu.se/) <Badge type="info" text="R+" />
+- [Mangahub](https://mangahub.io/) <Badge type="info" text="R+" /> <Badge type="info" text="Needs account" />
+- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) <Badge type="info" text="R" /> <Badge type="info" text="Manhwa/hua centric" />
+- [Mangacultivator](https://mangacultivator.com) <Badge type="info" text="E" /> <Badge type="info" text="Manhwa/hua centric" />
+- [Like Manga](https://likemanga.io) <Badge type="info" text="R-" /> <Badge type="info" text="Manhwa/hua centric" />
+- [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) <Badge type="info" text="R+" />
+- [Manganato](https://chapmanganato.com/nato) <Badge type="info" text="R" />
 ===
 
 +++ :icon-log: Scanlator
@@ -373,19 +373,19 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 > I have added all the well-known scanlators for manhwa and manhua, but for manga, it's not practical or possible to add all the famous ones. So I have added my favorite ones. Yes, this section is kind of biased.
 
 +++ :icon-unfold: Nyaa
-- [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
-- [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
-- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
-- [Empy](https://nyaa.si/user/empyrealarrow) [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
-- [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
-- [LuCaZ](https://nyaa.si/user/LuCaZ) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
-- [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="dark" target="blank" text="Releases"](https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1) [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
-- [Shellshock](https://nyaa.si/user/shellshock) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Shizu](https://nyaa.si/user/wolfsbanes) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Stick](https://nyaa.si/user/dumbboy58) [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+- [0v3r](https://nyaa.si/user/0v3r) <Badge type="info" text="compilation" />
+- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="7seas" /> <Badge type="info" text="comikey" /> <Badge type="info" text="jnovel" /> <Badge type="info" text="kmanga" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="sq. enix" /> <Badge type="info" text="up!" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [anadius](https://nyaa.si/user/anadius) <Badge type="info" text="viz" />
+- [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) <Badge type="info" text="7seas" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="7seas" /> <Badge type="info" text="jnovel" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="op" /> <Badge type="info" text="yen" />
+- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="compilation" /> <Badge type="info" text="glacier" /> <Badge type="info" text="plus" />
+- [Lord_ne](https://nyaa.si/user/lord_ne) <Badge type="info" text="crunchy" /> <Badge type="info" text="lezhin" /> <Badge type="info" text="yen" />
+- [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="7seas" /> <Badge type="info" text="yen" />
+- [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="dark" target="blank" text="Releases"](https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1) <Badge type="info" text="comikey" /> <Badge type="info" text="crunchy" /> <Badge type="info" text="mangamo" /> <Badge type="info" text="plus" /> <Badge type="info" text="sq. enix" /> <Badge type="info" text="up!" />
+- [Shellshock](https://nyaa.si/user/shellshock) <Badge type="info" text="kodansha" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Shizu](https://nyaa.si/user/wolfsbanes) <Badge type="info" text="kodansha" /> <Badge type="info" text="sublime" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="audio" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Ushi](https://nyaa.si/user/bakaushi) <Badge type="info" text="7seas" /> <Badge type="info" text="yen" />
 - [XRA9](https://nyaa.si/?f=0&c=0_0&q=XRA9) 
 
 
@@ -393,7 +393,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Madokami](https://manga.madokami.al) [!button target="blank" variant="primary" size="xs" text="Guide"](/Guides/mado.md)
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="info" text="R+" />
 - [Anna's Archive](https://annas-archive.org/)
 - [Desuarchive](https://desuarchive.org/) [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/)
 
@@ -416,13 +416,13 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
     - [Deezer](https://www.deezer.com/)
     - [SoundCloud](https://soundcloud.com/)
 - **Radio**
-    - [Anison.fm](https://en.anison.fm/) [!badge variant="info" size="xs" text="320kbps"](https://anison.fm/anison.m3u)
-    - [Yggdrasil Radio](https://yggdrasilradio.com/) [!badge variant="info" size="xs" text="128kbps"](https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls)
-    - [Anime(bits)](https://radio.animebits.moe/) [!badge variant="info" size="xs" text="FLAC"](https://radio.animebits.moe/m3u/stream192.mp3.m3u)
-    - [Listen.moe](https://listen.moe/) [!badge variant="info" size="xs" text="128kbps"](https://listen.moe/m3u8/jpop.m3u)
-    - [Doujin Style](https://embed.radio.co/player/735ee7b.html) [!badge variant="info" size="xs" text="128kbps"](https://doujinstyle.com/listen.m3u)
-    - [Gensokyo Radio](https://gensokyoradio.net/playing/) [!badge variant="info" size="xs" text="256kbps"](https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u)  [!badge variant="ghost" size="xs" text="Touhou"]
-    - [Phate](https://phate.io/) [!badge variant="info" size="xs" text="192kbps"](https://phate.io/phate.m3u)  [!badge variant="ghost" size="xs" text="Utaite"]
+    - [Anison.fm](https://en.anison.fm/) <Badge type="info" text="320kbps" />(https://anison.fm/anison.m3u)
+    - [Yggdrasil Radio](https://yggdrasilradio.com/) <Badge type="info" text="128kbps" />(https://yggdrasilradio.net/yggdrasilradio_mp3_128kbps.pls)
+    - [Anime(bits)](https://radio.animebits.moe/) <Badge type="info" text="FLAC" />(https://radio.animebits.moe/m3u/stream192.mp3.m3u)
+    - [Listen.moe](https://listen.moe/) <Badge type="info" text="128kbps" />(https://listen.moe/m3u8/jpop.m3u)
+    - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" />(https://doujinstyle.com/listen.m3u)
+    - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" />(https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u)  <Badge type="info" text="Touhou" />
+    - [Phate](https://phate.io/) <Badge type="info" text="192kbps" />(https://phate.io/phate.m3u)  <Badge type="info" text="Utaite" />
 - **Touhou**
     - [Touhou Disc](https://alist.thdisc.tk)
     - [Touhou Player](https://touhou.kuukunen.net/)
@@ -431,21 +431,21 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 +++ :icon-move-to-bottom: Download
 
 - **FLAC**
-    - [Sitting on Clouds](https://www.sittingonclouds.net/) [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"]
-    - [SquidBoard](https://www.squid-board.org/) [!badge variant="Dark" text="Alt"](https://sqb.moe/) [!badge variant="ghost" size="xs" text="Needs account"] [!badge variant="ghost" size="xs" text="Mega"] [!badge variant="ghost" size="xs" text="Mediafire"] [!badge variant="ghost" size="xs" text="GDrive"]
-    - [Sukidesu OST](https://sukidesuost.info/) [!badge variant="ghost" size="xs" text="Mega"]
-    - [Asia Media Blog](https://asiamediablog.com/media/music/) [!badge variant="ghost" size="xs" text="Host"]
+    - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="Mega" /> <Badge type="info" text="Mediafire" />
+    - [SquidBoard](https://www.squid-board.org/) [!badge variant="Dark" text="Alt"](https://sqb.moe/) <Badge type="info" text="Needs account" /> <Badge type="info" text="Mega" /> <Badge type="info" text="Mediafire" /> <Badge type="info" text="GDrive" />
+    - [Sukidesu OST](https://sukidesuost.info/) <Badge type="info" text="Mega" />
+    - [Asia Media Blog](https://asiamediablog.com/media/music/) <Badge type="info" text="Host" />
 - **MP3**
-    - [OS Anime](https://osanime.com/) [!badge variant="ghost" size="xs" text="Direct"]
-    - [Hiyori OST](https://www.hiyoriost.com/) [!badge variant="ghost" size="xs" text="GDrive"] [!badge variant="ghost" size="xs" text="Host"]
-    - [Sakura OST](https://www.sakuraost.com/) [!badge variant="ghost" size="xs" text="Host"]
+    - [OS Anime](https://osanime.com/) <Badge type="info" text="Direct" />
+    - [Hiyori OST](https://www.hiyoriost.com/) <Badge type="info" text="GDrive" /> <Badge type="info" text="Host" />
+    - [Sakura OST](https://www.sakuraost.com/) <Badge type="info" text="Host" />
 - **Doujin**
-    - [MikuDB](https://mikudb.moe/) [!badge variant="ghost" size="xs" text="GDrive"]
+    - [MikuDB](https://mikudb.moe/) <Badge type="info" text="GDrive" />
     - [Touhou Disc](https://alist.thdisc.tk)
     - [Doujin Cafe](https://discord.com/invite/doujincafe)
     - [Doujin Music](https://vk.com/wall-60027733)
-    - [Moriya Shrine](https://moriyashrine.org/) [!badge variant="ghost" size="xs" text="Torrent"]
-    - [Doujin Style](https://doujinstyle.com/) [!badge variant="Dark" text="Touhou"](https://doujinstyle.com/?p=tlmc) [!badge variant="ghost" size="xs" text="Mediafire"]
+    - [Moriya Shrine](https://moriyashrine.org/) <Badge type="info" text="Torrent" />
+    - [Doujin Style](https://doujinstyle.com/) [!badge variant="Dark" text="Touhou"](https://doujinstyle.com/?p=tlmc) <Badge type="info" text="Mediafire" />
     
 +++ :icon-archive: Others
 
@@ -540,22 +540,22 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)
 - [Gload](https://gload.to/)
-- [F95Zone](https://f95zone.to/) [!badge variant="ghost" size="xs" text="Needs account"]
+- [F95Zone](https://f95zone.to/) <Badge type="info" text="Needs account" />
 - [GOG](https://gog-games.to/)
-- [Doujin Style](https://doujinstyle.com/) [!badge variant="ghost" size="xs" text="Doujin"]
+- [Doujin Style](https://doujinstyle.com/) <Badge type="info" text="Doujin" />
 - [Anime-sharing](http://www.anime-sharing.com/forum/)
 - [Crackhub Scene](https://scene.crackhub.site/)
 - [Kimochi](https://kimochi.info)
-- [Anime Bytes](https://animebytes.tv/) [!badge variant="ghost" size="xs" text="Private tracker"] 
-- [Gazelle Games](https://gazellegames.net/login.php) [!badge variant="ghost" size="xs" text="Private tracker"]
+- [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" /> 
+- [Gazelle Games](https://gazellegames.net/login.php) <Badge type="info" text="Private tracker" />
 
 +++ :icon-codespaces: ROM
-- [r/roms](https://r-roms.github.io/) [!badge variant="ghost" size="xs" text="ROM"]
-- [ROMSpure](https://romspure.cc/roms) [!badge variant="ghost" size="xs" text="General"]
-- [nsw2u](https://nsw2u.xyz/) [!badge variant="ghost" size="xs" text="Switch"]
-- [Ziperto](https://www.ziperto.com/) [!badge variant="ghost" size="xs" text="Switch"]
-- [hShop](https://hshop.erista.me/) [!badge variant="ghost" size="xs" text="3DS"]
-- [NoPayStation](https://nopaystation.com/) [!badge variant="ghost" size="xs" text="Playstation"]
+- [r/roms](https://r-roms.github.io/) <Badge type="info" text="ROM" />
+- [ROMSpure](https://romspure.cc/roms) <Badge type="info" text="General" />
+- [nsw2u](https://nsw2u.xyz/) <Badge type="info" text="Switch" />
+- [Ziperto](https://www.ziperto.com/) <Badge type="info" text="Switch" />
+- [hShop](https://hshop.erista.me/) <Badge type="info" text="3DS" />
+- [NoPayStation](https://nopaystation.com/) <Badge type="info" text="Playstation" />
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 - [Vimm's Lair](https://vimm.net/vault/)
 
@@ -669,7 +669,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) [!badge variant="ghost" size="xs" text="Manga"]
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/) <Badge type="info" text="Manga" />
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -679,8 +679,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)  [!badge variant="ghost" size="xs" text="XDCC"]
-- [Animiru](https://github.com/Quickdesh/Animiru) [!badge variant="ghost" size="xs" text="Anime only"] [!badge variant="ghost" size="xs" text="RPC"]
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh)  <Badge type="info" text="XDCC" />
+- [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /> <Badge type="info" text="RPC" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Miru](https://miru.js.org/)
@@ -695,7 +695,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Download and local reader support
   - Tracking & sync support
   - High cache consumption
-- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) <Badge type="info" text="Local" />
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
   - Support for all the comic formats.
@@ -753,13 +753,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Online
 
-- [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
     - Easy to setup
     - Good Customizable UI
     - Has good amount of extensions
     - Tracker integration
     - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
     - Uses the same extensions and backups as tachiyomi so good extension support
     - UI is same as tachiyomi
     - Can download manga
@@ -785,16 +785,16 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Offline
 
-- [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
+- [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
     - Minimalist UI
     - Fast and simple reader with good amount of configuration
     - Has more resizing options
     - No vertical reading mode
-- [**YACReader**](https://www.yacreader.com/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
     - Fast and customizable
     - Comes with YAClibrary, which is like calibre for comics
     - No vertical reading mode
-- [**OpenComic**](https://github.com/ollm/OpenComic) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
     - Decent UI
     - Initial load times is slightly slower than above two readers
     - Has vertical reading mode with limited amount of customization
@@ -821,8 +821,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 +++
 
 === More
-- [Yomikiru](https://github.com/mienaiyami/yomikiru) [!badge variant="ghost" size="xs" text="offline"]
-- [LANraragi](https://github.com/Difegue/LANraragi) [!badge variant="ghost" size="xs" text="Self-hosted"]
+- [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" />
+- [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
 ===
 
 #### Anime
@@ -873,7 +873,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Tracker support
   - Chapter download possible
   - Still in active Development
-- [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+- [**YACReader**](https://apps.apple.com/app/id635717885) <Badge type="info" text="Local" /> <Badge type="info" text="Paid" />
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
@@ -887,7 +887,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Available on Testflight (no Sideloading required)
   - OK-ish UI with some lags
   - only MangaDex as a source. So, therefore no official releases
-- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) <Badge type="info" text="Cloud" />
   - Supports PDF,ZIP,CBZ,RAR and CBR
   - Has all the necessary features
   - Old looking UI but very functional and customizable.
@@ -984,7 +984,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 - [gallery-dl](https://github.com/mikf/gallery-dl)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [Nicotine+](https://nicotine-plus.org/) [!badge variant="ghost" size="xs" text="p2p"] [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Linux"] [!badge variant="ghost" size="xs" text="MacOS"]
+- [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /> <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
 +++
@@ -1081,12 +1081,12 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [r/LightNovels upcoming releases](https://www.reddit.com/r/LightNovels/wiki/upcomingreleases/)
     - [Yatta-Tachi](https://yattatachi.com/tag/releases)
 - **Publisher**
-    - [Azuki](https://www.azuki.co/release-calendar) [!badge variant="ghost" size="xs" text="CaaS"]
+    - [Azuki](https://www.azuki.co/release-calendar) <Badge type="info" text="CaaS" />
     - [Dark Horse](https://www.darkhorse.com/Manga/Upcoming)
     - [J-Novel Club](https://j-novel.club/calendar)
     - [Kodansha](https://kodansha.us/calendar/)
     - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
-    - [SuBLime](https://www.sublimemanga.com/calendar)  [!badge variant="danger" size="xs" text="R+"]
+    - [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="info" text="R+" />
     - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
     - [TITAN Comics](https://titan-comics.com/manga/)
     - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
@@ -1098,16 +1098,16 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ![](/banner/illust.png)
 ### Illustrations
-- [Pixiv](https://www.pixiv.net) [!badge variant="danger" size="xs" text="R+"]
+- [Pixiv](https://www.pixiv.net) <Badge type="info" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/) [!badge variant="danger" size="xs" text="R+"]
-- [Gelbooru](https://gelbooru.com/) [!badge variant="danger" size="xs" text="R+"]
+- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/) <Badge type="info" text="R+" />
+- [Gelbooru](https://gelbooru.com/) <Badge type="info" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Kona chan](https://konachan.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Safebooru](https://safebooru.org/) [!badge variant="success" size="xs" text="E"]
-- [Yandere](https://yande.re/post) [!badge variant="danger" size="xs" text="R+"]
-- [Zerochan](https://www.zerochan.net/) [!badge variant="ghost" size="xs" text="R"]
-- [/w/](http://catalog.neet.tv/w/) [!badge variant="danger" size="xs" text="R+"]
+- [Kona chan](https://konachan.com/) <Badge type="info" text="R+" />
+- [Safebooru](https://safebooru.org/) <Badge type="info" text="E" />
+- [Yandere](https://yande.re/post) <Badge type="info" text="R+" />
+- [Zerochan](https://www.zerochan.net/) <Badge type="info" text="R" />
+- [/w/](http://catalog.neet.tv/w/) <Badge type="info" text="R+" />
 
 ![](/banner/jp.png)
 ### Japan
@@ -1168,7 +1168,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
         - [Tokyojin](http://tokyojin.info/)
         - [Souda Kyoto](https://souda-kyoto.jp/index.html)
         - [Kyoto Travel](https://kyototravel.info/)
-        - [Hokkaido Guide](https://hokkaidoguide.com/) [!badge variant="ghost" size="xs" text="English"]
+        - [Hokkaido Guide](https://hokkaidoguide.com/) <Badge type="info" text="English" />
 
 +++ Cooking
 
@@ -1328,13 +1328,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Tools
 
 +++ Analysis
-- [anime.plus](https://anime.plus/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph) [!badge variant="ghost" size="xs" text="MAL"]
-- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats) [!badge variant="ghost" size="xs" text="AL"]
-- [MAL Badges](https://www.mal-badges.com/) [!badge variant="ghost" size="xs" text="MAL"]
+- [anime.plus](https://anime.plus/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph) <Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats) <Badge type="info" text="AL" />
+- [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai) [!badge variant="ghost" size="xs" text="MAL"]
+- [Sekai](https://sekai.rl404.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai) <Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) [!badge variant="ghost" size="xs" text="MAL"]  [!badge variant="ghost" size="xs" text="AL"]
+- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" />  <Badge type="info" text="AL" />
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/)
@@ -1359,24 +1359,24 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
-- [Holodex](https://holodex.net/) [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/) [!badge variant="ghost" size="xs" text="Frontend"]
-- [Good VTuber Subs](https://goodvtubersubs.com/) [!badge variant="ghost" size="xs" text="DB"]
-- [VChama](https://vchama.xyz) [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) [!badge variant="ghost" size="xs" text="DB"]
-- [VSTATS](https://www.vstats.jp/) [!badge variant="ghost" size="xs" text="Stats"]
-- [Hololist](https://hololist.net/) [!badge variant="ghost" size="xs" text="DB"]
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking) [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [vTubie](https://vtubie.com/) [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Hololyzer](https://www.hololyzer.net/) [!badge variant="ghost" size="xs" text="Schedule"]
+- [Holodex](https://holodex.net/) [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/) <Badge type="info" text="Frontend" />
+- [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
+- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
+- [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
+- [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /> <Badge type="info" text="Schedule" />
+- [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
 +++ Hololive
 
-- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) [!badge variant="ghost" size="xs" text="DB"]
-- [HoloStats](https://holo.poi.cat/youtube-stream) [!badge variant="ghost" size="xs" text="Stats"] [!badge variant="ghost" size="xs" text="Schedule"]
-- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives) [!badge variant="ghost" size="xs" text="DB"] [!badge variant="ghost" size="xs" text="News"]
-- [Holotracker](https://trackholo.live/en/) [!badge variant="ghost" size="xs" text="Stats"]
-- [hololive TODAY](https://hololivetoday.com/) [!badge variant="ghost" size="xs" text="News"]
-- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) [!badge variant="ghost" size="xs" text="DB"]
+- [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
+- [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives) <Badge type="info" text="DB" /> <Badge type="info" text="News" />
+- [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
+- [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
+- [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
 
 +++ Youtube
@@ -1430,7 +1430,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/)
     - Add-On for VTubeStudio to improve tracking
     - Costs 8,19€ (one-time)
-    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) [!badge variant="ghost" size="xs" text="iOS"], [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005) [!badge variant="ghost" size="xs" text="iOS"], [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US) [!badge variant="ghost" size="xs" text="Android"]
+    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005) <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US) <Badge type="info" text="Android" />
 
 ##### 3D
 - [**VRoidStudio**](https://vroid.com/en/studio)
@@ -1569,27 +1569,27 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 +++ Essentials
 
 - Browsers
-    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) [!badge variant="ghost" size="xs" text="Android"]
-    - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) [!badge variant="ghost" size="xs" text="Android"]
-    - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-    - [Cromite](https://github.com/uazo/cromite) [!badge variant="ghost" size="xs" text="Android"]
-    - [DuckDuckGo Private Browser](https://duckduckgo.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
+    - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge type="info" text="Android" />
+    - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
+    - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+    - [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
+    - [DuckDuckGo Private Browser](https://duckduckgo.com/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
 - Ad blocking
-    - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
-    - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
-    - [Adguard DNS](https://adguard-dns.io/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-    - [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-    - [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-    - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
+    - [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
+    - [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" />
+    - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+    - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+    - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+    - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
 
 +++ Downloaders
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) [!badge variant="ghost" size="xs" text="Android"]
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) [!badge variant="ghost" size="xs" text="Android"]
-- [iTorrent](https://github.com/XITRIX/iTorrent) [!badge variant="ghost" size="xs" text="iOS"]
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
+- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) <Badge type="info" text="Android" />
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) <Badge type="info" text="Android" />
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) <Badge type="info" text="Android" />
+- [libretorrent](https://github.com/proninyaroslav/libretorrent) <Badge type="info" text="Android" />
+- [iTorrent](https://github.com/XITRIX/iTorrent) <Badge type="info" text="iOS" />
 
 +++ Media
 
@@ -1597,20 +1597,20 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) [!button target="blank" variant="dark" size="xs" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly)
-- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) [!badge variant="ghost" size="xs" text="iOS"]
+- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
 - [Poweramp](https://powerampapp.com/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
-- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" text="Spotify"]
-- [Spotify++](https://appdb.to/app/cydia/1900000540) [!badge variant="ghost" size="xs" text="iOS"]
+- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /> [!badge variant="ghost" text="Spotify"]
+- [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 +++ Trackers
 
-- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
-- [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
-- DailyAL [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826) [!badge variant="ghost" size="xs" text="Kitsu"]
-- [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
-- [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) <Badge type="info" text="Anilist" />
+- [Apps for Anilist](https://anilist.co/apps) <Badge type="info" text="Anilist" />
+- DailyAL [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) <Badge type="info" text="MyAnimeList" />
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826) <Badge type="info" text="Kitsu" />
+- [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
+- [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) <Badge type="info" text="MyAnimeList" />
 
 +++ Others
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US)
@@ -1651,12 +1651,12 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 +++ Trackers
 
-- [Animeo](https://github.com/Jenrykster/animeo) [!badge variant="ghost" size="xs" text="Stremio"]
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)  [!badge variant="ghost" size="xs" text="MacOS"]
-- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" target="blank" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [!badge variant="ghost" size="xs" text="Windows"]
-- [Taiga](https://github.com/erengy/taiga) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) [!badge variant="ghost" size="xs" text="Linux"]
-- [Tundra](https://github.com/m4tx/tundra) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) [!badge variant="ghost" size="xs" text="Linux"]
+- [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/)  <Badge type="info" text="MacOS" />
+- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" target="blank" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) <Badge type="info" text="Windows" />
+- [Taiga](https://github.com/erengy/taiga) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) <Badge type="info" text="Windows" /> <Badge type="info" text="Downloader" />
+- [Trackma](https://github.com/z411/trackma) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) <Badge type="info" text="Linux" />
+- [Tundra](https://github.com/m4tx/tundra) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) <Badge type="info" text="Linux" />
 
 +++ mpv
 
@@ -1729,7 +1729,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
     - [Foobar2000](https://www.foobar2000.org/)
     - [MPC-HC](https://codecguide.com/download_kl.htm)
     - [Potplayer](https://potplayer.daum.net/)
-    - [IINA](https://iina.io/) [!badge variant="ghost" size="xs" text="MacOS"]
+    - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
     - [Spicetify](https://spicetify.app/)
     - [WACUP](https://getwacup.com/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
@@ -1847,7 +1847,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Marshall's Site](https://marshallyin.com/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
-- [Maggie sensei](https://maggiesensei.com/) [!badge variant="ghost" size="xs" text="Conversation"]
+- [Maggie sensei](https://maggiesensei.com/) <Badge type="info" text="Conversation" />
 
 +++ Kanji
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
@@ -1855,7 +1855,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanji Garden](https://kanji.garden/)
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kotobaweb](https://kotobaweb.com/)
-- [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
+- [NativShark](https://www.nativshark.com/) <Badge type="info" text="Freemium" />
 - [The Kanji Map](https://thekanjimap.com/)
 - [Wanikani](https://www.wanikani.com/)
 
@@ -1932,11 +1932,11 @@ Interested in learning the japanese language? Here you can find resources to aid
 +++ Media
 - Anime
     - [Animelon](https://animelon.com/)
-    - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) [!badge variant="ghost" size="xs" text="Raw"]
-    - [Aniwatch](https://aniwatch.to/home) [!badge variant="ghost" size="xs" text="Raw"]
+    - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) <Badge type="info" text="Raw" />
+    - [Aniwatch](https://aniwatch.to/home) <Badge type="info" text="Raw" />
     - [itazuraneko](https://djtguide.github.io/library/sub)
-    - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
-    - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) [!badge variant="ghost" size="xs" text="Subs"]
+    - [Kitsunekko](https://kitsunekko.net/) <Badge type="info" text="Subs" />
+    - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) <Badge type="info" text="Subs" />
     - [Classics](https://animation.filmarchives.jp/index.html)
 - Movies & Drama
     - [Dramacool](https://dramacool.pa/)
@@ -1975,7 +1975,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Weblio](https://ejje.weblio.jp/)
     - [Gengo](https://gengo.tech/) [!button target="blank" variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/)
 - Grammar
-    - [Bunpro](https://bunpro.jp/) [!badge variant="ghost" size="xs" text="Freemium"]
+    - [Bunpro](https://bunpro.jp/) <Badge type="info" text="Freemium" />
     - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
     - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - Practice
@@ -2013,12 +2013,12 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
     - [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) | [2](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461) | [Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/)
 - Kanji
-    - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693) [!badge variant="ghost" size="xs" text="General"]
+    - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693) <Badge type="info" text="General" />
     - [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268)
     - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
     - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
 - Reading
-    - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) [!badge variant="ghost" size="xs" text="General"]
+    - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 - Vocabulary
     - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) | [N4](https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X)
 
@@ -2214,7 +2214,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Manga Collectors](https://www.reddit.com/r/MangaCollectors)
 - [Gundam Forums](https://www.gundamforums.com/)
 - [Gunpla](https://www.reddit.com/r/Gunpla)
-- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) [!badge variant="danger" size="xs" text="R+"]
+- [Dakimakuras](https://www.reddit.com/r/Dakimakuras) <Badge type="info" text="R+" />
 
 ### Retailers
 - [AmiAmi](https://www.amiami.com)
@@ -2223,7 +2223,7 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 - [Dekai Anime](https://www.dekaianime.com/)
 - [Hobby Link](https://www.hlj.com/)
 - [Hobby Search](https://www.1999.co.jp/eng/)
-- [FAKKU Merch](https://merch.fakku.net/) [!badge variant="danger" size="xs" text="R+"]
+- [FAKKU Merch](https://merch.fakku.net/) <Badge type="info" text="R+" />
 - [Mandarake](https://order.mandarake.co.jp/order/)
 - [Otaku Mode](https://otakumode.com/)
 
@@ -2244,13 +2244,13 @@ Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed
 
 
 ### Manga, Anime, OST & Others
-- [CDJapan](https://www.cdjapan.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="LN"]  [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Play-Asia](https://www.play-asia.com/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [HMV & Books](https://www.hmv.co.jp/) [!badge variant="ghost" size="xs" text="Manga"] [!badge variant="ghost" size="xs" text="Anime"] [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Merch"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Qobuz](https://www.qobuz.com/us-en/shop) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-- [Ototoy](https://ototoy.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Physical"]
-- [Mora](https://mora.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
-- [Recochoku](https://recochoku.jp/) [!badge variant="ghost" size="xs" text="OST"] [!badge variant="ghost" size="xs" text="Digital"]
+- [CDJapan](https://www.cdjapan.co.jp/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="LN" />  <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
+- [Play-Asia](https://www.play-asia.com/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
+- [HMV & Books](https://www.hmv.co.jp/) <Badge type="info" text="Manga" /> <Badge type="info" text="Anime" /> <Badge type="info" text="OST" /> <Badge type="info" text="Merch" /> <Badge type="info" text="Physical" />
+- [Qobuz](https://www.qobuz.com/us-en/shop) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
+- [Ototoy](https://ototoy.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Physical" />
+- [Mora](https://mora.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
+- [Recochoku](https://recochoku.jp/) <Badge type="info" text="OST" /> <Badge type="info" text="Digital" />
 
 ![](https://cdn.apollo.moe/img/scan.png)
 ## Scanlation
@@ -2270,28 +2270,28 @@ Information and guides pertaining to the world of fan translation, everything fr
 +++ Reader
 
 - [Bilingual Manga](https://bilingualmanga.net/)
-- [Hachi Raw](https://hachiraw.com/) [!badge variant="danger" size="xs" text="R+"]
-- [KL Manga](https://klmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-- [Mangaraw Japan](https://mangaraw.to/) [!badge variant="danger" size="xs" text="R+"]
+- [Hachi Raw](https://hachiraw.com/) <Badge type="info" text="R+" />
+- [KL Manga](https://klmanga.com/) <Badge type="info" text="R" />
+- [Mangaraw Japan](https://mangaraw.to/) <Badge type="info" text="R+" />
 - [Mangaraw+](https://mangarawplus.co/)
-- [Raw Kuma](https://rawkuma.com/) [!badge variant="ghost" size="xs" text="R"]
-- [Sen Manga](https://raw.senmanga.com/ ) [!badge variant="danger" size="xs" text="R+"]
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) [!badge variant="ghost" size="xs" text="R"]
+- [Raw Kuma](https://rawkuma.com/) <Badge type="info" text="R" />
+- [Sen Manga](https://raw.senmanga.com/ ) <Badge type="info" text="R+" />
+- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="info" text="R" />
 
 +++ Direct Download
 
-- [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/)  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"]  [!badge variant="ghost" size="xs" text="Magazine"]
-- [Comic 77](https://comic77.com/ ) [!badge variant="danger" size="xs" text="R+"]
-- [Comics 888](https://comics888.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw net](https://dlraw.net/category/raw-manga/)  [Manga Zip](https://manga-zip.info/category/raw-manga/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Zip](https://dl-zip.com/) [!badge variant="ghost" size="xs" text="R"]  [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Itazura Neko](https://djtguide.github.io/library/manga/subete)  [!badge variant="ghost" size="xs" text="Novel"]
-- [JP DDL](https://jpddl.com/manga) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Zone](http://www.manga-zone.org/)  [!badge variant="ghost" size="xs" text="Novel"]
-- [Raw Cans](http://raw-cans.net/) [!badge variant="danger" size="xs" text="R+"]  [!badge variant="ghost" size="xs" text="Magazine"]
+- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="info" text="R+" />  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/)  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Book Share Zip](https://bszip.com/) <Badge type="info" text="R" />  <Badge type="info" text="Novel" />  <Badge type="info" text="Magazine" />
+- [Comic 77](https://comic77.com/ ) <Badge type="info" text="R+" />
+- [Comics 888](https://comics888.com/) <Badge type="info" text="R" />  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Raw co](https://dl-raw.co/) <Badge type="info" text="R" />  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Raw net](https://dlraw.net/category/raw-manga/)  [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="info" text="R+" />  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Zip](https://dl-zip.com/) <Badge type="info" text="R" />  <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Itazura Neko](https://djtguide.github.io/library/manga/subete)  <Badge type="info" text="Novel" />
+- [JP DDL](https://jpddl.com/manga) <Badge type="info" text="R" />
+- [Manga Zone](http://www.manga-zone.org/)  <Badge type="info" text="Novel" />
+- [Raw Cans](http://raw-cans.net/) <Badge type="info" text="R+" />  <Badge type="info" text="Magazine" />
 
 > You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
@@ -2349,7 +2349,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 
 +++ Miscellaneous 
-- [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  [!badge variant="ghost" size="xs" text="Free chapters only"]
+- [Alex's Raw Downloader](https://raws.alexeliot.xyz/)  <Badge type="info" text="Free chapters only" />
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
 - [DeDRM tools](https://github.com/noDRM/DeDRM_tools)
 - Font Finder [!badge variant="dark" target="blank" text="Font Spring"](https://www.fontspring.com/matcherator) [!badge variant="dark" target="blank" text="Font Squirrel"](https://www.fontsquirrel.com/matcherator) [!badge variant="dark" target="blank" text="MyFonts"](https://www.myfonts.com/pages/whatthefont)  [!badge variant="dark" target="blank" text="What font is"](https://www.whatfontis.com/)
@@ -2377,14 +2377,14 @@ Everyone has to let off some steam once in a while, we don't judge.
 +++ Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
-- [Hanime](https://hanime.tv/) [!badge variant="ghost" size="xs" text="720p"]
+- [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai Bar](https://hentaibar.com/)
 - [Hentai Haven](https://hentaihaven.xxx/)
 - [Hentai Mama](https://hentaimama.io/)
-- [Hentai Stream](https://hstream.moe/) [!badge variant="ghost" size="xs" text="4K"]
+- [Hentai Stream](https://hstream.moe/) <Badge type="info" text="4K" />
 - [Hentai World](https://hentaiworld.tv/)
-- [Mucho Hentai](https://muchohentai.com/) [!badge variant="ghost" size="xs" text="Schedule"] [!badge variant="ghost" size="xs" text="PV"]
-- [Oppai](https://oppai.stream/) [!badge variant="ghost" size="xs" text="4K"]
+- [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /> <Badge type="info" text="PV" />
+- [Oppai](https://oppai.stream/) <Badge type="info" text="4K" />
 - [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
@@ -2468,7 +2468,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Hakuneko](https://github.com/manga-download/hakuneko) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://hakuneko.download/)
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://doujindownloader.com/)
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) [!badge variant="ghost" size="xs" text="Anime"]
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Anime" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)
 - [nHentai](https://github.com/RicterZ/nhentai)
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
@@ -2547,7 +2547,7 @@ A list of other otaku communities to check out based on your specific interests.
 
 
 ### Boards
-- [Anime & Manga](https://boards.4channel.org/a/) [!badge variant="ghost" size="xs" text="R"]
-- [Anime/Cute](https://boards.4channel.org/c/catalog) [!badge variant="ghost" size="xs" text="R"]
-- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) [!badge variant="ghost" size="xs" text="R"]
-- [Otaku Culture](https://boards.4channel.org/jp/catalog) [!badge variant="danger" size="xs" text="R+"]
+- [Anime & Manga](https://boards.4channel.org/a/) <Badge type="info" text="R" />
+- [Anime/Cute](https://boards.4channel.org/c/catalog) <Badge type="info" text="R" />
+- [Anime/Wallpapers](https://boards.4channel.org/w/catalog) <Badge type="info" text="R" />
+- [Otaku Culture](https://boards.4channel.org/jp/catalog) <Badge type="info" text="R+" />

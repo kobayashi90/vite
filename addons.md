@@ -17,26 +17,26 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 - Browsers
   - [Iceraven](https://github.com/fork-maintainers/iceraven-browser) <Badge text="Android" />
-  - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) [!badge variant="ghost" size="xs" text="Android"]
-  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-  - [Cromite](https://github.com/uazo/cromite) [!badge variant="ghost" size="xs" text="Android"]
-  - [DuckDuckGo Private Browser](https://duckduckgo.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
+  - [Mull](https://github.com/Divested-Mobile/Mull-Fenix) <Badge type="info" text="Android" />
+  - [Brave](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+  - [Cromite](https://github.com/uazo/cromite) <Badge type="info" text="Android" />
+  - [DuckDuckGo Private Browser](https://duckduckgo.com/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
 - Ad blocking
-  - [Adaway](https://adaway.org/) [!badge variant="ghost" size="xs" text="Android"]
-  - [Adguard](https://adguard.com/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"]
-  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-  - [AhaDNS](https://blitz-setup.ahadns.com/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-  - [NextDNS](https://nextdns.io/) [!badge variant="ghost" size="xs" text="Android"] [!badge variant="ghost" size="xs" text="iOS"]
-  - [RethinkDNS](https://rethinkdns.com/) [!badge variant="ghost" size="xs" text="Android"]
+  - [Adaway](https://adaway.org/) <Badge type="info" text="Android" />
+  - [Adguard](https://adguard.com/en/welcome.html) <Badge type="info" text="Android" />
+  - [Adguard DNS](https://adguard-dns.io/en/welcome.html) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+  - [AhaDNS](https://blitz-setup.ahadns.com/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+  - [NextDNS](https://nextdns.io/) <Badge type="info" text="Android" /> <Badge type="info" text="iOS" />
+  - [RethinkDNS](https://rethinkdns.com/) <Badge type="info" text="Android" />
 
 == Downloaders
 
-- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) [!badge variant="ghost" size="xs" text="Android"]
-- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Android"]
-- [libretorrent](https://github.com/proninyaroslav/libretorrent) [!badge variant="ghost" size="xs" text="Android"]
-- [iTorrent](https://github.com/XITRIX/iTorrent) [!badge variant="ghost" size="xs" text="iOS"]
+- [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US) <Badge type="info" text="Android" />
+- [FDM](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US) <Badge type="info" text="Android" />
+- [Navi](https://github.com/TachibanaGeneralLaboratories/download-navi) <Badge type="info" text="Android" />
+- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US) <Badge type="info" text="Android" />
+- [libretorrent](https://github.com/proninyaroslav/libretorrent) <Badge type="info" text="Android" />
+- [iTorrent](https://github.com/XITRIX/iTorrent) <Badge type="info" text="iOS" />
 
 == Media
 
@@ -44,20 +44,20 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Innertune](https://github.com/z-huang/InnerTune) [!badge variant="ghost" text="Youtube Music"]
 - [mpv-android](https://github.com/mpv-android/mpv-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US)
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) [!button target="blank" variant="dark" size="xs" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly)
-- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) [!badge variant="ghost" size="xs" text="iOS"]
+- [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
 - [Poweramp](https://powerampapp.com/) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US)
-- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) [!badge variant="ghost" size="xs" text="iOS"] [!badge variant="ghost" text="Spotify"]
-- [Spotify++](https://appdb.to/app/cydia/1900000540) [!badge variant="ghost" size="xs" text="iOS"]
+- [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /> [!badge variant="ghost" text="Spotify"]
+- [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
 - [xManager](https://www.xmanagerapp.com/) [!badge variant="ghost" text="Spotify"]
 
 == Trackers
 
-- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) [!badge variant="ghost" size="xs" text="Anilist"]
-- [Apps for Anilist](https://anilist.co/apps) [!badge variant="ghost" size="xs" text="Anilist"]
-- DailyAL [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) [!badge variant="ghost" size="xs" text="MyAnimeList"]
-- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826){target="\_blank"} [!badge variant="ghost" size="xs" text="Kitsu"]
-- [Kitsune](https://github.com/Drumber/Kitsune) [!badge variant="ghost" size="xs" text="Kitsu"]
-- [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) [!badge variant="ghost" size="xs" text="MyAnimeList"]
+- [AniHyou](https://github.com/axiel7/AniHyou-android) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.axiel7.anihyou) <Badge type="info" text="Anilist" />
+- [Apps for Anilist](https://anilist.co/apps) <Badge type="info" text="Anilist" />
+- DailyAL [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US) <Badge type="info" text="MyAnimeList" />
+- [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) [!badge variant="dark" target="blank" icon="/icon/andy.png" text="Android"](https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US) [!badge variant="dark" target="blank" icon="/icon/apple.png" text="iOS"](https://apps.apple.com/us/app/kitsu-anime/id590452826){target="\_blank"} <Badge type="info" text="Kitsu" />
+- [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
+- [MoeList](https://github.com/axiel7/MoeList) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://moelist.net/) <Badge type="info" text="MyAnimeList" />
 
 == Others
 
@@ -99,12 +99,12 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Trackers
 
-- [Animeo](https://github.com/Jenrykster/animeo) [!badge variant="ghost" size="xs" text="Stremio"]
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/) [!badge variant="ghost" size="xs" text="MacOS"]
-- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" target="blank" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) [!badge variant="ghost" size="xs" text="Windows"]
-- [Taiga](https://github.com/erengy/taiga) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) [!badge variant="ghost" size="xs" text="Windows"] [!badge variant="ghost" size="xs" text="Downloader"]
-- [Trackma](https://github.com/z411/trackma) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) [!badge variant="ghost" size="xs" text="Linux"]
-- [Tundra](https://github.com/m4tx/tundra) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) [!badge variant="ghost" size="xs" text="Linux"]
+- [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://malupdaterosx.moe/hachidori/) <Badge type="info" text="MacOS" />
+- [MALClient](https://github.com/Drutol/MALClient) [!badge variant="dark" target="blank" icon="globe" text="Store"](https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL) <Badge type="info" text="Windows" />
+- [Taiga](https://github.com/erengy/taiga) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://taiga.moe/) <Badge type="info" text="Windows" /> <Badge type="info" text="Downloader" />
+- [Trackma](https://github.com/z411/trackma) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://z411.github.io/trackma/) <Badge type="info" text="Linux" />
+- [Tundra](https://github.com/m4tx/tundra) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tundra.moe/) <Badge type="info" text="Linux" />
 
 == mpv
 
@@ -173,7 +173,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
   - [Foobar2000](https://www.foobar2000.org/)
   - [MPC-HC](https://codecguide.com/download_kl.htm)
   - [Potplayer](https://potplayer.daum.net/)
-  - [IINA](https://iina.io/) [!badge variant="ghost" size="xs" text="MacOS"]
+  - [IINA](https://iina.io/) <Badge type="info" text="MacOS" />
   - [Spicetify](https://spicetify.app/)
   - [WACUP](https://getwacup.com/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)

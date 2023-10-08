@@ -14,46 +14,46 @@ Everrything Manga Related!
 
 ### Reader
 
-- [**Mangadex**](https://mangadex.org/) [!badge variant="danger" size="xs" text="R+"]
+- [**Mangadex**](https://mangadex.org/) <Badge type="info" text="R+" />
   - Uploads without compression
   - Best reader UI
   - Uploads from various scanlation groups
   - No official translations since it was created for fansub
-- [**Comick**](https://comick.app/home) [!badge variant="ghost" size="xs" text="R"]
+- [**Comick**](https://comick.app/home) <Badge type="info" text="R" />
   - Minimal compression
   - Aggregates from various scanlation groups
   - Has official translations
-- [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/){target="\_blank"} [!badge variant="ghost" size="xs" text="R"]
+- [**Mangasee**](https://mangasee123.com/) | [Mangalife](https://manga4life.com/) | [Atsumaru](https://atsu.moe/){target="\_blank"} <Badge type="info" text="R" />
   - Has official translations
   - Compresses chapter images
   - Chapter updates are relatively slow
   - [Atsumaru](https://atsu.moe/) scrapes from Mangasee but has better UI
-- [**Colored Manga**](https://coloredmanga.com/) [!badge variant="ghost" size="xs" text="R"]
+- [**Colored Manga**](https://coloredmanga.com/) <Badge type="info" text="R" />
   - Uploads without compression but mostly Shounen centric
   - Has both B&W and colored releases
   - Uploads official translations & volume releases (if available)
   - Lacks in library and upload schedule
-- [**Mangapark**](https://mangapark.net/) [!badge variant="danger" size="xs" text="R+"]
+- [**Mangapark**](https://mangapark.net/) <Badge type="info" text="R+" />
   - No Compressed uploads (If source had no compression)
   - Has official translations
   - UI is a bit cluttered with no upload tags
-- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) [!badge variant="danger" size="xs" text="R+"]
+- [**Batoto**](https://battwo.com/v3x) | [Mangatoto](https://mangatoto.com/) <Badge type="info" text="R+" />
   - Has official translations
   - Has some exclusive uploads
   - Indexing is poor quality
 
 === More
 
-- [Cubari Proxy](https://proxy.cubari.moe/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Katana](https://mangakatana.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Fire](https://mangafire.to/home) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Reader](https://mangareader.to/home) [!badge variant="ghost" size="xs" text="R"]
-- [Mangahasu](https://mangahasu.se/) [!badge variant="danger" size="xs" text="R+"]
-- [Toonily](https://toonily.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page){target="\_blank"} [!badge variant="ghost" size="xs" text="R"]
-- [Mangacultivator](https://mangacultivator.com) [!badge variant="success" size="xs" text="E"]
-- [1st Kiss Manga](https://1stkissmanga.me/) [!badge variant="ghost" size="xs" text="R-"]
-- # [Manganato](https://chapmanganato.com/nato) [!badge variant="ghost" size="xs" text="R"]
+- [Cubari Proxy](https://proxy.cubari.moe/) <Badge type="info" text="R+" />
+- [Manga Katana](https://mangakatana.com/) <Badge type="info" text="R+" />
+- [Manga Fire](https://mangafire.to/home) <Badge type="info" text="R" />
+- [Manga Reader](https://mangareader.to/home) <Badge type="info" text="R" />
+- [Mangahasu](https://mangahasu.se/) <Badge type="info" text="R+" />
+- [Toonily](https://toonily.com/) <Badge type="info" text="R+" />
+- [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page){target="\_blank"} <Badge type="info" text="R" />
+- [Mangacultivator](https://mangacultivator.com) <Badge type="info" text="E" />
+- [1st Kiss Manga](https://1stkissmanga.me/) <Badge type="info" text="R-" />
+- # [Manganato](https://chapmanganato.com/nato) <Badge type="info" text="R" />
 
 === Rating
 [!badge variant="danger" text="R+"] Uploads NSFW content on a regular basis.
@@ -122,26 +122,26 @@ Everrything Manga Related!
 
 ### Nyaa Uploaders
 
-- [0v3r](https://nyaa.si/user/0v3r) [!badge variant="ghost" size="xs" text="compilation"]
-- [1r0n](https://nyaa.si/user/tsuna69) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kmanga"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [anadius](https://nyaa.si/user/anadius) [!badge variant="ghost" size="xs" text="viz"]
-- [Danke](https://nyaa.si/user/danke) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="jnovel"] [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="op"] [!badge variant="ghost" size="xs" text="yen"]
-- [Empy](https://nyaa.si/user/empyrealarrow) [!badge variant="ghost" size="xs" text="compilation"] [!badge variant="ghost" size="xs" text="glacier"] [!badge variant="ghost" size="xs" text="plus"]
-- [Lord_ne](https://nyaa.si/user/lord_ne) [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="lezhin"] [!badge variant="ghost" size="xs" text="yen"]
-- [Lucaz](https://nyaa.si/user/LuCaZ) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
-- [Oakminati](https://nyaa.si/user/Oakminati) [!badge variant="ghost" size="xs" text="comikey"] [!badge variant="ghost" size="xs" text="crunchy"] [!badge variant="ghost" size="xs" text="mangamo"] [!badge variant="ghost" size="xs" text="plus"] [!badge variant="ghost" size="xs" text="sq. enix"] [!badge variant="ghost" size="xs" text="up!"]
-- [PZG](https://nyaa.si/user/Phantom132) [!badge variant="ghost" size="xs" text="audio"]
-- [Shellshock](https://nyaa.si/user/shellshock) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Shizu](https://nyaa.si/user/wolfsbanes) [!badge variant="ghost" size="xs" text="kodansha"] [!badge variant="ghost" size="xs" text="sublime"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Stick](https://nyaa.si/user/dumbboy58) [!badge variant="ghost" size="xs" text="audio"] [!badge variant="ghost" size="xs" text="viz"] [!badge variant="ghost" size="xs" text="yen"]
-- [Ushi](https://nyaa.si/user/bakaushi) [!badge variant="ghost" size="xs" text="7seas"] [!badge variant="ghost" size="xs" text="yen"]
+- [0v3r](https://nyaa.si/user/0v3r) <Badge type="info" text="compilation" />
+- [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="7seas" /> <Badge type="info" text="comikey" /> <Badge type="info" text="jnovel" /> <Badge type="info" text="kmanga" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="sq. enix" /> <Badge type="info" text="up!" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [anadius](https://nyaa.si/user/anadius) <Badge type="info" text="viz" />
+- [Danke](https://nyaa.si/user/danke) <Badge type="info" text="7seas" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Digital Manga Fan](https://nyaa.si/user/digitalmangafan) <Badge type="info" text="7seas" /> <Badge type="info" text="jnovel" /> <Badge type="info" text="kodansha" /> <Badge type="info" text="op" /> <Badge type="info" text="yen" />
+- [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="compilation" /> <Badge type="info" text="glacier" /> <Badge type="info" text="plus" />
+- [Lord_ne](https://nyaa.si/user/lord_ne) <Badge type="info" text="crunchy" /> <Badge type="info" text="lezhin" /> <Badge type="info" text="yen" />
+- [Lucaz](https://nyaa.si/user/LuCaZ) <Badge type="info" text="7seas" /> <Badge type="info" text="yen" />
+- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="info" text="comikey" /> <Badge type="info" text="crunchy" /> <Badge type="info" text="mangamo" /> <Badge type="info" text="plus" /> <Badge type="info" text="sq. enix" /> <Badge type="info" text="up!" />
+- [PZG](https://nyaa.si/user/Phantom132) <Badge type="info" text="audio" />
+- [Shellshock](https://nyaa.si/user/shellshock) <Badge type="info" text="kodansha" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Shizu](https://nyaa.si/user/wolfsbanes) <Badge type="info" text="kodansha" /> <Badge type="info" text="sublime" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="audio" /> <Badge type="info" text="viz" /> <Badge type="info" text="yen" />
+- [Ushi](https://nyaa.si/user/bakaushi) <Badge type="info" text="7seas" /> <Badge type="info" text="yen" />
 
 ### Direct Download
 
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
-- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) [!badge variant="danger" size="xs" text="R+"]
+- [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="info" text="R+" />
 - [Anna's Archive](https://annas-archive.org/)
 
 > All the **Legal** manga reading sites are listed [here](https://otakulogy.github.io/manga-platform/) and [here](https://wherecanireadmanga.com/).
@@ -158,7 +158,7 @@ Everrything Manga Related!
   - Download and local reader support
   - Tracking & sync support
   - High cache consumption
-- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) [!badge variant="ghost" size="xs" text="Local"]
+- [**Perfect Viewer**](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=en&gl=US) <Badge type="info" text="Local" />
   - The reader itself is really good with a lot of filters
   - Has plugin support for the cloud services but not for manga websites
   - Support for all the comic formats.
@@ -177,13 +177,13 @@ Everrything Manga Related!
 
 #### Online:
 
-- [**Houdoku**](https://houdoku.netlify.app/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
   - Easy to setup
   - Good Customizable UI
   - Has good amount of extensions
   - Tracker integration
   - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
   - Uses the same extensions and backups as tachiyomi so good extension support
   - UI is same as tachiyomi
   - Can download manga
@@ -206,16 +206,16 @@ Everrything Manga Related!
 
 #### Offline:
 
-- [**CDisplayEx**](https://www.cdisplayex.com/) [!badge variant="ghost" size="xs" text="win"]
+- [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
   - Minimalist UI
   - Fast and simple reader with good amount of configuration
   - Has more resizing options
   - No vertical reading mode
-- [**YACReader**](https://www.yacreader.com/) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
   - Fast and customizable
   - Comes with YAClibrary, which is like calibre for comics
   - No vertical reading mode
-- [**OpenComic**](https://github.com/ollm/OpenComic) [!badge variant="ghost" size="xs" text="win"] [!badge variant="ghost" size="xs" text="mac"] [!badge variant="ghost" size="xs" text="lin"]
+- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
   - Decent UI
   - Initial load times is slightly slower than above two readers
   - Has vertical reading mode with limited amount of customization
@@ -243,11 +243,11 @@ Everrything Manga Related!
   - Available on Testflight (no Sideloading required)
   - OK-ish UI with some lags
   - only MangaDex as a source. So, therefore no official releases
-- [**YACReader**](https://apps.apple.com/app/id635717885) [!badge variant="ghost" size="xs" text="Local"] [!badge variant="ghost" size="xs" text="Paid"]
+- [**YACReader**](https://apps.apple.com/app/id635717885) <Badge type="info" text="Local" /> <Badge type="info" text="Paid" />
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
-- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) [!badge variant="ghost" size="xs" text="Cloud"]
+- [**SideBooks**](https://apps.apple.com/us/app/sidebooks/id409777225) <Badge type="info" text="Cloud" />
   - Supports PDF,ZIP,CBZ,RAR and CBR
   - Has all the necessary features
   - Old looking UI but very functional and customizable.

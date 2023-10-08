@@ -25,28 +25,28 @@ Information and guides pertaining to the world of fan translation, everything fr
 +++ Reader
 
 - [Bilingual Manga](https://bilingualmanga.net/)
-- [Hachi Raw](https://hachiraw.com/) [!badge variant="danger" size="xs" text="R+"]
-- [KL Manga](https://klmanga.com/) [!badge variant="ghost" size="xs" text="R"]
-- [Mangaraw Japan](https://mangaraw.to/) [!badge variant="danger" size="xs" text="R+"]
+- [Hachi Raw](https://hachiraw.com/) <Badge type="info" text="R+" />
+- [KL Manga](https://klmanga.com/) <Badge type="info" text="R" />
+- [Mangaraw Japan](https://mangaraw.to/) <Badge type="info" text="R+" />
 - [Mangaraw+](https://mangarawplus.co/)
-- [Raw Kuma](https://rawkuma.com/) [!badge variant="ghost" size="xs" text="R"]
-- [Sen Manga](https://raw.senmanga.com/) [!badge variant="danger" size="xs" text="R+"]
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/){target="\_blank"} [!badge variant="ghost" size="xs" text="R"]
+- [Raw Kuma](https://rawkuma.com/) <Badge type="info" text="R" />
+- [Sen Manga](https://raw.senmanga.com/) <Badge type="info" text="R+" />
+- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/){target="\_blank"} <Badge type="info" text="R" />
 
 +++ Direct Download
 
-- [A-Z Manga](https://www.a-zmanga.net/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Book Share Zip](https://bszip.com/) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Comic 77](https://comic77.com/) [!badge variant="danger" size="xs" text="R+"]
-- [Comics 888](https://comics888.com/) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw co](https://dl-raw.co/) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/){target="\_blank"} [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [DL Zip](https://dl-zip.com/) [!badge variant="ghost" size="xs" text="R"] [!badge variant="ghost" size="xs" text="Novel"] [!badge variant="ghost" size="xs" text="Magazine"]
-- [Itazura Neko](https://djtguide.github.io/library/manga/subete) [!badge variant="ghost" size="xs" text="Novel"]
-- [JP DDL](https://jpddl.com/manga) [!badge variant="ghost" size="xs" text="R"]
-- [Manga Zone](http://www.manga-zone.org/) [!badge variant="ghost" size="xs" text="Novel"]
-- [Raw Cans](http://raw-cans.net/) [!badge variant="danger" size="xs" text="R+"] [!badge variant="ghost" size="xs" text="Magazine"]
+- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="info" text="R+" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Book Share Zip](https://bszip.com/) <Badge type="info" text="R" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Comic 77](https://comic77.com/) <Badge type="info" text="R+" />
+- [Comics 888](https://comics888.com/) <Badge type="info" text="R" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Raw co](https://dl-raw.co/) <Badge type="info" text="R" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/){target="\_blank"} <Badge type="info" text="R+" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [DL Zip](https://dl-zip.com/) <Badge type="info" text="R" /> <Badge type="info" text="Novel" /> <Badge type="info" text="Magazine" />
+- [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />
+- [JP DDL](https://jpddl.com/manga) <Badge type="info" text="R" />
+- [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
+- [Raw Cans](http://raw-cans.net/) <Badge type="info" text="R+" /> <Badge type="info" text="Magazine" />
 
 > You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/){target="\_blank"}, & [newscon](https://www.newscon.net/d/){target="\_blank"} to download free & premium files from the file hosters.
 
@@ -110,7 +110,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 +++ Miscellaneous
 
-- [Alex's Raw Downloader](https://raws.alexeliot.xyz/) [!badge variant="ghost" size="xs" text="Free chapters only"]
+- [Alex's Raw Downloader](https://raws.alexeliot.xyz/) <Badge type="info" text="Free chapters only" />
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
 - [DeDRM tools](https://github.com/noDRM/DeDRM_tools)
 - Font Finder [!badge variant="dark" target="blank" text="Font Spring"](https://www.fontspring.com/matcherator) [!badge variant="dark" target="blank" text="Font Squirrel"](https://www.fontsquirrel.com/matcherator){target="\_blank"} [!badge variant="dark" target="blank" text="MyFonts"](https://www.myfonts.com/pages/whatthefont){target="\_blank"} [!badge variant="dark" target="blank" text="What font is"](https://www.whatfontis.com/){target="\_blank"}

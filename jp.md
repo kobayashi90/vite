@@ -37,7 +37,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Marshall's Site](https://marshallyin.com/)
 - [Kanji by Sight](https://www.nihongoshark.com/post/kanji-by-sight)
 - [Kanji Damage](http://www.kanjidamage.com/)
-- [Maggie sensei](https://maggiesensei.com/) [!badge variant="ghost" size="xs" text="Conversation"]
+- [Maggie sensei](https://maggiesensei.com/) <Badge type="info" text="Conversation" />
 
 +++ Kanji
 
@@ -46,7 +46,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanji Garden](https://kanji.garden/)
 - [Kanji Koohii](https://kanji.koohii.com/)
 - [Kotobaweb](https://kotobaweb.com/)
-- [NativShark](https://www.nativshark.com/) [!badge variant="ghost" size="xs" text="Freemium"]
+- [NativShark](https://www.nativshark.com/) <Badge type="info" text="Freemium" />
 - [The Kanji Map](https://thekanjimap.com/)
 - [Wanikani](https://www.wanikani.com/)
 
@@ -130,11 +130,11 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 - Anime
   - [Animelon](https://animelon.com/)
-  - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) [!badge variant="ghost" size="xs" text="Raw"]
-  - [Aniwatch](https://aniwatch.to/home) [!badge variant="ghost" size="xs" text="Raw"]
+  - [Nyaa](https://nyaa.si/?f=0&c=1_4&q=) <Badge type="info" text="Raw" />
+  - [Aniwatch](https://aniwatch.to/home) <Badge type="info" text="Raw" />
   - [itazuraneko](https://djtguide.github.io/library/sub)
-  - [Kitsunekko](https://kitsunekko.net/) [!badge variant="ghost" size="xs" text="Subs"]
-  - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) [!badge variant="ghost" size="xs" text="Subs"]
+  - [Kitsunekko](https://kitsunekko.net/) <Badge type="info" text="Subs" />
+  - [JP Subtitles](https://github.com/Matchoo95/JP-Subtitles) <Badge type="info" text="Subs" />
   - [Classics](https://animation.filmarchives.jp/index.html)
 - Movies & Drama
   - [Dramacool](https://dramacool.pa/)
@@ -174,7 +174,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Weblio](https://ejje.weblio.jp/)
   - [Gengo](https://gengo.tech/) [!button target="blank" variant="primary" size="xs" text="Prefectures"](https://prefectures.gengo.tech/){target="\_blank"}
 - Grammar
-  - [Bunpro](https://bunpro.jp/) [!badge variant="ghost" size="xs" text="Freemium"]
+  - [Bunpro](https://bunpro.jp/) <Badge type="info" text="Freemium" />
   - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
   - [Visualizing Japanese Grammar](https://www2.gwu.edu/~eall/vjgnew/vjghomepage/vjghome.htm)
 - Practice
@@ -210,12 +210,12 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Nihongo Fun&Easy](https://www.amazon.com/NIHONGO-FUN-EASY-Conversation-Beginners/dp/4872177215)
   - [Minna No Nihongo 1](https://www.amazon.com/Minna-No-Nihongo-Beginner-2nd/dp/4883196038) | [2](https://www.amazon.com/Minna-Nihongo-II-Main-Textbook/dp/4883196461){target="\_blank"} | [Workbook](https://www.amazon.com/Nihongo-Shokyu-Workbook-Hyojun-Mondaishu/dp/4883196631/){target="\_blank"}
 - Kanji
-  - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693){target="\_blank"} [!badge variant="ghost" size="xs" text="General"]
+  - [Remembering the Kanji 1](https://www.amazon.com/gp/product/0824835921) | [2](https://www.amazon.com/gp/product/0824836693){target="\_blank"} <Badge type="info" text="General" />
   - [The Kodansha Kanji Learner's Course](https://www.amazon.com/Kodansha-Kanji-Learners-Course-Step/dp/1568365268)
   - [Kanji Look and Learn](https://www.amazon.com/Kanji-Look-Learn-Eri-Banno/dp/4789013499)
   - [Tobira: Power Up Your Kanji](https://www.amazon.com/gp/product/4874244874)
 - Reading
-  - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) [!badge variant="ghost" size="xs" text="General"]
+  - [Tadoku Books](https://www.reddit.com/r/LearnJapanese/comments/o7x7ha/2021_updated_free_tadoku_graded_reader_pdfs_1796/) <Badge type="info" text="General" />
 - Vocabulary
   - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) | [N4](https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X){target="\_blank"}
 
