@@ -9,49 +9,49 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 ## Clients
 
-Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/){target="_blank"}. It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
+Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/). It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
 
 +++ Android
 
-- [Subtracks](https://github.com/austinried/subtracks#readme){target="_blank"}
-- [substreamer](https://substreamerapp.com/){target="_blank"}
-- [Ultrasonic](https://ultrasonic.gitlab.io/){target="_blank"}
-- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub){target="_blank"} <Badge type="info" text="Paid" />
-- [Symfonium](https://symfonium.app/){target="_blank"} <Badge type="info" text="Paid" />
+- [Subtracks](https://github.com/austinried/subtracks#readme)
+- [substreamer](https://substreamerapp.com/)
+- [Ultrasonic](https://ultrasonic.gitlab.io/)
+- [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="info" text="Paid" />
+- [Symfonium](https://symfonium.app/) <Badge type="info" text="Paid" />
 
 +++ iOS
 
-- [play:Sub](http://michaelsapps.dk/playsubapp/){target="_blank"}
-- [substreamer](https://substreamerapp.com/){target="_blank"}
-- [Amperfy](https://github.com/BLeeEZ/amperfy#readme){target="_blank"}
-- [iSub](https://isub.app){target="_blank"}
+- [play:Sub](http://michaelsapps.dk/playsubapp/)
+- [substreamer](https://substreamerapp.com/)
+- [Amperfy](https://github.com/BLeeEZ/amperfy#readme)
+- [iSub](https://isub.app)
 
 
 +++ Desktop
 
-- [Sonixd](https://github.com/jeffvli/sonixd){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
-- [Sublime Music](https://sublimemusic.app/){target="_blank"} <Badge type="info" text="Linux" />
-- [Supersonic](https://github.com/dweymouth/supersonic){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
-- [Submariner](https://submarinerapp.com/){target="_blank"} <Badge type="info" text="MacOS" />
-- [Feishin](https://github.com/jeffvli/feishin){target="_blank"} <Badge type="info" text="Buggy" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Sonixd](https://github.com/jeffvli/sonixd) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
+- [Sublime Music](https://sublimemusic.app/) <Badge type="info" text="Linux" />
+- [Supersonic](https://github.com/dweymouth/supersonic) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
+- [Submariner](https://submarinerapp.com/) <Badge type="info" text="MacOS" />
+- [Feishin](https://github.com/jeffvli/feishin) <Badge type="info" text="Buggy" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - **CLI**
-    - [Jellycli](https://github.com/tryffel/jellycli#readme){target="_blank"} <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" />
-    - [STMP](https://github.com/wildeyedskies/stmp#readme){target="_blank"} <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+    - [Jellycli](https://github.com/tryffel/jellycli#readme) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" />
+    - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 
 +++ Others
 
 - **Connected Speakers**
-  - [bonob](https://github.com/simojenki/bonob#readme){target="_blank"} <Badge type="info" text="Sonos" />
-  - [AskSonic](https://github.com/srichter/asksonic#readme){target="_blank"} <Badge type="info" text="Alexa" />
-- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme){target="_blank"}
-- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme){target="_blank"}
-- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme){target="_blank"}
+  - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
+  - [AskSonic](https://github.com/srichter/asksonic#readme) <Badge type="info" text="Alexa" />
+- [Subsonic Kodi Plugin](https://github.com/warwickh/plugin.audio.subsonic#readme)
+- [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
+- [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
-    - Expose Navidrome as a UPnP/DLNA media library. See the [!badge variant="dark" target="blank" text="discussion"](https://github.com/navidrome/navidrome/discussions/2324){target="_blank"}
+    - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="dark" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
 
 +++
 
-> For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/){target="_blank"} maintained by the Airsonic project.
+>For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project.
 
 ## Credentials
 
@@ -66,7 +66,7 @@ Connecting to Squidify is very easy, just login with the following credentials:
  1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
 !!! Query
-To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/){target="_blank"}.
+To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/).
 !!!
 
 

@@ -21,13 +21,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Anime
 
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream) [!button variant="primary" size="xs" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream) [!button type="info" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
   - Minimalist Customizable UI
   - Offers other types of media too
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aniyomi.org/){target="_blank"} <Badge type="info" text="Manga" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Button target="blank" type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -37,8 +37,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kaizoyu.ovh){target="_blank"}  <Badge type="info" text="XDCC" />
-- [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /> <Badge type="info" text="RPC" />
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
+- [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Miru](https://miru.js.org/)
@@ -47,7 +47,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://tachiyomi.org/){target="_blank"} [!button target="blank" variant="primary" size="xs" icon="repo-forked" text="Forks"](https://tachiyomi.org/forks/){target="_blank"}
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Button target="blank" type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -59,7 +59,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://kotatsu.app/){target="_blank"}
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -81,7 +81,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - No in-app reading analytics
   - Good amount of features are behind paywall
   - No online source & tracker support
-- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://shosetsu.app/){target="_blank"}
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Button target="blank" type="info" icon="globe" text="Web" link="https://shosetsu.app/" />
   - Minimal UI with a lot of customization
   - Has CSS support
   - Slow dowload and no epub conversion
@@ -111,13 +111,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Online
 
-- [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
+- [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - Easy to setup
     - Good Customizable UI
     - Has good amount of extensions
     - Tracker integration
     - Can download manga
-- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
+- [**Tachidesk**](https://github.com/Suwayomi/Tachidesk-Server) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - Uses the same extensions and backups as tachiyomi so good extension support
     - UI is same as tachiyomi
     - Can download manga
@@ -148,11 +148,11 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Fast and simple reader with good amount of configuration
     - Has more resizing options
     - No vertical reading mode
-- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
+- [**YACReader**](https://www.yacreader.com/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - Fast and customizable
     - Comes with YAClibrary, which is like calibre for comics
     - No vertical reading mode
-- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /> <Badge type="info" text="mac" /> <Badge type="info" text="lin" />
+- [**OpenComic**](https://github.com/ollm/OpenComic) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - Decent UI
     - Initial load times is slightly slower than above two readers
     - Has vertical reading mode with limited amount of customization
@@ -193,10 +193,10 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ### Light Novel
 
-- [Kavita](https://github.com/Kareadita/Kavita) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://www.kavitareader.com/){target="_blank"}
+- [Kavita](https://github.com/Kareadita/Kavita) <Button target="blank" type="info" icon="globe" text="Web" link="https://www.kavitareader.com/" />
 - [Thorium reader](https://github.com/edrlab/thorium-reader)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
-- [Koodo Reader](https://github.com/troyeguo/koodo-reader) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://koodo.960960.xyz/en){target="_blank"}
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader) <Button target="blank" type="info" icon="globe" text="Web" link="https://koodo.960960.xyz/en" />
 
 ![](/banner/ios.png)
 
@@ -220,18 +220,18 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Manga
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://paperback.moe/){target="_blank"}
+- [**Paperback**](https://github.com/Paperback-iOS/app) <Button target="blank" type="info" icon="globe" text="Web" link="https://paperback.moe/" />
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) [!button target="blank" variant="primary" size="xs" icon="globe" text="Web"](https://aidoku.app/){target="_blank"}
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Button target="blank" type="info" icon="globe" text="Web" link="https://aidoku.app/" />
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support
   - Chapter download possible
   - Still in active Development
-- [**YACReader**](https://apps.apple.com/app/id635717885) <Badge type="info" text="Local" /> <Badge type="info" text="Paid" />
+- [**YACReader**](https://apps.apple.com/app/id635717885) <Badge type="info" text="Local" /><Badge type="info" text="Paid" />
   - Multiple transfer options and local reader support
   - Support for cbz, cbr, zip, tar, arj, pdf, and rar formats as well as image formats
   - Ability to backup comics
@@ -342,9 +342,9 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 - [gallery-dl](https://github.com/mikf/gallery-dl)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
-- [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /> <Badge type="info" text="Windows" /> <Badge type="info" text="Linux" /> <Badge type="info" text="MacOS" />
+- [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /><Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
 +++
 
-> You can find more PC related tools [**here**](/addons.md/#tools)
+>You can find more PC related tools [**here**](/addons.md/#tools)

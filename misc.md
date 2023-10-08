@@ -46,7 +46,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) [!button target="blank" variant="primary" size="xs" icon="/icon/discord.svg" text="Invite"](https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot){target="_blank"}
+- [Sneedex](https://sneedex.moe/) <Button target="blank" type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -62,7 +62,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/animenotifier/notify.moe){target="_blank"}
+- [Notify.moe](https://notify.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/)
 
@@ -71,7 +71,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/wopian/kitsu-season-trends){target="_blank"}
+- [Kitsu Season Trends](https://season.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -84,7 +84,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ Info
 
-- [Bookmeter](https://bookmeter.com/) [!badge variant="ghost" icon="/icon/jp.png" text="JP"]
+- [Bookmeter](https://bookmeter.com/) <Badge type="info" icon="/icon/jp.png" text="JP" />
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
@@ -114,7 +114,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Illustrations
 - [Pixiv](https://www.pixiv.net) <Badge type="info" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Danbooru](https://danbooru.donmai.us/) [!badge variant="success" target="blank" text="SFW Ver"](https://safebooru.donmai.us/){target="_blank"} <Badge type="info" text="R+" />
+- [Danbooru](https://danbooru.donmai.us/) <Badge type="success" text="SFW Ver" link="https://safebooru.donmai.us/" /><Badge type="info" text="R+" />
 - [Gelbooru](https://gelbooru.com/) <Badge type="info" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/)
 - [Kona chan](https://konachan.com/) <Badge type="info" text="R+" />
@@ -127,11 +127,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Japan
 +++ Culture & History
 
-- [Web Japan](https://web-japan.org/) [!button target="blank" variant="primary" size="xs" text="Old"](https://web-japan.org/atlas/index.html){target="_blank"}
+- [Web Japan](https://web-japan.org/) [!button target="blank" type="info" text="Old"](https://web-japan.org/atlas/index.html)
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
-- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) | [Gaijin](https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/){target="_blank"}
+- [Japan: Below the tip of the iceberg](https://prezi.com/9_lvn6v3fzgt/japan-below-the-tip-of-the-iceberg/) | [Gaijin](https://www.reddit.com/r/IcebergCharts/comments/n4edop/gaijin_foreigners_in_japan_iceberg/)
 - [JTCO](https://www.jtco.or.jp/en/)
 
 #### Books
@@ -147,7 +147,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology)
 - [Yokai.com](https://yokai.com/)
 - [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/)
-- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) [!button target="blank" variant="primary" size="xs" text="Books"](https://sites.pitt.edu/~dash/japantales.html){target="_blank"}
+- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) [!button target="blank" type="info" text="Books"](https://sites.pitt.edu/~dash/japantales.html)
 
 #### Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319)
@@ -170,7 +170,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Boutique Japan](https://boutiquejapan.com/)
     - [Japan Specialist](https://japanspecialist.com/)
     - [JRailPass](https://www.jrailpass.com/blog/)
-    - [Mini Tokyo 3D](https://minitokyo3d.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagix/mini-tokyo-3d){target="_blank"}
+    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
 - **Japanese**
     - [Omatsuri Japan](https://omatsurijapan.com/)
     - [Travel Research](https://www.homemate-research-tour.com/)
@@ -187,11 +187,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Cooking
 
 - **Blog**
-    - [Just One Cookbook](https://www.justonecookbook.com/) [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@justonecookbook){target="_blank"}
-    - [Sirogohan](https://www.sirogohan.com/) [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@sirogohancom/){target="_blank"}
-    - [Cooking with Dog](https://cookingwithdog.com/) [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@cookingwithdog){target="_blank"}
-    - [Japanese Cooking 101](https://www.japanesecooking101.com/) [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@recipetinjapan3806/){target="_blank"}
-    - [RecipeTin Japan](https://japan.recipetineats.com/) [!button target="blank" variant="primary" size="xs" text="Youtube"](https://www.youtube.com/@JapaneseCooking101){target="_blank"}
+    - [Just One Cookbook](https://www.justonecookbook.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@justonecookbook)
+    - [Sirogohan](https://www.sirogohan.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@sirogohancom/)
+    - [Cooking with Dog](https://cookingwithdog.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@cookingwithdog)
+    - [Japanese Cooking 101](https://www.japanesecooking101.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@recipetinjapan3806/)
+    - [RecipeTin Japan](https://japan.recipetineats.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@JapaneseCooking101)
     - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
     - [Okonomiyaki World](http://okonomiyakiworld.com/index.html)
     - [Japan food addict](https://www.japanfoodaddict.com/)
@@ -213,7 +213,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Youtube
 
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
-    - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL) | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR){target="_blank"} | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX){target="_blank"} | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV){target="_blank"} | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X){target="_blank"}
+    - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL) | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR) | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX) | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV) | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X)
     - [WACKY WEEKEND](https://www.youtube.com/playlist?list=PL3BrCRgvsZ9DbueHiNITARMRqi0YfCgbT)
     - [Documentaries](https://www.youtube.com/playlist?list=PLSOR9_iNzVfnEAmyp9QbIQk3xkeLVTUTq)
 - [The Japan Reporter](https://www.youtube.com/@TheJapanReporter)
@@ -240,7 +240,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 #### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" variant="primary" size="xs" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ)
+- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" type="info" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ)
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
@@ -260,14 +260,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++
 
-> You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/){target="_blank"}, [**PDF Drive**](https://www.pdfdrive.com/){target="_blank"} & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106){target="_blank"} to download books.
+>You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 
 ![](/banner/others.png)
 ## Others
 
 +++ Recommendations
 
-- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100){target="_blank"}
+- ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
 - [u/FetchFrosh Recommendations](https://www.reddit.com/r/anime/comments/o16ipm/rebuild_of_the_ultimate_anime_recommendation/)
 - Visual Novel Recommendations
@@ -342,28 +342,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Tools
 
 +++ Analysis
-- [anime.plus](https://anime.plus/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/anime-plus/graph){target="_blank"} <Badge type="info" text="MAL" />
-- [Anistats](https://mayudev.github.io/anistats/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/mayudev/anistats) <Badge type="info" text="AL" />
+- [anime.plus](https://anime.plus/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/rl404/sekai){target="_blank"} <Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
-- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" />  <Badge type="info" text="AL" />
+- [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/)
-- [SauceKudasai](https://saucekudasai.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ayushgptaa/SauceKudasai){target="_blank"}
+- [SauceKudasai](https://saucekudasai.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/soruly/trace.moe){target="_blank"}
+- [Trace](https://trace.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
-- [Imgtrans](https://touhou.ai/imgtrans/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/zyddnys/manga-image-translator){target="_blank"}
+- [Imgtrans](https://touhou.ai/imgtrans/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/ryuuganime/aniTrakt-IndexParser){target="_blank"}
-- [Waif2x](https://unlimited.waifu2x.net/) [!badge variant="dark" target="blank" text="udp"](https://waifu2x.udp.jp/){target="_blank"}  [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/nagadomi/waifu2x){target="_blank"}
-- [WaifuXL](https://waifuxl.com/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/TheFutureGadgetsLab/WaifuXL){target="_blank"}
+- [Trakt to MAL](https://anitrakt.huere.net/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="dark" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
+- [WaifuXL](https://waifuxl.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 +++
 
@@ -373,21 +373,21 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
-- [Holodex](https://holodex.net/) [!button target="blank" variant="primary" size="xs" text="Music"](https://music.holodex.net/){target="_blank"} <Badge type="info" text="Frontend" />
+- [Holodex](https://holodex.net/) [!button target="blank" type="info" text="Music"](https://music.holodex.net/) <Badge type="info" text="Frontend" />
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
-- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
+- [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
 - [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" variant="primary" size="xs" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking){target="_blank"} <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
-- [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /> <Badge type="info" text="Schedule" />
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" type="info" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /><Badge type="info" text="Schedule" />
 - [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
 +++ Hololive
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
-- [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /> <Badge type="info" text="Schedule" />
-- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" variant="primary" size="xs" text="Schedule"](https://schedule.hololive.tv/lives){target="_blank"} <Badge type="info" text="DB" /> <Badge type="info" text="News" />
+- [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" type="info" text="Schedule"](https://schedule.hololive.tv/lives) <Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
@@ -409,7 +409,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - **Playlists**
     - [HOLOLIVE Original Songs](https://www.youtube.com/playlist?list=PLcA50eR_E8Zbi4hdQHU5Rl1J6KrWRlHpM)
     - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
-    - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL){target="_blank"}
+    - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
 
 +++ Discord
 - [Hololive Fan Server](https://discord.gg/holofans) 
@@ -438,13 +438,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
     - Tutorials out there on YouTube, you still will have to invest a massive amount of time
-- [**VTubeStudio**](https://denchisoft.com/) [!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/1325860/VTube_Studio/){target="_blank"}
+- [**VTubeStudio**](https://denchisoft.com/) <Badge type="dark" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" />
     - Converts tracking input into model movement, needed if you want to bring your model to "life"
     - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/)
     - Add-On for VTubeStudio to improve tracking
     - Costs 8,19€ (one-time)
-    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005){target="_blank"} <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US){target="_blank"} <Badge type="info" text="Android" />
+    - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005) <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US) <Badge type="info" text="Android" />
 
 #### 3D
 - [**VRoidStudio**](https://vroid.com/en/studio)
@@ -460,7 +460,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
      - Makes rigging your character easier, although you will get better results if you rig it manually using Blender.
 - [**UniVRM**](https://github.com/vrm-c/UniVRM/releases)
      - Free & Open Source: Import VRoid Models into Unity
-- [**3Tene**](https://3tene.com/free/) [!badge variant="dark" target="blank" text="Steam"](https://store.steampowered.com/app/871170/3tene/){target="_blank"} 
+- [**3Tene**](https://3tene.com/free/) <Badge type="dark" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />
      - Free, there are other Versions with different functionality on their website
      - Used to track your 3D Model using your webcam/phone etc.
 - [**VSeeFace**](https://www.vseeface.icu/)
@@ -538,7 +538,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [MakeGirlsMoe](https://make.girls.moe/)
 - [Anianimals](https://www.anianimals.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) [!button target="blank" variant="primary" size="xs" icon="mark-github" text="Github"](https://github.com/falsepopsky/vagabond-hiatus-chart){target="_blank"}
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
 
@@ -556,9 +556,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [XOXO Comics](https://xoxocomics.com/)
 - Direct Download
     - [Anna’s Archive](https://annas-archive.org/)
-    - [Desuarchive](https://desuarchive.org/) [!badge variant="Dark" text="Win-O'-Thread"](https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/){target="_blank"}
+    - [Desuarchive](https://desuarchive.org/) <Badge type="Dark" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
     - [Get Comics](https://getcomics.info/)
-    - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/){target="_blank"}
+    - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
     - [Libgen](https://libgen.is/)
 - Tracker
     - [League of Comic Geeks](https://leagueofcomicgeeks.com/)
