@@ -13,3 +13,4 @@ node_modules
 .next
 .vitepress/dist
 .vitepress/cache
+*.md

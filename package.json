@@ -6,10 +6,12 @@
     "format": "prettier --cache -w ."
   },
   "dependencies": {
+    "@resvg/resvg-js": "^2.4.1",
     "unocss": "^0.56.5",
     "vitepress": "1.0.0-rc.20",
+    "vitepress-plugin-tabs": "^0.4.1",
     "vue": "^3.3.4",
-    "vitepress-plugin-tabs": "^0.4.1"
+    "x-satori": "^0.1.5"
   },
   "devDependencies": {
     "@iconify-json/octicon": "^1.1.49",
