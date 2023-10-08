@@ -6,7 +6,7 @@ import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { generateImages, generateMeta } from "./hooks";
 
 // FIXME: remove this after we are done
-const hostname: string = "https://wvite.pages.dev" || "http://localhost:4173";
+const hostname: string = "https://wvite.pages.dev";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
