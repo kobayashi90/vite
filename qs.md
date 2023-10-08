@@ -14,8 +14,7 @@ The most important things to get you started.
 
 == Anime
 
-- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home)
-  <Badge text="formerly 9anime"/>
+- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge text="formerly 9anime"/>
 - [KickAssAnime](https://kickassanime.am/) (use duck or birdstream if available)
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="DDL" />
 

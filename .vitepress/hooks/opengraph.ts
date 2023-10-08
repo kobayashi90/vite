@@ -12,7 +12,7 @@ const __fonts = resolve(__dirname, "../fonts");
 export async function generateImages(config: SiteConfig) {
   const pages = await createContentLoader("**/*.md", { excerpt: true }).load();
   const template = await readFile(
-    resolve(__dirname, "../theme/components/OgImageTemplate.vue"),
+    resolve(__dirname, "../components/OgImageTemplate.vue"),
     "utf-8",
   );
 
