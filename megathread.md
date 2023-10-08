@@ -15,7 +15,7 @@ The most important things to get you started.
 ### Websites
 
 +++ Anime
-- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge type="Dark" target="blank" text="formerly 9anime" />
+- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge type="Dark" text="formerly 9anime" />
 - [KickAssAnime](https://kickassanime.am/) (use duck or birdstream if available)
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge type="info" text="DDL" />
 
@@ -41,7 +41,7 @@ The most important things to get you started.
 ### Software
 
 +++ Android
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Button target="blank" type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" /><Badge type="info" text="Manga" />
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" /><Badge type="info" text="Manga" />
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge type="info" text="Anime" /><Badge type="info" text="Manga" />
 - [Quicknovel](https://github.com/LagradOst/QuickNovel) <Badge type="info" text="LN" />
 
@@ -126,18 +126,18 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++ :icon-play: Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" target="blank" text="formerly 9anime" />
+- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" text="formerly 9anime" />
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
     - Has both hardsub and softsub (multilingual)
     - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
-- [**KickAssAnime**](https://kickassanime.am/) [!button target="blank" type="info" text="Proxies"](https://kickassanimes.info/)
+- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" />
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
     - Duck has the highest overall bitrate but may have buffer issue.
     - Has both hardsub(duck) & softsub(rest) 
     - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" target="blank" text="formerly Zoro" />
+- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" text="formerly Zoro" />
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
@@ -148,7 +148,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++ :icon-unfold: Torrent
 
-- [Nyaa](https://nyaa.si/) [!button target="blank" type="info" text="Proxy 1"](https://nyaa.iss.one/)  [!button target="blank" type="info" text="Proxy 2"](https://nyaa.iss.ink/)
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /> <Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
@@ -234,7 +234,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
     - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
     - Main source is torrent based
     - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace)
-- [**Pokémon TV**](https://poke-tv.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
+- [**Pokémon TV**](https://poke-tv.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
     - Organizes everything pokemon related
     - Has uploads for various dub but no JP dub
     - Uploads are upto 720p, sometimes even lower
@@ -252,7 +252,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
     - [Muse Asia](https://www.youtube.com/@MuseAsia/)
     - [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
 - **TV**
-    - [Funcube](https://funcube.space/) [!button target="blank" type="info" text="Backup"](https://backup.funcube.space/) 
+    - [Funcube](https://funcube.space/) <Badge type="info" text="Backup" link="https://backup.funcube.space/" />
     - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 
 +++
@@ -390,7 +390,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 
 +++ :icon-move-to-bottom: Direct Download
-- [Madokami](https://manga.madokami.al) [!button target="blank" type="info" text="Guide"](/Guides/mado.md)
+- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/Guides/mado.md" />
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="info" text="R+" />
@@ -406,7 +406,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 +++ :icon-Play: Stream
 
 - **OP/ED**
-    - [Anithemes.moe](https://animethemes.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
+    - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
     - [Themes.moe](https://themes.moe/)
     - [Karaoke Mugen](https://kara.moe)
     - [Squidify](https://www.squidify.org/)
@@ -663,13 +663,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Anime
 
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream) [!button type="info" icon="globe" text="Web"](https://cloudstream.on.fleek.co/)
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="globe" text="Web" link="https://cloudstream.on.fleek.co/" />
   - Minimalist Customizable UI
   - Offers other types of media too
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Button target="blank" type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -679,7 +679,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 === More
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
@@ -689,7 +689,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Button target="blank" type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -701,7 +701,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Badge type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -723,7 +723,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - No in-app reading analytics
   - Good amount of features are behind paywall
   - No online source & tracker support
-- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Button target="blank" type="info" icon="globe" text="Web" link="https://shosetsu.app/" />
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Badge type="info" icon="globe" text="Web" link="https://shosetsu.app/" />
   - Minimal UI with a lot of customization
   - Has CSS support
   - Slow dowload and no epub conversion
@@ -835,10 +835,10 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 #### Light Novel
 
-- [Kavita](https://github.com/Kareadita/Kavita) <Button target="blank" type="info" icon="globe" text="Web" link="https://www.kavitareader.com/" />
+- [Kavita](https://github.com/Kareadita/Kavita) <Badge type="info" icon="globe" text="Web" link="https://www.kavitareader.com/" />
 - [Thorium reader](https://github.com/edrlab/thorium-reader)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
-- [Koodo Reader](https://github.com/troyeguo/koodo-reader) <Button target="blank" type="info" icon="globe" text="Web" link="https://koodo.960960.xyz/en" />
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader) <Badge type="info" icon="globe" text="Web" link="https://koodo.960960.xyz/en" />
 
 ![](/banner/ios.png)
 
@@ -862,12 +862,12 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 +++ Manga
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) <Button target="blank" type="info" icon="globe" text="Web" link="https://paperback.moe/" />
+- [**Paperback**](https://github.com/Paperback-iOS/app) <Badge type="info" icon="globe" text="Web" link="https://paperback.moe/" />
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Button target="blank" type="info" icon="globe" text="Web" link="https://aidoku.app/" />
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Badge type="info" icon="globe" text="Web" link="https://aidoku.app/" />
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support
@@ -1032,7 +1032,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Button target="blank" type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -1048,7 +1048,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/)
 
@@ -1057,7 +1057,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -1113,7 +1113,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Japan
 +++ Culture & History
 
-- [Web Japan](https://web-japan.org/) [!button target="blank" type="info" text="Old"](https://web-japan.org/atlas/index.html)
+- [Web Japan](https://web-japan.org/) <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" />
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
@@ -1133,7 +1133,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology)
 - [Yokai.com](https://yokai.com/)
 - [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/)
-- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) [!button target="blank" type="info" text="Books"](https://sites.pitt.edu/~dash/japantales.html)
+- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) <Badge type="info" text="Books" link="https://sites.pitt.edu/~dash/japantales.html" />
 
 ##### Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319)
@@ -1156,7 +1156,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Boutique Japan](https://boutiquejapan.com/)
     - [Japan Specialist](https://japanspecialist.com/)
     - [JRailPass](https://www.jrailpass.com/blog/)
-    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
+    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
 - **Japanese**
     - [Omatsuri Japan](https://omatsurijapan.com/)
     - [Travel Research](https://www.homemate-research-tour.com/)
@@ -1173,11 +1173,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Cooking
 
 - **Blog**
-    - [Just One Cookbook](https://www.justonecookbook.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@justonecookbook)
-    - [Sirogohan](https://www.sirogohan.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@sirogohancom/)
-    - [Cooking with Dog](https://cookingwithdog.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@cookingwithdog)
-    - [Japanese Cooking 101](https://www.japanesecooking101.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@recipetinjapan3806/)
-    - [RecipeTin Japan](https://japan.recipetineats.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@JapaneseCooking101)
+    - [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@justonecookbook" />
+    - [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@sirogohancom/" />
+    - [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@cookingwithdog" />
+    - [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@recipetinjapan3806/" />
+    - [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
     - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
     - [Okonomiyaki World](http://okonomiyakiworld.com/index.html)
     - [Japan food addict](https://www.japanfoodaddict.com/)
@@ -1226,7 +1226,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ##### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" type="info" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ)
+- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
@@ -1328,28 +1328,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ### Tools
 
 +++ Analysis
-- [anime.plus](https://anime.plus/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-- [Anistats](https://mayudev.github.io/anistats/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+- [anime.plus](https://anime.plus/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/)
-- [SauceKudasai](https://saucekudasai.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+- [Trace](https://trace.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
-- [Imgtrans](https://touhou.ai/imgtrans/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
+- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
 - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="dark" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-- [WaifuXL](https://waifuxl.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 +++
 
@@ -1359,13 +1359,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
-- [Holodex](https://holodex.net/) [!button target="blank" type="info" text="Music"](https://music.holodex.net/) <Badge type="info" text="Frontend" />
+- [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
 - [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
 - [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" type="info" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /><Badge type="info" text="Schedule" />
 - [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
@@ -1373,7 +1373,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
-- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" type="info" text="Schedule"](https://schedule.hololive.tv/lives) <Badge type="info" text="DB" /><Badge type="info" text="News" />
+- [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
@@ -1524,7 +1524,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [MakeGirlsMoe](https://make.girls.moe/)
 - [Anianimals](https://www.anianimals.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
 
@@ -1596,7 +1596,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [AIMP](https://play.google.com/store/apps/details?id=com.aimp.player)
 - [Innertune](https://github.com/z-huang/InnerTune) <Badge type="info" text="Youtube Music" />
 - [mpv-android](https://github.com/mpv-android/mpv-android) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=is.xyz.mpv&hl=en&gl=US" />
-- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) [!button target="blank" type="Dark" text="Mobilism"](https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly)
+- [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=en&gl=US) <Badge type="Dark" text="Mobilism" link="https://forum.mobilism.me/search.php?keywords=mx+player&sr=topics&sf=titleonly" />
 - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) <Badge type="info" text="iOS" />
 - [Poweramp](https://powerampapp.com/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" />
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
@@ -1610,12 +1610,12 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - DailyAL <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" /><Badge type="info" text="MyAnimeList" />
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
-- [MoeList](https://github.com/axiel7/MoeList) <Button target="blank" type="info" icon="globe" text="Web" link="https://moelist.net/" /><Badge type="info" text="MyAnimeList" />
+- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="globe" text="Web" link="https://moelist.net/" /><Badge type="info" text="MyAnimeList" />
 
 +++ Others
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US)
 - Illustrations
-    - Anime Boxes <Button target="blank" type="info" icon="globe" text="Web" link="https://www.animebox.es/" />
+    - Anime Boxes <Badge type="info" icon="globe" text="Web" link="https://www.animebox.es/" />
     - [Boorusphere](https://github.com/nullxception/boorusphere)
     - Pixiv <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - [KizzyRPC](https://github.com/dead8309/KizzyRPC)
@@ -1636,7 +1636,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Plex](https://www.plex.tv/)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
-- [Shoko Anime](https://github.com/shokoanime) <Button target="blank" type="info" icon="globe" text="Web" link="https://shokoanime.com/" />
+- [Shoko Anime](https://github.com/shokoanime) <Badge type="info" icon="globe" text="Web" link="https://shokoanime.com/" />
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
 +++ Manga
@@ -1652,11 +1652,11 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 +++ Trackers
 
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Button target="blank" type="info" icon="globe" text="Web" link="https://malupdaterosx.moe/hachidori/" /><Badge type="info" text="MacOS" />
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="globe" text="Web" link="https://malupdaterosx.moe/hachidori/" /><Badge type="info" text="MacOS" />
 - [MALClient](https://github.com/Drutol/MALClient) <Badge type="dark" icon="globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" /><Badge type="info" text="Windows" />
-- [Taiga](https://github.com/erengy/taiga) <Button target="blank" type="info" icon="globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Windows" /><Badge type="info" text="Downloader" />
-- [Trackma](https://github.com/z411/trackma) <Button target="blank" type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
-- [Tundra](https://github.com/m4tx/tundra) <Button target="blank" type="info" icon="globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
+- [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Windows" /><Badge type="info" text="Downloader" />
+- [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
+- [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
 
 +++ mpv
 
@@ -1694,14 +1694,14 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 +++ Discord bots
 
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Button target="blank" type="info" icon="globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
 - [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) <Button target="blank" type="info" icon="globe" text="Web" link="https://michelle.jacenboy.com/" />
-- Sneedex <Button target="blank" type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="globe" text="Web" link="https://michelle.jacenboy.com/" />
+- Sneedex <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
 - [Poketwo](https://poketwo.net/)
 
@@ -1743,18 +1743,18 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 +++ Anime
 
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) <Button target="blank" type="info" icon="globe" text="Web" link="https://animewatchparties.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" />
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) <Badge type="info" icon="globe" text="Web" link="https://animewatchparties.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" />
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) <Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/" />
-- [Anime Skip Player](https://github.com/anime-skip/player) <Button target="blank" type="info" icon="globe" text="Web" link="https://anime-skip.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
+- [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="globe" text="Web" link="https://anime-skip.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Button target="blank" type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
-- Substital <Button target="blank" type="info" icon="globe" text="Web" link="https://substital.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- Substital <Badge type="info" icon="globe" text="Web" link="https://substital.com/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
 
 
 +++ Manga
 
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Button target="blank" type="info" icon="globe" text="Web" link="https://www.allmangasreader.com/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Button target="blank" type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="globe" text="Web" link="https://www.allmangasreader.com/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
 
@@ -1762,9 +1762,9 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi)  <Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/" />
 - Improve Crunchyroll <Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" />
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Button target="blank" type="info" icon="globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Button target="blank" type="info" icon="globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Button target="blank" type="info" icon="globe" text="Web" link="https://pixiv.download/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="globe" text="Web" link="https://pixiv.download/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
 - [Search by Image](https://github.com/dessant/search-by-image)
 +++
 
@@ -1973,7 +1973,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Takoboto](https://takoboto.jp/)
     - [Tangorin](https://tangorin.com/)
     - [Weblio](https://ejje.weblio.jp/)
-    - [Gengo](https://gengo.tech/) [!button target="blank" type="info" text="Prefectures"](https://prefectures.gengo.tech/)
+    - [Gengo](https://gengo.tech/) <Badge type="info" text="Prefectures" link="https://prefectures.gengo.tech/" />
 - Grammar
     - [Bunpro](https://bunpro.jp/) <Badge type="info" text="Freemium" />
     - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
@@ -2084,7 +2084,7 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
 	- [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
 	- [memento](https://github.com/ripose-jp/Memento)
-    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
 	- [Voracious](https://voracious.app/)
 - Practice
 	- Learn Japanese! - Kanji <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
@@ -2409,7 +2409,7 @@ Everyone has to let off some steam once in a while, we don't judge.
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
-- [nyanpantsu](https://nyanpantsu.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
+- [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 +++ Manhwa
@@ -2422,7 +2422,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 === Scanlators
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Button target="blank" type="info" icon="globe" text="Web" link="https://omegascans.org/" />
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Badge type="info" icon="globe" text="Web" link="https://omegascans.org/" />
 - [Constellar Scans](https://constellarcomic.com/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
@@ -2465,8 +2465,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 === Downloader
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Button target="blank" type="info" icon="globe" text="Web" link="https://hakuneko.download/" />
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Button target="blank" type="info" icon="globe" text="Web" link="https://doujindownloader.com/" />
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="globe" text="Web" link="https://hakuneko.download/" />
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="globe" text="Web" link="https://doujindownloader.com/" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Anime" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)

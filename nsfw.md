@@ -49,7 +49,7 @@ Everyone has to let off some steam once in a while, we don't judge.
     - NSFW portion of nyaa.
 - [Chika Panda](https://panda.chaika.moe/)
     - Archive of stuff removed from E-Hentai due to DMCA complaints. has fakku/irodori stuff.
-- [nyanpantsu](https://nyanpantsu.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
+- [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
 +++ Manhwa
@@ -62,7 +62,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 === Scanlators
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
-- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Button target="blank" type="info" icon="globe" text="Web" link="https://omegascans.org/" />
+- [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Badge type="info" icon="globe" text="Web" link="https://omegascans.org/" />
 - [Constellar Scans](https://constellarcomic.com/)
 - [Acera the great](https://mangadex.org/group/ea35447d-5035-485f-8eda-841bafc4b215/acerathegreat)
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
@@ -105,8 +105,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 
 === Downloader
 
-- [Hakuneko](https://github.com/manga-download/hakuneko) <Button target="blank" type="info" icon="globe" text="Web" link="https://hakuneko.download/" />
-- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Button target="blank" type="info" icon="globe" text="Web" link="https://doujindownloader.com/" />
+- [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="globe" text="Web" link="https://hakuneko.download/" />
+- [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="globe" text="Web" link="https://doujindownloader.com/" />
 - [Hentai downloader](https://github.com/touno-io/hentai-downloader)
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) <Badge type="info" text="Anime" />
 - [E-Hentai Downloader](https://github.com/ccloli/E-Hentai-Downloader)

@@ -35,18 +35,18 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++ :icon-play: Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" target="blank" text="formerly 9anime" />
+- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" text="formerly 9anime" />
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
   - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
-- [**KickAssAnime**](https://kickassanime.am/) <Button target="blank" type="info" text="Proxies" link="https://kickassanimes.info/" />
+- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" />
   - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
   - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" target="blank" text="formerly Zoro" />
+- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" text="formerly Zoro" />
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
@@ -57,7 +57,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 +++ :icon-unfold: Torrent
 
-- [Nyaa](https://nyaa.si/) <Button target="blank" type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Button target="blank" type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
@@ -145,7 +145,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
   - Main source is torrent based
   - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace)
-- [**Pokémon TV**](https://poke-tv.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
+- [**Pokémon TV**](https://poke-tv.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
   - Organizes everything pokemon related
   - Has uploads for various dub but no JP dub
   - Uploads are upto 720p, sometimes even lower
@@ -163,7 +163,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - [Muse Asia](https://www.youtube.com/@MuseAsia/)
   - [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
 - **TV**
-  - [Funcube](https://funcube.space/) <Button target="blank" type="info" text="Backup" link="https://backup.funcube.space/" />
+  - [Funcube](https://funcube.space/) <Badge type="info" text="Backup" link="https://backup.funcube.space/" />
   - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 
 +++
@@ -322,7 +322,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Direct Download
 
-- [Madokami](https://manga.madokami.al) [!button target="blank" type="info" text="Guide"](/Guides/mado.md)
+- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/Guides/mado.md" />
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="info" text="R+" />
@@ -338,7 +338,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 +++ :icon-Play: Stream
 
 - **OP/ED**
-  - [Anithemes.moe](https://animethemes.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
+  - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
   - [Themes.moe](https://themes.moe/)
   - [Karaoke Mugen](https://kara.moe)
   - [Squidify](https://www.squidify.org/)

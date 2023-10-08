@@ -152,7 +152,7 @@ Everrything Manga Related!
 
 ### Android
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://tachiyomi.org/) <Badge type="info" icon="repo-forked" text="Forks" />(https://tachiyomi.org/forks/" />
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/) <Badge type="info" icon="repo-forked" text="Forks" />(https://tachiyomi.org/forks/" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -164,7 +164,7 @@ Everrything Manga Related!
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Badge type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -228,12 +228,12 @@ Everrything Manga Related!
 
 #### iOS
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) <Button target="blank" type="info" icon="globe" text="Web" link="https://paperback.moe/" />
+- [**Paperback**](https://github.com/Paperback-iOS/app) <Badge type="info" icon="globe" text="Web" link="https://paperback.moe/" />
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Button target="blank" type="info" icon="globe" text="Web" link="https://aidoku.app/" />
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Badge type="info" icon="globe" text="Web" link="https://aidoku.app/" />
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support

@@ -10,17 +10,17 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 
 ### Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" target="blank" text="formerly 9anime" />
+- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" text="formerly 9anime" />
     - Huge library with Watch Together feature
     - Less amount of compression compared to other sites that use 3rd party hosts
     - Original site's UI is bloated. Use [Anix](https://anix.to/home) or [9animehq](https://9animehq.to/home) for more minimal experience.
-- [**KickAssAnime**](https://kickassanime.am/) [!button target="blank" type="info" text="Proxies"](https://kickassanimes.info/)
+- [**KickAssAnime**](https://kickassanime.am/) <Badge type="info" text="Proxies" link="https://kickassanimes.info/" />
     - Scrapes **Crunchyroll**(duckstream) and **Bilibili**(birdstream)
     - KAA encodes(videstreaming) are quite good(the new encodes) and loads better.
     - Duck has the highest overall bitrate but may have buffer issue.
     - Has both hardsub(duck) & softsub(rest) 
     - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" target="blank" text="formerly Zoro" />
+- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" text="formerly Zoro" />
     - Huge library with Watch Together feature
     - Re-encodes shows for smaller size with lower overall bitrate.
     - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
@@ -33,8 +33,8 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 - [Animeflix](https://animeflix.live/)
 - [AnimeUI](https://animeui.com/) <Badge type="info" text="IPFS" /><Badge type="info" text="Small library" /><Badge type="info" text="Great Quality" />
 - [Kaguya](https://kaguya.app) <Badge type="info" text="Needs extension" />
-- [One Pace](https://onepace.net/) [!button target="blank" type="info" text="Stremio"](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) [!button target="blank" type="info" text="Direct Stream"](https://rentry.co/onepace) <Badge type="info" text="Torrent" />
-- [Pokémon TV](https://poke-tv.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" /><Badge type="info" text="Multi-lang" />
+- [One Pace](https://onepace.net/) <Badge type="info" text="Stremio" link="https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json" /><Badge type="info" text="Direct Stream" link="https://rentry.co/onepace" /><Badge type="info" text="Torrent" />
+- [Pokémon TV](https://poke-tv.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" /><Badge type="info" text="Multi-lang" />
 - [AnimeXin](https://animexin.vip/) <Badge type="info" text="Donghua" />
 - [Lucifer Donghua](https://luciferdonghua.in/) <Badge type="info" text="Donghua" />
 - [LM Anime](https://lmanime.com/) <Badge type="info" text="Donghua" />
@@ -45,7 +45,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 
 ### Torrents
 
-- [Nyaa](https://nyaa.si/) [!button target="blank" type="info" text="Proxy 1"](https://nyaa.iss.one/)  [!button target="blank" type="info" text="Proxy 2"](https://nyaa.iss.ink/)
+- [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /> <Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
 - [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
@@ -117,13 +117,13 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
     - Tracking & backup support
     - Local player support
     - need to be part of the discord server to get the extension urls
-- [**Aniyomi**](https://github.com/jmir1/aniyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+- [**Aniyomi**](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
     - Tachiyomi fork for anime
     - Clean and minimal design
     - Offers other types of media too
     - Has manga reader too
     - Tracking support with enhanced type
-- [**Kaizoyu!**](https://github.com/astarivi/Kaizoyu) <Button target="blank" type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" />
+- [**Kaizoyu!**](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" />
     - Uses XDCC to stream files
     - Good video quality since it's scrapping a DDL source
     - Great app UI
@@ -188,7 +188,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 - [AnimeSchedule](https://animeschedule.net/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 
 
@@ -196,7 +196,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -208,7 +208,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 
 - [Aniplaylist](https://aniplaylist.com/)
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Button target="blank" type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -222,10 +222,10 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 ### Music
 
 #### Stream
-- [Anithemes.moe](https://animethemes.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
+- [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
 - [Themes.moe](https://themes.moe/)
 - [Squidify](https://www.squidify.org/)
-- [LISTEN.moe](https://listen.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/LISTEN-moe" />
+- [LISTEN.moe](https://listen.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/LISTEN-moe" />
 
 #### Direct Download
 - [Sitting on Clouds](https://www.sittingonclouds.net/) <Badge type="info" text="FLAC" /><Badge type="info" text="Mega" /><Badge type="info" text="Mediafire" />
@@ -239,15 +239,15 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 ### Tools
 
 #### Analysis
-- [anime.plus](https://anime.plus/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [anime.plus](https://anime.plus/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
-- [Sekai](https://sekai.rl404.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
 #### Image search
-- [SauceKudasai](https://saucekudasai.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+- [Trace](https://trace.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 ### Trackers
 
@@ -264,25 +264,25 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 
 === MyAnimeList
 - DailyAL <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" />
-- [MoeList](https://github.com/axiel7/MoeList) <Button target="blank" type="info" icon="globe" text="Web" link="https://moelist.net/" />
+- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="globe" text="Web" link="https://moelist.net/" />
 ===
 
 #### Windows
-- [Taiga](https://github.com/erengy/taiga) <Button target="blank" type="info" icon="globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Downloader" />
-- [Trackma](https://github.com/z411/trackma) <Button target="blank" type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" />
+- [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Downloader" />
+- [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" />
 - [MALClient](https://github.com/Drutol/MALClient) <Badge type="info" icon="globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" />
 
 #### MacOS
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Button target="blank" type="info" icon="globe" text="Web" link="https://malupdaterosx.moe/hachidori/" />
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="globe" text="Web" link="https://malupdaterosx.moe/hachidori/" />
 
 #### Linux
-- [Trackma](https://github.com/z411/trackma) <Button target="blank" type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" />
-- [Tundra](https://github.com/m4tx/tundra) <Button target="blank" type="info" icon="globe" text="Web" link="https://tundra.moe/" />
+- [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" />
+- [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="globe" text="Web" link="https://tundra.moe/" />
 
 #### Browser
-- [MALSync](https://github.com/MALSync/MALSync) <Button target="blank" type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /><Badge type="info" icon="file-code" text="Script" link="https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="dark" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" /><Badge type="info" icon="file-code" text="Script" link="https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js" />
 - [Kenmei](https://www.kenmei.co/)
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Button target="blank" type="info" icon="globe" text="Web" link="https://www.allmangasreader.com/" />
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="globe" text="Web" link="https://www.allmangasreader.com/" />
 
 #### Miscellaneous
 - [Anime Manga Auto Backup](https://github.com/Animanga-Initiative/animeManga-autoBackup)
@@ -367,7 +367,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 - [Kuramanime](https://kuramanime.net/)
 - [Mynimeku](https://www.mynimeku.com/)
 - [Neonime](https://neonime.fun/)
-- [Ryukonime](https://ryukonime.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AzwarKusumah/Ryukonime" />
+- [Ryukonime](https://ryukonime.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AzwarKusumah/Ryukonime" />
 - [Kusonime](https://kusonime.com/) <Badge type="info" text="DDL" />
 
 #### Italian
@@ -379,7 +379,7 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/docchipl/shinden-description" />
+- [Docchi](https://docchi.pl/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/docchipl/shinden-description" />
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -408,11 +408,11 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 - [Anime Buff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.xyz/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.xyz/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/Averito/Averlist" />
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Sovet Romantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
@@ -442,5 +442,5 @@ If you want to get the best quality, use [Direct Download](/Websites.md/#direct-
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu.org/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-vsub/desktop-web" />
-- [Unime](https://unime.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/huy232/Unime" />
+- [AnimeVsub](https://animevsub.eu.org/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-vsub/desktop-web" />
+- [Unime](https://unime.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/huy232/Unime" />

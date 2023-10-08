@@ -16,7 +16,7 @@ Otaku resources for other languages/regions.
 
 
 #### Multi
-- [Aniwatch](https://aniwatch.to/home) <Badge type="Dark" target="blank" text="formerly Zoro" />
+- [Aniwatch](https://aniwatch.to/home) <Badge type="Dark" text="formerly Zoro" />
 - [Kickassanime](https://kaas.am/)
 
 #### Arabic
@@ -109,7 +109,7 @@ Otaku resources for other languages/regions.
 - [Anime Odcinki](https://anime-odcinki.pl/)
 - [Anime Zone](https://www.animezone.pl/)
 - [Desu Online](https://desu-online.pl/)
-- [Docchi](https://docchi.pl/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/docchipl/shinden-description" />
+- [Docchi](https://docchi.pl/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/docchipl/shinden-description" />
 - [Dragon Subs](https://dragonsubs.pl/)
 - [Frixy Subs](https://frixysubs.pl/)
 - [Fumetsu](https://fumetsu.pl/)
@@ -139,11 +139,11 @@ Otaku resources for other languages/regions.
 - [Anime Buff](https://animebuff.ru/) <Badge type="info" text="Sub" />
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.xyz/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.xyz/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/Averito/Averlist" />
 - [Dreamcast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [Sovet Romantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
 - [Yummy Anime](https://yummyanime.club/)
 - [Anime Slayer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
@@ -170,8 +170,8 @@ Otaku resources for other languages/regions.
 #### Vietnamese
 - [Kaguya](https://kaguya.app/)
 - [Ani4u](https://ani4u.org/)
-- [AnimeVsub](https://animevsub.eu.org/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-vsub/desktop-web" />
-- [Unime](https://unime.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/huy232/Unime" />
+- [AnimeVsub](https://animevsub.eu.org/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-vsub/desktop-web" />
+- [Unime](https://unime.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/huy232/Unime" />
 
 
 
@@ -205,7 +205,7 @@ Otaku resources for other languages/regions.
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
+- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
 
 #### Japanese
@@ -237,7 +237,7 @@ Otaku resources for other languages/regions.
 #### Vietnamese
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
-- [Kyoto manga](https://kyotomanga.live/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
+- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)
 
 
@@ -265,8 +265,8 @@ Otaku resources for other languages/regions.
 - [Mediabox](https://github.com/RyensX/MediaBox) <Badge type="info" icon="/icon/cn.png" text="CN" /><Badge type="info" text="Stream" />
 
 === Multi
-- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Button target="blank" type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
-- [Aniyomi](https://github.com/jmir1/aniyomi/) <Button target="blank" type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+- [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
 - Saikou <Badge type="info" icon="/icon/id.png" text="ID" link="https://github.com/saikou-app/saikou-in/" /><Badge type="info" icon="/icon/italy.png" text="IT" link="https://github.com/antonydp/saikou-italiano" /><Badge type="info" icon="/icon/spain.png" text="ES" link="https://github.com/Diegopyl1209/saikouSP" /><Badge type="info" icon="/icon/vietnam.png" text="VN" link="https://github.com/hoangvu12/SaikouVN" />
 
 ===
@@ -295,7 +295,7 @@ Otaku resources for other languages/regions.
 ### Brewing
 
 #### Website
-- [ANIFOX](https://anifox.club/anime) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/YockyMai/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
+- [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/YockyMai/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
 
 #### Apps
 - [Neko Anime](https://github.com/xioneko/neko-anime) <Badge type="info" icon="/icon/cn.png" text="CN" />

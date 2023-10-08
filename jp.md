@@ -172,7 +172,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Takoboto](https://takoboto.jp/)
   - [Tangorin](https://tangorin.com/)
   - [Weblio](https://ejje.weblio.jp/)
-  - [Gengo](https://gengo.tech/) <Button target="blank" type="info" text="Prefectures" link="https://prefectures.gengo.tech/" />
+  - [Gengo](https://gengo.tech/) <Badge type="info" text="Prefectures" link="https://prefectures.gengo.tech/" />
 - Grammar
   - [Bunpro](https://bunpro.jp/) <Badge type="info" text="Freemium" />
   - [A Dictionary of Japanese Grammar](https://core6000.neocities.org/dojg/)
@@ -274,7 +274,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
   - [memento](https://github.com/ripose-jp/Memento)
-    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
   - [Voracious](https://voracious.app/)
 - Practice
   - Learn Japanese! - Kanji <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />

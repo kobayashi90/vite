@@ -46,7 +46,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Index
 
 - [Seadex](https://releases.moe/)
-- [Sneedex](https://sneedex.moe/) <Button target="blank" type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
+- [Sneedex](https://sneedex.moe/) <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [A Certain Fansubber's Index](https://index.fansubcar.tel/)
 - [Fansub Database](https://fansubdb.com/)
 - [German Fansubbers' Index](https://anime-fansubs.de/)
@@ -62,7 +62,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/)
 
@@ -71,7 +71,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -127,7 +127,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Japan
 +++ Culture & History
 
-- [Web Japan](https://web-japan.org/) [!button target="blank" type="info" text="Old"](https://web-japan.org/atlas/index.html)
+- [Web Japan](https://web-japan.org/) <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" />
 - [Do You Know Japan?](https://doyouknowjapan.com/)
 - [Japanese Wiki](https://www.japanesewiki.com/)
 - [Japan Reference](https://jref.com/)
@@ -147,7 +147,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Japanese folklore and mythology](https://www.newworldencyclopedia.org/entry/Japanese_folklore_and_mythology)
 - [Yokai.com](https://yokai.com/)
 - [Home of Japanese Mythology 'SHIMANE'](https://www.kankou-shimane.com/en/japanesemythology/)
-- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) [!button target="blank" type="info" text="Books"](https://sites.pitt.edu/~dash/japantales.html)
+- [Folktales from Japan](https://sites.pitt.edu/~dash/japan.html) <Badge type="info" text="Books" link="https://sites.pitt.edu/~dash/japantales.html" />
 
 #### Books
 - [The Japanese Myths: A Guide to Gods, Heroes and Spirits](https://www.amazon.com/Japanese-Myths-Guide-Heroes-Spirits/dp/0500252319)
@@ -170,7 +170,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Boutique Japan](https://boutiquejapan.com/)
     - [Japan Specialist](https://japanspecialist.com/)
     - [JRailPass](https://www.jrailpass.com/blog/)
-    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
+    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
 - **Japanese**
     - [Omatsuri Japan](https://omatsurijapan.com/)
     - [Travel Research](https://www.homemate-research-tour.com/)
@@ -187,11 +187,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 +++ Cooking
 
 - **Blog**
-    - [Just One Cookbook](https://www.justonecookbook.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@justonecookbook)
-    - [Sirogohan](https://www.sirogohan.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@sirogohancom/)
-    - [Cooking with Dog](https://cookingwithdog.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@cookingwithdog)
-    - [Japanese Cooking 101](https://www.japanesecooking101.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@recipetinjapan3806/)
-    - [RecipeTin Japan](https://japan.recipetineats.com/) [!button target="blank" type="info" text="Youtube"](https://www.youtube.com/@JapaneseCooking101)
+    - [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@justonecookbook" />
+    - [Sirogohan](https://www.sirogohan.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@sirogohancom/" />
+    - [Cooking with Dog](https://cookingwithdog.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@cookingwithdog" />
+    - [Japanese Cooking 101](https://www.japanesecooking101.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@recipetinjapan3806/" />
+    - [RecipeTin Japan](https://japan.recipetineats.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@JapaneseCooking101" />
     - [Chopstick Chronicles](https://www.chopstickchronicles.com/)
     - [Okonomiyaki World](http://okonomiyakiworld.com/index.html)
     - [Japan food addict](https://www.japanfoodaddict.com/)
@@ -240,7 +240,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 #### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
 - [Understanding the Japanese Writing System](https://www.youtube.com/watch?v=r7a8OjvViwE)
-- [the peculiar case of japanese web design](https://sabrinas.space/) [!button target="blank" type="info" text="Video"](https://www.youtube.com/watch?v=z6ep308goxQ)
+- [the peculiar case of japanese web design](https://sabrinas.space/) <Badge type="info" text="Video" link="https://www.youtube.com/watch?v=z6ep308goxQ" />
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
@@ -342,28 +342,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Tools
 
 +++ Analysis
-- [anime.plus](https://anime.plus/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-- [Anistats](https://mayudev.github.io/anistats/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+- [anime.plus](https://anime.plus/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
 +++ Image search
 - [Multi-service image search](https://iqdb.org/)
-- [SauceKudasai](https://saucekudasai.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+- [Trace](https://trace.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 +++ Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
-- [Imgtrans](https://touhou.ai/imgtrans/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
+- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
 - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="dark" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-- [WaifuXL](https://waifuxl.com/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 +++
 
@@ -373,13 +373,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 +++ General
 
-- [Holodex](https://holodex.net/) [!button target="blank" type="info" text="Music"](https://music.holodex.net/) <Badge type="info" text="Frontend" />
+- [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
 - [VChama](https://vchama.xyz) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [Virtual YouTuber Wiki ](https://virtualyoutuber.fandom.com/wiki/Virtual_YouTuber_Wiki) <Badge type="info" text="DB" />
 - [VSTATS](https://www.vstats.jp/) <Badge type="info" text="Stats" />
 - [Hololist](https://hololist.net/) <Badge type="info" text="DB" />
-- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) [!button target="blank" type="info" text="Stream Rank"](https://live-ranking.userlocal.jp/vtuber-ranking) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
+- [Userlocal Vtuber](https://virtual-youtuber.userlocal.jp/) <Badge type="info" text="Stream Rank" link="https://live-ranking.userlocal.jp/vtuber-ranking" /><Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
 - [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /><Badge type="info" text="Schedule" />
 - [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
@@ -387,7 +387,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
-- [Hololive Production](https://hololive.hololivepro.com/) [!button target="blank" type="info" text="Schedule"](https://schedule.hololive.tv/lives) <Badge type="info" text="DB" /><Badge type="info" text="News" />
+- [Hololive Production](https://hololive.hololivepro.com/) <Badge type="info" text="Schedule" link="https://schedule.hololive.tv/lives" /><Badge type="info" text="DB" /><Badge type="info" text="News" />
 - [Holotracker](https://trackholo.live/en/) <Badge type="info" text="Stats" />
 - [hololive TODAY](https://hololivetoday.com/) <Badge type="info" text="News" />
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
@@ -538,7 +538,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [MakeGirlsMoe](https://make.girls.moe/)
 - [Anianimals](https://www.anianimals.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
 

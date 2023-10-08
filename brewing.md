@@ -15,15 +15,15 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 ### Manga
 
-- [Atsumaru](https://atsu.moe/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
+- [Atsumaru](https://atsu.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
 
 ### Anime
 
-- [CoreProject](https://coreproject.moe/anime) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
+- [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
 
 ### Miscellaneous
 
-- [Tankobon](https://tankobon.net/) <Button target="blank" type="info" icon="mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
+- [Tankobon](https://tankobon.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
 
 ![](/banner/software.png)
 
@@ -40,7 +40,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 
 #### Manga
 
-- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Button target="blank" type="info" icon="globe" text="Web" link="https://atsumeru.xyz/" />
+- [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="globe" text="Web" link="https://atsumeru.xyz/" />
 - [Fukayo](https://github.com/JiPaix/Fukayo/)
 - [Special Eureka](https://github.com/tonymushah/special-eureka)
 
