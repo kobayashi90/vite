@@ -74,8 +74,8 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
   const { frontmatter, url } = page;
 
   const options: SatoriOptions = {
-    width: 1200,
-    height: 628,
+    width: 1098,
+    height: 530,
     fonts,
     props: {
       title:
@@ -93,10 +93,7 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
   const svg = await satoriVue(options, template);
 
   const render = await renderAsync(svg, {
-    fitTo: {
-      mode: "width",
-      value: 1200,
-    },
+    fitTo: { mode: "original" },
   });
 
   const outputFolder = resolve(outDir, url.substring(1), "__og_image__");
