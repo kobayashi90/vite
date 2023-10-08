@@ -1,8 +1,12 @@
-import { defineConfig } from "vitepress";
+import { defineConfig, loadEnv } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
+import { generateImages, generateMeta } from "./hooks";
+
+const env = loadEnv("", process.cwd())
+const hostname: string = env.VITE_HOSTNAME || "http://localhost:4173"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -20,6 +24,10 @@ export default defineConfig({
     ["meta", { name: "og:locale", content: "en" }],
     ["link", { rel: "icon", href: "/asset/podarufav.png" }],
   ],
+	transformHead: async (context) => generateMeta(context, hostname),
+	buildEnd: async (context) => {
+		generateImages(context)
+	},
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin);
@@ -28,20 +36,14 @@ export default defineConfig({
   vite: {
     plugins: [
       UnoCSS({
-        presets: [
-          presetUno(),
-          presetAttributify(),
-          presetIcons(),
-        ],
+        presets: [presetUno(), presetAttributify(), presetIcons()],
       }),
     ],
     resolve: {
       alias: [
         {
           find: /^.*\/VPBadge\.vue$/,
-          replacement: fileURLToPath(
-            new URL("./components/Badge.vue", import.meta.url)
-          ),
+          replacement: fileURLToPath(new URL("./components/Badge.vue", import.meta.url)),
         },
       ],
     },
@@ -50,7 +52,7 @@ export default defineConfig({
     search: {
       provider: "local",
     },
-    logo: "/asset/inaidle.webp",
+    logo: { src: "/asset/inaidle.webp", width: 24, height: 24 },
     nav: [
       { text: "Home", link: "/" },
       { text: "Anime", link: "/anime" },
@@ -88,7 +90,7 @@ export default defineConfig({
           { text: "Madokami", link: "/guides/mado" },
           { text: "Manga Image Editing", link: "/guides/imagedit" },
           { text: "Network Stream", link: "/guides/ns" },
-          { text: "Squidify", link: "guides/squidify" },
+          { text: "Squidify", link: "/guides/squidify" },
         ],
       },
       { text: "⚗️ Brewing", link: "/brewing" },
