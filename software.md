@@ -19,7 +19,9 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ## Android
 
-+++ Anime
+:::tabs
+
+== Anime
 
 - [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="globe" text="Web" link="https://cloudstream.on.fleek.co/" />
   - Minimalist Customizable UI
@@ -35,7 +37,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Tracking support with enhanced type
   - Good amount of extensions are broken
 
-=== More
+:::details More {open}
 
 - [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
@@ -43,9 +45,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [Enimax](https://github.com/enimax-anime/enimax)
 - [Miru](https://miru.js.org/)
 - [Anime Scrap](https://github.com/fakeyatogod/AnimeScrap)
-  ===
 
-+++ Manga
+== Manga
 
 - [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   - Great Customizable UI
@@ -66,7 +67,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Tracking & sync support
   - Lacks some basic features
 
-+++ Light Novel
+== Light Novel
 
 - [**Moon+ Reader Pro**](https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp&hl=en&gl=US)
   - Customizable UI
@@ -93,15 +94,14 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Slow app update with broken sources
   - No single page & tracking support
 
-=== More
+:::details More {open}
 
 - [LN Reader](https://github.com/LNReader/lnreader)
 - [Ranobe](https://github.com/ranobe-org/ranobe)
 - [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha)
 - [Lithium: EPUB Reader](https://play.google.com/store/apps/details?id=com.faultexception.reader&hl=en&gl=US)
-  ===
 
-+++
+:::
 
 ![](/banner/pc.png)
 
@@ -109,7 +109,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ### Manga
 
-+++ Online
+:::tabs
+== Online
 
 - [**Houdoku**](https://houdoku.netlify.app/) <Badge type="info" text="win" /><Badge type="info" text="mac" /><Badge type="info" text="lin" />
     - Easy to setup
@@ -123,7 +124,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Can download manga
     - No tracker integration
 
-=== Clients
+:::detals Clients {open}
 - [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server)
     - lots of sources to pick from
     - basic settings for reading
@@ -139,9 +140,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Batch downloading manga
     - new tab window while stream reading
 
-===
-
-+++ Offline
+== Offline
 
 - [**CDisplayEx**](https://www.cdisplayex.com/) <Badge type="info" text="win" />
     - Minimalist UI
@@ -158,7 +157,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Has vertical reading mode with limited amount of customization
     - Does not clear cache automatically. Have to do it manually
 
-+++ Hosting
+== Hosting
 - [**Komga**](https://komga.org/)
     - Media server for manga/comics (like plex for manga).
     - Integrates with tachiyomi, OPDS reader or anything else using komga rest api.
@@ -176,12 +175,12 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Reliant on filename parsing, requires strict adherence to expected filename formats and embedded metadata is near mandatory for edge-cases.
     - No MALSync support. Tracking support, alongside some other features, is paywalled behind Kavita+.
 
-+++
+:::
 
-=== More
+:::details More {open}
 - [Yomikiru](https://github.com/mienaiyami/yomikiru) <Badge type="info" text="offline" />
 - [LANraragi](https://github.com/Difegue/LANraragi) <Badge type="info" text="Self-hosted" />
-===
+:::
 
 ### Anime
 
@@ -202,7 +201,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ## iOS
 
-+++ Anime
+:::tabs
+== Anime
 
 - [**Anime Now**](https://github.com/AnimeNow-Team/AnimeNow)
   - Great UI with extension support
@@ -218,7 +218,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Small number of extensions 
   - Only available trough sideloading
 
-+++ Manga
+== Manga
 
 - [**Paperback**](https://github.com/Paperback-iOS/app) <Badge type="info" icon="globe" text="Web" link="https://paperback.moe/" />
   - Very clean UI with changeable theme
@@ -251,13 +251,14 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Old looking UI but very functional and customizable.
   - Good amount of features paywalled
 
-+++
+:::
 
 ![](/banner/dler.png)
 
 ## Downloader
 
-+++ Anime
+:::tabs
+== Anime
 
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
   - No Crunchyroll implementation
@@ -292,7 +293,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Used for torrent downloads that can be redirected/downloaded directly into a BitTorrent client - no DDL functionality
   - for nyaa.si only
 
-+++ Manga
+== Manga
 
 - [**Hakuneko**](https://github.com/manga-download/hakuneko)
   - Currently the best downloader
@@ -316,7 +317,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [**Hitomi Downloader**](https://github.com/KurtBestor/Hitomi-Downloader)
   - Supports mostly nsfw sites but works great for the supported ones
 
-+++ Light Novel
+== Light Novel
 
 - [**WebtoEpub**](https://chrome.google.com/webstore/detail/webtoepub/akiljllkbielkidmammnifcnibaigelm)
   - Rich with epub settings and customization
@@ -338,13 +339,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Fast expertience
   - needs a basic knowlege for Command prompt
 
-+++ Others
+:::details Others {open}
 
 - [gallery-dl](https://github.com/mikf/gallery-dl)
 - [Imgbrd-Grabber](https://www.bionus.org/imgbrd-grabber/)
 - [Nicotine+](https://nicotine-plus.org/) <Badge type="info" text="p2p" /><Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
-+++
+:::
 
 >You can find more PC related tools [**here**](/addons.md/#tools)
