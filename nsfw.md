@@ -39,8 +39,6 @@ Everyone has to let off some steam once in a while, we don't judge.
     - Big Library and great search filters.
 - [Hitomi](https://hitomi.la/)
     - Big Library but difficult to navigate.
-- [Koushoku](https://ksk.moe/)
-    - Has licensed (Fakku/Irodori) stuff.
 - [Hentaifox](https://hentaifox.com/ )
     - Fast Updates and English only library.
 - [Hentai2read](https://hentai2read.com/)

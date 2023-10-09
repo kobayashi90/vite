@@ -70,7 +70,6 @@ export default defineConfig({
       { text: "📦 Merch", link: "/merch" },
       { text: "🗣️ Communities", link: "/comms" },
       { text: "📃 Scanlation", link: "/scanlation" },
-      { text: "⚗️ Brewing", link: "/brewing" },
       {
         text: "📖 Glossary",
         collapsed: true,
