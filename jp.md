@@ -13,7 +13,9 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 ## Websites
 
-+++ Starter
+:::tabs
+
+== Starter
 
 - [Tatsumoto's Guide to Learn Japanese](https://tatsumoto.neocities.org/)
 - [Refold Japanese](https://refold.la/) | [Docs](https://docs.google.com/document/d/1tQmoGwCJQqmjdmaQdigAG0Ph1ODSMsGhsD7qOhlUuc0/edit)
@@ -24,7 +26,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [DJT Guide](https://djtguide.neocities.org/guide)
 - [Animecards](https://animecards.site/)
 
-+++ Guides
+== Guides
 
 - [TOFUGU](https://www.tofugu.com/)
   - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) | [PDF](https://www.tofugu.com/japanese/learn-hiragana-book-pdf/)
@@ -39,7 +41,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [Kanji Damage](http://www.kanjidamage.com/)
 - [Maggie sensei](https://maggiesensei.com/) <Badge type="info" text="Conversation" />
 
-+++ Kanji
+== Kanji
 
 - [Japanese KANJI Names Dictionary](https://kanji.reader.bz/en/)
 - [Kanjipedia](https://www.kanjipedia.jp/)
@@ -50,7 +52,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [The Kanji Map](https://thekanjimap.com/)
 - [Wanikani](https://www.wanikani.com/)
 
-+++ Listening & Reading
+== Listening & Reading
 
 - Listening
   - [SuperNative](https://supernative.tv/ja/)
@@ -65,7 +67,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Watanoc](https://watanoc.com/)
   - [Yomujp](https://yomujp.com/)
 
-+++ Pitch Accent
+== Pitch Accent
 
 - Guides
   - [TOFUGU](https://www.tofugu.com/japanese/japanese-pronunciation/)
@@ -88,7 +90,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Kotu](https://kotu.io/)
   - [NALA](www.tufs.ac.jp/st/personal/99/kawatsu/nala/)
 
-+++ Youtube
+== Youtube
 
 #### Channels
 
@@ -126,7 +128,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - [JapanesePod101] [Learn ALL hiragana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=6p9Il_j0zjc)
 - [JapanesePod101] [Learn ALL katakana in 1 hour - How to write and read japanese](https://www.youtube.com/watch?v=s6DKRgtVLGA)
 
-+++ Media
+== Media
 
 - Anime
   - [Animelon](https://animelon.com/)
@@ -161,7 +163,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Condensed Audio Catalog](https://condensedaudiocatalog.com/)
   - [Japanese Condensed Audio](https://mega.nz/folder/8HhhWDyJ#SHw5xsYxyhWUX536UcqkeQ) | [2](https://mega.nz/folder/N4d3STJC#w3wPPgk9UgD6qE_UvjtB8Q)
 
-+++ Others
+== Others
 
 - Dictionary
   - [JISHO](https://jisho.org/)
@@ -193,14 +195,21 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Migaku Pitch Trainer](https://pitch-demo.migaku.io/)
   - [Nihongo](https://nihongo-e-na.com/eng/)
   - [Resources for pitch accent](https://xythh.github.io/resources)
-- Tools - [Japanese.io](https://www.japanese.io/) - [Sentence Search](https://sentencesearch.neocities.org/) - [Massif](https://massif.la/ja) - [Similar word finder](https://hinoki-project.org/natsume/)
-  +++
+- Tools
+  - [Japanese.io](https://www.japanese.io/) 
+  - [Sentence Search](https://sentencesearch.neocities.org/) 
+  - [Massif](https://massif.la/ja) 
+  - [Similar word finder](https://hinoki-project.org/natsume/)
+
+:::
 
 ![](/banner/books.png)
 
 ## Books
 
-+++ N5 & N4
+:::tabs
+
+== N5 & N4
 
 - Grammar
   - [Genki Textbook Volume 1](https://www.amazon.com/Genki-Vol-1-Textbook-3e-ed/dp/4789017303) | [Workbook](https://www.amazon.com/Genki-Vol-1-Workbook-3e-ed/dp/4789017311)
@@ -219,7 +228,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 - Vocabulary
   - [JLPT Tango N5](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179811) | [N4](https://www.amazon.com/JAPANESE-VOCABULARY-WORDS-Trilingue-Japonais/dp/487217982X)
 
-+++ N3
+== N3
 
 - Grammar
   - [Kanzen Master Grammar N3](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Complete/dp/4883196100)
@@ -228,8 +237,12 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Jlpt N3 Nihongo Somatome Kanji](https://www.amazon.com/Jlpt-N3-Nihongo-Somatome-Kanji/dp/4872177304)
 - Reading
   - [日本語能力試験問題集 N3 読解スピードマスタ](https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E5%95%8F%E9%A1%8C%E9%9B%86N3%E8%AA%AD%E8%A7%A3%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC-%E6%B8%A1%E9%82%89-%E4%BA%9C%E5%AD%90/dp/4863920342)
-- Vocabulary - [Nihongo Somatome N3 Vocabulary](https://www.amazon.com/So-matome-Essential-Practice-Proficiency-Vocabulary/dp/4872177312) - [2000 Essential Vocabulary for the JLPT N3](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179838)
-  +++ N2
+- Vocabulary
+  - [Nihongo Somatome N3 Vocabulary](https://www.amazon.com/So-matome-Essential-Practice-Proficiency-Vocabulary/dp/4872177312)
+  - [2000 Essential Vocabulary for the JLPT N3](https://www.amazon.com/Japanese-Vocabulary-Words-Language-Proficiency/dp/4872179838)
+
+  == N2
+
 - Grammar
   - [Kanzen Master Grammar N2](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195651)
   - [Try! JLPT N2](https://www.amazon.com/JAPANESE-LANGUAGE-PROFICIENCY-REVISED-JAPONAIS/dp/487217903X)
@@ -240,8 +253,11 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Kanzen Master JLPT N2 Reading](https://www.amazon.com/Reading-Japanese-Language-Proficiency-Noryokushiken/dp/4883195724)
   - [JLPT N2 Workbook](https://www.amazon.co.jp/gp/product/4789017826)
   - [日本語能力試験 N2 Wokbook](https://www.amazon.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93-N2%E7%9B%B4%E5%89%8D%E5%AF%BE%E7%AD%96%E3%83%89%E3%83%AA%E3%83%AB-%E6%A8%A1%E8%A9%A6-%E6%96%87%E5%AD%97%E3%83%BB%E8%AA%9E%E5%BD%99%E3%83%BB%E6%96%87%E6%B3%95/dp/4863924062)
-- Vocabulary - [ミニストーリーで覚える ベスト単語合格２４００](https://www.amazon.co.jp/dp/4789017966)
-  +++ N1
+- Vocabulary 
+  - [ミニストーリーで覚える ベスト単語合格２４００](https://www.amazon.co.jp/dp/4789017966)
+
+  == N1
+
 - Grammar
   - [Kanzen Master Grammar N1](https://www.amazon.com/Grammar-Japanese-Language-Proficiency-Nihongo/dp/4883195643)
 - Kanji
@@ -250,22 +266,35 @@ Interested in learning the japanese language? Here you can find resources to aid
 - Reading
   - [Kanzen Master JLPT N1 Reading](https://www.amazon.com/Kanzen-Master-Reading-Language-Proficiency/dp/4883195716)
   - [全科目攻略! JLPT 日本語能力試験ベスト総合問題集 N1 Workbook](https://www.amazon.co.jp/-/en/%E4%BA%94%E5%8D%81%E5%B5%90%E9%A6%99%E5%AD%90/dp/4789017818)
-- Vocabulary - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
-  +++
+- Vocabulary
+  - [Kanzen Master N1 Vocabulary](https://www.amazon.com/Kanzen-Master-Vocabulary-Language-Proficiency/dp/4883195732)
+
+:::
 
 ![](/banner/software.png)
 
 ## Software
 
-+++ Anki
+:::tabs
+
+== Anki
 
 - [Anki](https://apps.ankiweb.net/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.ichi2.anki" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387" /><Badge type="dark" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-anki" />
 - Card templates
   - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
   - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
   - [Anki Prettify](https://github.com/pranavdeshai/anki-prettify)
-- Decks - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) - [DoJG Deck](https://dojgdeck.neocities.org/) - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) - [KanjiDamage](https://ankiweb.net/shared/info/748570187) - [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752) - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-\_2023-06-24.apkg/file) <Badge type="dark" text="Support" link="https://discord.gg/cSEXEB5DgF" />
-  +++ Learning tools
+- Decks
+  - [Core 2k/6k Optimized Japanese Vocabulary Anki](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) 
+  - [DoJG Deck](https://dojgdeck.neocities.org/) 
+  - [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782) 
+  - [KanjiDamage](https://ankiweb.net/shared/info/748570187) 
+  - [Kanken Deck](https://ankiweb.net/shared/info/759825185) | [2](https://ankiweb.net/shared/info/1113953752) 
+  - [Kodansha kanji learner's course with vocabulary](https://ankiweb.net/shared/info/779483253) 
+  - [Wanikani Ultimate 3](https://www.mediafire.com/file/i9vusrdzr20v43z/Wanikani_Ultimate_3__Tokyo_Drift_-\_2023-06-24.apkg/file) <Badge type="dark" text="Support" link="https://discord.gg/cSEXEB5DgF" />
+
+  == Learning tools
+
 - Dictionary
   - jidoujisho <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
     - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
@@ -280,8 +309,18 @@ Interested in learning the japanese language? Here you can find resources to aid
   - Learn Japanese! - Kanji <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
   - Kana - Hiragana and Katakana <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
   - [Kanji Garden](https://kanji.garden/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
-- Reader - [Easy Japanese](https://easyjapanese.net/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />- [Immersion Reader](https://reader.immersionkit.com/) <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />- Japanese Kanji Study <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />- [mokuro](https://github.com/kha-white/mokuro) - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) - [Satori Reader](https://www.satorireader.com/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />- Write It! Japanese <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
-  +++ Tools
+- Reader 
+  - [Easy Japanese](https://easyjapanese.net/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
+  - [Immersion Reader](https://reader.immersionkit.com/) <Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
+  - Japanese Kanji Study <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
+  - [mokuro](https://github.com/kha-white/mokuro) 
+  - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) 
+  - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
+  - [Satori Reader](https://www.satorireader.com/) <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
+  - Write It! Japanese <Badge type="dark" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="dark" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
+
+== Tools
+
 - Extension
   - [jimaku player](https://github.com/sheodox/jimaku-player)
   - [JP Study tools](https://github.com/rudnam/JP-study)
@@ -297,8 +336,11 @@ Interested in learning the japanese language? Here you can find resources to aid
 - Condensed Audio
   - [subs2cia](https://github.com/dxing97/subs2cia)
   - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
-- Misc - [EXSTATIC](https://github.com/KamWithK/exSTATic) - [Textractor](https://github.com/Artikash/Textractor)
-  +++
+- Misc
+  - [EXSTATIC](https://github.com/KamWithK/exSTATic)
+  - [Textractor](https://github.com/Artikash/Textractor)
+
+:::
 
 ![](/banner/comms.png)
 

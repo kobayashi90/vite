@@ -11,7 +11,7 @@ icon: ":package:"
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 
 
-==- :warning: Important Information
+:::details :warning: Important Information
 
 #### Delivery Types
 
@@ -37,9 +37,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 - [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
 - When it comes to customs, be sure to visit your country's goverment customs website for information on duties and taxes
 
-!!!
-There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
-!!!
+> 💡 There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
 
 #### Agent Types
 
@@ -54,10 +52,11 @@ There are several ways to avoid paying for customs taxes. Additional information
 - [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
     - Bootleg (Fake product) spotting guide
 
-!!!warning Don't be impulsive.
+:::
+
+::: warning Don't be impulsive.
 Read the guide by [BuyFag](https://www.buyfags.moe/Full_guide) and make informed decisions. It's always a good idea to read the most recent reviews or ask for advice in a [related community](/merch.md/#communities) before making your final decision.
-!!!
-===
+:::
 
 
 ## Guides

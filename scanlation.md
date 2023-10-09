@@ -22,7 +22,9 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 ## Raw
 
-+++ Reader
+:::tabs
+
+== Reader
 
 - [Bilingual Manga](https://bilingualmanga.net/)
 - [Hachi Raw](https://hachiraw.com/) <Badge type="info" text="R+" />
@@ -33,7 +35,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [Sen Manga](https://raw.senmanga.com/) <Badge type="info" text="R+" />
 - [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="info" text="R" />
 
-+++ Direct Download
+== Direct Download
 
 - [A-Z Manga](https://www.a-zmanga.net/) <Badge type="info" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
@@ -50,13 +52,14 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 >You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
-+++
+:::
 
 ![](/banner/res.png)
 
 ## Resources
 
-+++ Assets
+:::tabs
+== Assets
 
 - [Jaded Network's SFX library](http://thejadednetwork.com/sfx/)
 - [Japanese SFX](https://gist.github.com/UserUnknownFactor/093a2296c5a4d9ef7b404728ebde94a3)
@@ -68,7 +71,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 >You can find a lot more free assests in the [**Scanner Usage School Server**](https://discord.com/invite/NCzxVB9).
 
-+++ Blogs & Collections
+== Blogs & Collections
 
 - [Quick Sand Scans Resource](https://quicksandscans.wordpress.com/resources/)
 - [Inside Scanlation](https://www.insidescanlation.com/backgrounds/index.html)
@@ -78,23 +81,25 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [CSP Material List](https://cspmasterlist.carrd.co/)
 - [Tips & Tricks mega Library](https://well-zinc-cd5.notion.site/Tips-Tricks-mega-Library-586dbc3ed4bc482285180ee4aac92d92)
 
-+++ Typesetting guides
+== Typesetting guides
 
 - [Anonblack's typesetting guide](https://mangadex.org/title/08e1f85a-bb12-4fe4-aec5-0d7a80b3a261/anonblack-s-typesetting-guide)
 - [Typesetting tutorial by Fallen Syndicate](https://coloredmanga.com/rhss-comprehensive-typesetting-guide-re-hosted-version-from-fallen-syndicates-rehost/)
 
-+++ Redrawing guides
+== Redrawing guides
 
 - Fascans Redrawing guide <Badge type="dark" text="Part 1" link="https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="dark" text="Part 2" link="https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
-+++
+:::
 
 ![](/banner/tools.png)
 
 ## Tools
 
-+++ Software
+:::tabs
+
+== Software
 
 - Adobe Software
   - [Esoterica Avenue](https://rentry.org/adobesoftware)
@@ -108,7 +113,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="dark" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="dark" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="dark" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="dark" text="nunif" link="https://github.com/nagadomi/nunif" />
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
-+++ Miscellaneous
+== Miscellaneous
 
 - [Alex's Raw Downloader](https://raws.alexeliot.xyz/) <Badge type="info" text="Free chapters only" />
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
@@ -124,4 +129,4 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [Typertools](https://swirt.github.io/typertools/)
 - [Typesetter*er*](https://illuminati-manga.com/illiteracy/typesetterer/)
 
-+++
+:::

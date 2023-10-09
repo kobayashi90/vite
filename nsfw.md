@@ -13,8 +13,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 ![](/banner/sites.png)
 ## Websites
 
-
-+++ Anime
+:::tabs
+== Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
@@ -28,7 +28,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Rule34](https://www.rule34.dev/)
 - [Hentai Release Schedule](https://www.underhentai.net/releases/)
 
-+++ Manga
+== Manga
 - [E-Hentai](https://e-hentai.org/)
     - Mangadex of doujins. Everything is uploaded here.
 - [ExHentai](https://exhentai.org/)
@@ -52,7 +52,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nyanpantsu](https://nyanpantsu.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/purpleblueslime/nyanpantsu" />
 - [Wholesome Hentai God List](https://wholesomelist.com/)
 
-+++ Manhwa
+== Manhwa
 - [Hiperdex](https://hiperdex.com/)
 - [Manhwa18](http://manhwa18.com/)
 - [Manytoon](https://manytoon.com/)
@@ -60,7 +60,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Toonily](https://toonily.com/)
 - [Webtoon](https://www.webtoon.xyz/)
 
-=== Scanlators
+:::details Scanlators {open}
 - [The Blank](https://mangadex.org/group/d53b6ec6-bbbf-4fad-a254-2b7ddda84c2c/the-blank)
 - [Omega scans](https://mangadex.org/group/8295f3f9-7462-403b-8fc0-f93a6c245a5c/omegascans) <Badge type="info" icon="globe" text="Web" link="https://omegascans.org/" />
 - [Constellar Scans](https://constellarcomic.com/)
@@ -68,9 +68,8 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Mangazuki](https://mangadex.org/group/4b11e95f-a9c2-417d-a179-d6a20255b68d/mangazuki)
 - [Shinsei Scans](https://mangadex.org/group/f6f2ab9e-4997-4401-80a2-3840ee8558a2/shinsei-scans)
 - [Aksy Scans](https://mangadex.org/group/258e6c49-e780-408e-bc48-c981d8e58c75/aksyscans)
-===
 
-+++ Illustrations
+== Illustrations
 - [Danbooru](https://danbooru.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Kemono](https://kemono.party/)
@@ -79,12 +78,13 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Rule34.dev](https://rule34.dev/)
 - [Yandere](https://yande.re/post)
 
-+++
+:::
 
 ![](/banner/software.png)
 ## Software
 
-+++ Android
+:::tabs
+== Android
 - [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY)
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta)
 - [Hentaoid](https://github.com/avluis/Hentoid)
@@ -92,18 +92,18 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [NClientV2](https://github.com/Dar9586/NClientV2)
 
-+++ iOS
+== iOS
 - [EhPanda](https://github.com/EhPanda-Team/EhPanda)
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 
-+++ PC
+== PC
 - [JHenTai](https://github.com/jiangtian616/JHenTai)
 - [Jasmine](https://github.com/niuhuan/jasmine)
 - [Happypandax](https://github.com/happypandax/happypandax)
 - [Tsuki](https://github.com/Gusb3ll/Tsuki)
 
-=== Downloader
+:::details Downloader {open}
 
 - [Hakuneko](https://github.com/manga-download/hakuneko) <Badge type="info" icon="globe" text="Web" link="https://hakuneko.download/" />
 - [HDoujin Downloader](https://github.com/HDoujinDownloader/HDoujinDownloader) <Badge type="info" icon="globe" text="Web" link="https://doujindownloader.com/" />
@@ -114,14 +114,17 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nHentai Downloader](https://github.com/Xwilarg/NHentaiDownloader)
 - [NSFW Box](https://github.com/Kisspeace/NsfwBox)
 - [Tomoe](https://github.com/sinkaroid/tomoe)
-===
-+++
+
+:::
 
 
 ![](/banner/others.png)
 
 ## Others
-+++ Scripts
+
+:::tabs
+
+== Scripts
 - E-HENTAI-VIEW-ENHANCE <Badge type="dark" icon="/icon/fork.png" text="Sleezy" link="https://sleazyfork.org/en/scripts/397848-e-hentai-view-enhance" />
 - Eza's Image Glutton <Badge type="dark" icon="/icon/fork.png" text="Sleezy" link="https://sleazyfork.org/en/scripts/4713-eza-s-image-glutton" />
 - Image Board Enhancer <Badge type="dark" icon="/icon/fork.png" text="Sleezy" link="https://sleazyfork.org/en/scripts/387312-image-board-enhancer-rule34-gelbooru-e621-and-more" />
@@ -132,10 +135,11 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [nhentai helper](https://github.com/Tsuk1ko/nhentai-helper) <Badge type="dark" icon="/icon/fork.png" text="Sleezy" link="https://sleazyfork.org/en/scripts/375992-nhentai-helper" />
 - [nhentai konnichiwa](https://github.com/naiymu/nhentai-konnichiwa)
 
-+++ Misc
+== Misc
 - [/h/ Hentai](https://boards.4chan.org/h/)
 - [HDGFAQ](https://rentry.org/hdgfaq)
 - [Hent-AI](https://github.com/natethegreate/hent-AI)
 - [nHentai Discord Bot](https://github.com/the-urban-inc/nhentai-discord-bot)
 - [nHentai Telegram Bot](https://github.com/sleroq/nhentai-telegram-bot)
-+++
+
+:::

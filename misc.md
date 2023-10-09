@@ -16,34 +16,36 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 ### Database & Tracker
 
-+++ General
+:::tabs
+== General
 - [Anilist](https://anilist.co/)
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
 - [MyAnimeList](https://myanimelist.net/)
 
-+++ Anime
+== Anime
 - [aniDB](https://anidb.net/)
 - [Annict](https://annict.com/)
 - [SIMKL](https://simkl.com/)
 
-+++ Manga & LN
+== Manga & LN
 - [Kenmei](https://www.kenmei.co/)
 - [Mangaupdates](https://www.mangaupdates.com/)
 - [Novel updates](https://www.novelupdates.com/)
 
-+++ Others
+== Others
 - [The Visual Novel Database](https://vndb.org/)
 - [VNStat](https://vnstat.net/)
 - [VGMDB](https://vgmdb.net/)
 - [Anilinks](https://anilinks.neocities.org/)
 
-+++
+:::
 
 ### Anime
 
-+++ Index
+:::tabs
+== Index
 
 - [Seadex](https://releases.moe/)
 - [Sneedex](https://sneedex.moe/) <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
@@ -54,7 +56,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Seiyuu.moe](https://seiyuu.moe/)
 - [Anime voice actor and seiyuu comparison](https://avac.moe/index.php)
 
-+++ Schedule
+== Schedule
 
 - [Anica](https://anica.jp/)
 - [AniChart](https://anichart.net/)
@@ -67,7 +69,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Syoboi Calendar](https://cal.syoboi.jp/)
 
 
-+++ Stats/Watch guide
+== Stats/Watch guide
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
@@ -78,17 +80,18 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Related Anime](https://relatedanime.com/)
 - [r/Anime Watch Order](https://www.reddit.com/r/anime/wiki/watch_order/)
 
-+++
+:::
 
 ### Manga & LN
 
-+++ Info
+:::tabs
+== Info
 
 - [Bookmeter](https://bookmeter.com/) <Badge type="info" icon="/icon/jp.png" text="JP" />
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
-+++ Calendar
+== Calendar
 
 - **Index**
     - [Otaku Calendar](https://otakucalendar.com/Release/?filterCategory=2)
@@ -107,10 +110,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [VIZ](https://www.viz.com/calendar/ )
     - [Yen Press](https://yenpress.com/calendar)
 
-+++
+:::
 
 
 ![](/banner/illust.png)
+
 ## Illustrations
 - [Pixiv](https://www.pixiv.net) <Badge type="info" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
@@ -124,8 +128,11 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [/w/](http://catalog.neet.tv/w/) <Badge type="info" text="R+" />
 
 ![](/banner/jp.png)
+
 ## Japan
-+++ Culture & History
+:::tabs
+
+== Culture & History
 
 - [Web Japan](https://web-japan.org/) <Badge type="info" text="Old" link="https://web-japan.org/atlas/index.html" />
 - [Do You Know Japan?](https://doyouknowjapan.com/)
@@ -140,7 +147,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [A Short History of Japan: From Samurai to Sony](https://www.amazon.com/Short-History-Japan-Samurai-Sony/dp/1865085162)
 - [Pure Invention: How Japan Made the Modern World](https://www.amazon.com/gp/product/1984826719)
 
-+++ Mythology
+== Mythology
 
 #### Websites
 - [Japanese Gods](https://mythopedia.com/topics/japanese-gods)
@@ -163,7 +170,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [GenoSamuel3] [Yokai: Monsters of Japan](https://www.youtube.com/playlist?list=PLiHkvPlOtVBCPoN70Edn_Sosl5PeeAiFW)
 - [Inaka Adventure] [Japanese WEIRD Yokai, Monsters & Folklore Compilation](https://www.youtube.com/watch?v=LEH_9iygWvw)
 
-+++ Festivals & Travel
+== Festivals & Travel
 - **English**
     - [japan-guide.com](https://www.japan-guide.com/)
     - [LIVE JAPAN](https://livejapan.com/)
@@ -184,7 +191,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
         - [Kyoto Travel](https://kyototravel.info/)
         - [Hokkaido Guide](https://hokkaidoguide.com/) <Badge type="info" text="English" />
 
-+++ Cooking
+== Cooking
 
 - **Blog**
     - [Just One Cookbook](https://www.justonecookbook.com/) <Badge type="info" text="Youtube" link="https://www.youtube.com/@justonecookbook" />
@@ -210,7 +217,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [The Japanese Kitchen: 250 Recipes in a Traditional Spirit](https://www.amazon.com/Japanese-Kitchen-Recipes-Traditional-Spirit/dp/1558321772)
     - [My Japanese Table: A Lifetime of Cooking with Friends and Family](https://www.amazon.com/My-Japanese-Table-Lifetime-Cooking/dp/4805311185)
 
-+++ Youtube
+== Youtube
 
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan)
     - Journey Across Japan [S1](https://www.youtube.com/playlist?list=PLSOR9_iNzVfl4ghftQDpTA4CXUvCKRlsL) | [S2](https://www.youtube.com/playlist?list=PLSOR9_iNzVflVY0eQlZY4V0gArxUiOMLR) | [S3](https://www.youtube.com/playlist?list=PLSOR9_iNzVflGF8OZwBqYH4mxDXvlkpSX) | [S4](https://www.youtube.com/playlist?list=PLdd050JRcXCJlhiSBMjIwvB7wQ8PR-JzV) | [S5](https://www.youtube.com/playlist?list=PLSOR9_iNzVflb2CWbcuXX8JQoVTcXCh2X)
@@ -225,7 +232,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Japanalysis](https://www.youtube.com/@Japanalysis)
 - [Rion Ishida](https://www.youtube.com/@RionIshida)
 
-==- No Voice-over
+:::details No Voice-over
 - [Experience JAPAN](https://www.youtube.com/@experience_japan)
 - [It's Time to Trave](https://www.youtube.com/@its_time_to_travel)
 - [ITSUKA JAPAN](https://www.youtube.com/@itsukajapantravel)
@@ -233,9 +240,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Solo Solo Travel](https://www.youtube.com/@solosolotravel)
 - [SUKIYAKI Travel](https://www.youtube.com/@sukiyakitravel)
 - [travelgeek](https://www.youtube.com/@travelgeekphotography)
-===
 
-+++ Explainers
+== Explainers
 
 #### Japan
 - [Japan's History and Geography](https://www.youtube.com/playlist?list=PLZZ0o0vuqmrOKvwEDnlb_ogILpBlo3RoW)
@@ -258,14 +264,15 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
     - [reviewing your takes on animation](https://www.youtube.com/watch?v=OhcLATiI9Is)
 
-+++
+:::
 
 >You can use [**Anna’s Archive**](https://annas-archive.org), [**Z-Library**](https://singlelogin.re/), [**PDF Drive**](https://www.pdfdrive.com/) & [**Mobilism**](https://forum.mobilism.org/viewforum.php?f=106) to download books.
 
 ![](/banner/others.png)
 ## Others
 
-+++ Recommendations
+:::tabs
+== Recommendations
 
 - ANN TOP 100 [Manga](https://www.animenewsnetwork.com/encyclopedia/ratings-manga.php?top50=best_bayesian&n=100) | [Anime](https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=popular&n=100)
 - [r/Anime Recommendations](https://www.reddit.com/r/anime/wiki/recommendations/)
@@ -278,7 +285,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [r/VN's 2018](https://vnrecs.github.io/)
     - [What are you reading?](https://some-guy.org/vnswayrarchive/recommendations)
 
-+++ Fansubbing
+== Fansubbing
 
 - [Encode](https://guide.encode.moe/)
 - [Goodjob Media](https://www.goodjobmedia.com/fansubbing/)
@@ -286,7 +293,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
 
-+++ Portals
+== Portals
 
 - **General**
     - [AnimeCons](https://animecons.com/)
@@ -317,7 +324,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Frontline](https://www.frontlinejp.net/)
     - [Touhou Yomoyama News](https://touhou-project.news/)
 
-==- :icon-rss: RSS
+:::details RSS
 - **Uploads**
     - [Anidex](https://anidex.info/)
     - [nyaa](https://nyaa.si/)
@@ -333,15 +340,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 
 [RSS Bridge](https://rss-bridge.org/bridge01/) can be used to get rss feed from other websites. `https://nitter.cz/[AccountID]/rss` for twitter RSS feed.
-===
 
-+++
-
+:::
 
 ![](/banner/tools.png)
 ## Tools
 
-+++ Analysis
+:::tabs
+== Analysis
 - [anime.plus](https://anime.plus/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
 - [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
@@ -350,13 +356,13 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
-+++ Image search
+== Image search
 - [Multi-service image search](https://iqdb.org/)
 - [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
 - [Trace](https://trace.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
-+++ Others
+== Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
 - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
@@ -365,13 +371,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="dark" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
 - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
-+++
+:::
 
 
 ![](/banner/vt2.png)
 ## VTuber
 
-+++ General
+:::tabs
+== General
 
 - [Holodex](https://holodex.net/) <Badge type="info" text="Music" link="https://music.holodex.net/" /><Badge type="info" text="Frontend" />
 - [Good VTuber Subs](https://goodvtubersubs.com/) <Badge type="info" text="DB" />
@@ -383,7 +390,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [vTubie](https://vtubie.com/) <Badge type="info" text="DB" /><Badge type="info" text="Schedule" />
 - [Hololyzer](https://www.hololyzer.net/) <Badge type="info" text="Schedule" />
 
-+++ Hololive
+== Hololive
 
 - [Hololive Fan Wiki](https://hololive.wiki/wiki/Main_Page) <Badge type="info" text="DB" />
 - [HoloStats](https://holo.poi.cat/youtube-stream) <Badge type="info" text="Stats" /><Badge type="info" text="Schedule" />
@@ -393,7 +400,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Quick Reference](https://monkonius.github.io/hololive-quick-reference/) <Badge type="info" text="DB" />
 - [Hololive MMD Models](https://3d.nicovideo.jp/users/89765617/works) 
 
-+++ Youtube
+== Youtube
 - **Animations**
     - [Myth's Bad Ending by Mazumaro](https://www.youtube.com/watch?v=euPfAilSpuU)
     - [2ManySnacks](https://www.youtube.com/@2ManySnacks/)
@@ -411,7 +418,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Hololive Songs&Covers](https://www.youtube.com/playlist?list=PLQmVFdwvZgfXlb2RDXWV1NaPXgYPu786G)
     - [Holo no Graffiti](https://www.youtube.com/playlist?list=PL1NeGg1woXqngQytLzL8lJJLYwmzk1Wuq) | [Privated](https://www.youtube.com/playlist?list=PLMcxQWd8jwdk2YHXPScsjcw22VSZxiViL)
 
-+++ Discord
+== Discord
 - [Hololive Fan Server](https://discord.gg/holofans) 
 - [Nijisanji EN Fan Server](https://discord.gg/nijienfans) 
 - [VShojo Fan Server](https://discord.com/invite/vshojo-fan-server-598886416545611790) 
@@ -421,7 +428,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [EIEN Project Official Community](https://discord.gg/eienproject) 
 - [KAWA Entertainment](https://discord.com/invite/kawa-entertainment) 
 
-+++ Games
+== Games
 
 - [Holocure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/)
 - [Idol Showdown](https://store.steampowered.com/app/1742020/Idol_Showdown/)
@@ -430,7 +437,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
 
-+++ Tools
+== Tools
 #### 2D
 - [**Live2D**](https://www.live2d.com/en/about/)
     - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
@@ -480,7 +487,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [VanillaLog] [The art of making 3D vtuber models (for dummies)](https://www.youtube.com/watch?v=eFkwu7p1LhU)
         - [Blender tutorials for 3D Vtuber Making](https://docs.google.com/document/d/1GIfrXKHr2ndUh10DVIoS4lRw99misyzHZfo0fnwK8uk/edit)
 
-+++ Others
+== Others
 - Twitter
     - [Holoデータ分析](https://twitter.com/Holo_Data)
     - [HoloENFans](https://twitter.com/HEFSdiscord)
@@ -488,16 +495,14 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [VTubers Out Of Context](https://twitter.com/ENVTubersOOC)
     - [Chroneco](https://twitter.com/chrone_co)
     - [JQHN](https://twitter.com/JQHNHARQLD)
-+++
+:::
 
 ![](/banner/random.png)
 ## Random
 
-+++ Drawing
+:::tabs
 
-
-
-+++ osu!
+== osu!
 
 - [Anisync](https://anisync.live/)
 - [BeatConnect](https://beatconnect.io/)
@@ -509,7 +514,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [o!rdr](https://ordr.issou.best/)
 
 
-+++ Other Media
+== Other Media
 
 - Movies & TV Series
     - [Dramacool](https://dramacool.pa/)
@@ -526,7 +531,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/)
     - [ANNnewsCH](https://www.youtube.com/@ANNnewsCH/)
 
-+++ Websites
+== Websites
 
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [Smug](https://smug.moe/)
@@ -542,7 +547,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
 
-+++ Western
+== Western
 
 #### Comics
 - Reader
@@ -567,4 +572,5 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Comic Book Reading Orders](https://comicbookreadingorders.com/)
     - [Comic Book Herald](https://www.comicbookherald.com/)
     - [CMRO](https://cmro.travis-starnes.com/)
-+++
+
+:::
