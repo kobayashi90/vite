@@ -92,9 +92,7 @@ async function generateImage({ page, template, outDir, fonts }: GenerateImagesOp
 
   const svg = await satoriVue(options, template);
 
-  const render = await renderAsync(svg, {
-    fitTo: { mode: "zoom", value: 30 },
-  });
+  const render = await renderAsync(svg);
 
   const outputFolder = resolve(outDir, url.substring(1), "__og_image__");
   const outputFile = resolve(outputFolder, "og.png");
