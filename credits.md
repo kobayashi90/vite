@@ -1,6 +1,7 @@
 ---
 title: Credits
 description: All the contributors of Wotaku.
+lastUpdated: false
 ---
 
 <script setup>

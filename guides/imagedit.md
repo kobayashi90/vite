@@ -41,7 +41,10 @@ The majority of the panels are black and white and can safely be grayscaled if t
 
 The command (CLI) to use with ImageMagic to batch process all images inside the current folder (that your command prompt is in) would be;
 
-`magick mogrify -format png -dither None -colorspace Gray *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray *.png
+
+```
 
 ### Leveling
 
@@ -55,7 +58,9 @@ A simple method without too much effort would be using the -contrast-stretch opt
 
 The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
 
-`magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0% *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray -contrast-stretch 0%x0% *.png
+```
 
 #### Manual Leveling
 
@@ -63,10 +68,14 @@ With manual leveling you would needed find the minimum black point to have your 
 
 The command (CLI) to use with ImageMagic to batch process all images inside a folder would be;
 
-`magick mogrify -format png -dither None -colorspace Gray -level 13,100%,1.3 *.png`
+```
+magick mogrify -format png -dither None -colorspace Gray -level 13,100%,1.3 *.png
+```
 
 ### Optimizing
 
 You can safely and lossless optimize images to reduce filesize even more, using the following command (CLI) with Pingo version 1+;
 
-`pingo -lossless -s4 path-to-folder`
+```
+pingo -lossless -s4 path-to-folder
+```

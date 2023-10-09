@@ -9,7 +9,7 @@ hero:
   image: /asset/Padoru.png
   actions:
     - theme: brand
-      text: Quick Start
+      text: Get Started
       link: /qs.md
     - theme: alt
       text: Discord

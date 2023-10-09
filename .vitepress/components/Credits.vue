@@ -36,6 +36,11 @@ const thanks = [
     links: [{ icon: "github", link: "https://github.com/taskylizard" }],
   },
   {
+    name: "TubaApollo",
+    avatar: "https://github.com/TubaApollo.png",
+    links: [{ icon: "github", link: "https://github.com/TubaApollo" }],
+  },
+  {
     avatar: "https://github.com/knightmob.png",
     name: "Abyss",
     links: [{ icon: "github", link: "https://github.com/knightmob" }],
@@ -68,11 +73,6 @@ const thanks = [
     name: "nuff",
     avatar: "https://github.com/gengotech.png",
     links: [{ icon: "github", link: "https://github.com/gengotech" }],
-  },
-  {
-    name: "TubaApollo",
-    avatar: "https://github.com/TubaApollo.png",
-    links: [{ icon: "github", link: "https://github.com/TubaApollo" }],
   },
 ] satisfies Credits[];
 </script>

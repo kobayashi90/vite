@@ -95,7 +95,6 @@ export default defineConfig({
       },
       { text: "⚗️ Brewing", link: "/brewing" },
       { text: "💖 Credits", link: "/credits" },
-      { text: "🗄️Megathread", link: "/megathread" },
     ],
     socialLinks: [
       { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
