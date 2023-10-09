@@ -5,13 +5,13 @@ defineProps<{ title: string; description?: string; dir?: string }>();
 <template>
   <div
     tw="w-full h-full bg-black flex flex-col"
-    style="background-image: url(https://i.ibb.co/VHWg1B6/vBKIIS8.png)">
+    style="background-image: url(https://litter.catbox.moe/kwol48.png)">
     <div tw="p-10 w-full min-h-0 grow flex flex-col items-center justify-between">
       <div tw="w-full flex justify-between items-center text-4xl font-medium">
         <div tw="flex items-center">
-          <div tw="text-light-900 ml-2 mt-1 font-semibold">Wotaku</div>
+          <div tw="text-zinc-100 ml-2 mt-1 font-semibold">Wotaku</div>
         </div>
-        <div v-if="dir" tw="flex items-center text-light-600">
+        <div v-if="dir" tw="flex items-center text-white">
           <div v-if="dir" tw="text-4xl font-semibold mr-2" v-html="dir" />
           <svg
             v-if="dir === 'Glossary'"
@@ -36,8 +36,8 @@ defineProps<{ title: string; description?: string; dir?: string }>();
         </div>
       </div>
       <div tw="w-full pr-56 flex flex-col items-start justify-end">
-        <div tw="text-6xl font-bold text-light-900" v-html="title" />
-        <div v-if="description" tw="mt-2 text-4xl text-light-600" v-html="description" />
+        <div tw="text-6xl font-bold text-gray-400" v-html="title" />
+        <div v-if="description" tw="mt-2 text-4xl text-zinc-500" v-html="description" />
       </div>
     </div>
     <div tw="shrink-0 h-2 w-full flex" style="background-color: #198cc6" />

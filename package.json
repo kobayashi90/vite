@@ -1,9 +1,11 @@
 {
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "format": "prettier --cache -w ."
+    "format": "prettier --cache -w .",
+    "og:dev": "x-satori -t ./.vitepress/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.4.1",
