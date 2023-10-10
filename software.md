@@ -124,7 +124,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
     - Can download manga
     - No tracker integration
 
-:::detals Clients {open}
+:::details Clients {open}
 - [**Tachidesk base**](https://github.com/Suwayomi/Tachidesk-Server)
     - lots of sources to pick from
     - basic settings for reading

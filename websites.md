@@ -1,6 +1,6 @@
 ---
 title: Websites
-description: Curated websites for anime, manga, ln & vn.
+description: Websites for anime, manga, light novels & more
 ---
 
 ![](https://cdn.apollo.moe/img/web.png)
@@ -65,7 +65,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [Baka BT](https://bakabt.me/) <Badge type="info" text="Private tracker" />
 - [U2](https://u2.dmhy.org/portal.php) <Badge type="info" text="Private tracker" />
 
-::: details :bulb: Quick Tips
+::: tip :bulb: Quick Tips {open}
 
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
@@ -89,7 +89,8 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
 
->To download on Android, use [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [**FDM**](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US), or [**ADM**](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [**IDM**](https://www.internetdownloadmanager.com/), [**JDL**](https://jdownloader.org/), or [**FDM**](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+:::tip Downloader {open}
+On Android, use [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). For PC, use [**IDM**](https://www.internetdownloadmanager.com/) or [**JDL**](https://jdownloader.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
 
 == IRC
 

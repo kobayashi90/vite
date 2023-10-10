@@ -35,7 +35,9 @@ A manga that's been published at once. The length of the story depends on the ma
 
 #### Panels
 
-+++ General
+:::tabs
+
+== General
 
 | Type      | Manga         | Manhwa        | Manhua     { class="compact" }   |
 |:---------:|:-------------:|:-------------:|:-------------:|
@@ -49,7 +51,7 @@ For a spread, you can set an imaginary line based on the page number.
 
 ![Black Clover ch. 361 (2 page)](/glossary/panel/gnrlspread.png)
 
-+++ 4 Koma
+== 4 Koma
 
 4-Koma (a.k.a. Yonkoma manga) features four panels, follows a specific pattern where every four panels lead up to a punchline. These are generally read up-down instead of traditional right-left. The right column is always the starting column. It can be single column or double column. For some manga or omake, it may follow right to left a.k.a. the traditional way.
 
@@ -67,20 +69,20 @@ At times, the beginning of a 4koma manga may feature a sizable illustration, spa
 
 ![Kawaii Joushi wo Komarasetai ch. 29, 46, 56, 62 (right to left)](/glossary/panel/4komaillust.png)
 
-+++ Long strip
+== Long strip
 
 It's newer type of comics format. Long strip comics are drawn for smartphone readers. The flow of the panels is up-down instead of traditional right-left/left-right. For long strip comics, artist has to follow [different rules](https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24) than the traditional manga format. This format is widely used in the manhwa and manhua industries. But it's available for every region. Example: [Solo Leveling](https://mangadex.org/title/32d76d19-8a05-4db0-9fc2-e0b0648fe9d0/solo-leveling) (Manhwa), [Relife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) (Manga), [The Beginning After the End](https://comick.app/comic/00-the-beginning-after-the-end-1) (OEL).
 
 Occasionally, the publisher also releases the physical version, with panels strategically rearranged to accommodate the right-left/left-right reading direction. Example: [Solo Leveling Vol. 1 by Yen Press](https://youtu.be/BY5h7v9Ll_E)
 
 
-+++ Splash
+== Splash
 
 A splash page is a single panel that covers the entire page and is typically reserved for depicting an action-packed or dramatic scene.
 
 ![Attack on Titan ch. 95 (single page)](/glossary/panel/spread_1.jpg)
 
-+++ Spread
+== Spread
 
 A panel/artwork that is spread out over two pages, reserved for particularly impactful moments.
 
@@ -94,7 +96,7 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 
 ![Sengoku Youko ch. 48 (5-page)](/glossary/panel/spread_5.jpg)
 
-+++
+:::
 
 #### Raw
 The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.

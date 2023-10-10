@@ -11,7 +11,8 @@ Squidify is a public music streaming service that offers a vast collection of An
 
 Squidify is based on Navidrome which has its own set of third-party Apps besides its own [Web UI](https://www.squidify.org/). It should be compatible with all Subsonic clients. The following clients are tested and confirmed to work properly:
 
-+++ Android
+:::tabs
+== Android
 
 - [Subtracks](https://github.com/austinried/subtracks#readme)
 - [substreamer](https://substreamerapp.com/)
@@ -19,7 +20,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [DSub](https://play.google.com/store/apps/details?id=github.daneren2005.dsub) <Badge type="info" text="Paid" />
 - [Symfonium](https://symfonium.app/) <Badge type="info" text="Paid" />
 
-+++ iOS
+== iOS
 
 - [play:Sub](http://michaelsapps.dk/playsubapp/)
 - [substreamer](https://substreamerapp.com/)
@@ -27,7 +28,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [iSub](https://isub.app)
 
 
-+++ Desktop
+== Desktop
 
 - [Sonixd](https://github.com/jeffvli/sonixd) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [Sublime Music](https://sublimemusic.app/) <Badge type="info" text="Linux" />
@@ -38,7 +39,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
     - [Jellycli](https://github.com/tryffel/jellycli#readme) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" />
     - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 
-+++ Others
+== Others
 
 - **Connected Speakers**
   - [bonob](https://github.com/simojenki/bonob#readme) <Badge type="info" text="Sonos" />
@@ -49,7 +50,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
     - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="dark" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
 
-+++
+:::
 
 >For more options, look at the [list of clients](https://airsonic.github.io/docs/apps/) maintained by the Airsonic project.
 
@@ -65,9 +66,9 @@ Connecting to Squidify is very easy, just login with the following credentials:
 
  1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
-!!! Query
+:::tip Query
 To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/).
-!!!
+:::
 
 
 

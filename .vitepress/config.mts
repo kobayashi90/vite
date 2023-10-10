@@ -53,11 +53,6 @@ export default defineConfig({
       provider: "local",
     },
     logo: { src: "/asset/inaidle.webp", width: 24, height: 24 },
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Anime", link: "/anime" },
-      { text: "Manga", link: "/manga" },
-    ],
     sidebar: [
       { text: "⚡ Quick Start", link: "/qs" },
       { text: "🌏 Websites", link: "/websites" },
