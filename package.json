@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.4.1",
+    "medium-zoom": "^1.0.8",
     "unocss": "^0.56.5",
     "vitepress": "1.0.0-rc.20",
     "vitepress-plugin-tabs": "^0.4.1",
