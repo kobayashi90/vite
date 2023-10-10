@@ -103,7 +103,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [J-Novel Club](https://j-novel.club/calendar)
     - [Kodansha](https://kodansha.us/calendar/)
     - [Seven Seas](https://sevenseasentertainment.com/release-dates/)
-    - [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="info" text="R+" />
+    - [SuBLime](https://www.sublimemanga.com/calendar)  <Badge type="danger" text="R+" />
     - [SQUARE ENIX](https://squareenixmangaandbooks.square-enix-games.com/en-us/release-calendar)
     - [TITAN Comics](https://titan-comics.com/manga/)
     - [TOKYOPOP](https://tokyopop.com/collections/comingsoon)
@@ -116,16 +116,16 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ![](/banner/illust.png)
 
 ## Illustrations
-- [Pixiv](https://www.pixiv.net) <Badge type="info" text="R+" />
+- [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Danbooru](https://danbooru.donmai.us/) <Badge type="success" text="SFW Ver" link="https://safebooru.donmai.us/" /><Badge type="info" text="R+" />
-- [Gelbooru](https://gelbooru.com/) <Badge type="info" text="R+" />
+- [Danbooru](https://danbooru.donmai.us/) <Badge type="success" text="SFW Ver" link="https://safebooru.donmai.us/" /><Badge type="danger" text="R+" />
+- [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="R+" />
 - [Studio Ghibli](https://www.ghibli.jp/info/013772/)
-- [Kona chan](https://konachan.com/) <Badge type="info" text="R+" />
+- [Kona chan](https://konachan.com/) <Badge type="danger" text="R+" />
 - [Safebooru](https://safebooru.org/) <Badge type="info" text="E" />
-- [Yandere](https://yande.re/post) <Badge type="info" text="R+" />
-- [Zerochan](https://www.zerochan.net/) <Badge type="info" text="R" />
-- [/w/](http://catalog.neet.tv/w/) <Badge type="info" text="R+" />
+- [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
+- [Zerochan](https://www.zerochan.net/) <Badge type="warning" text="R" />
+- [/w/](http://catalog.neet.tv/w/) <Badge type="danger" text="R+" />
 
 ![](/banner/jp.png)
 
@@ -368,7 +368,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
 - [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
-- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="dark" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
+- [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
 - [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 :::
@@ -445,7 +445,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Pricing: ~100€ per Year for Indie License, ~60€ 3 Years Student Indie License
     - Free 42 days trial after that limited free version
     - Tutorials out there on YouTube, you still will have to invest a massive amount of time
-- [**VTubeStudio**](https://denchisoft.com/) <Badge type="dark" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" />
+- [**VTubeStudio**](https://denchisoft.com/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/1325860/VTube_Studio/" />
     - Converts tracking input into model movement, needed if you want to bring your model to "life"
     - Free with a paid version which removes a small watermark, it costs 12,50€ (one-time)
 - [**VBridger**](https://store.steampowered.com/app/1898830/VBridger/)
@@ -467,7 +467,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
      - Makes rigging your character easier, although you will get better results if you rig it manually using Blender.
 - [**UniVRM**](https://github.com/vrm-c/UniVRM/releases)
      - Free & Open Source: Import VRoid Models into Unity
-- [**3Tene**](https://3tene.com/free/) <Badge type="dark" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />
+- [**3Tene**](https://3tene.com/free/) <Badge type="tip" text="Steam" link="https://store.steampowered.com/app/871170/3tene/" />
      - Free, there are other Versions with different functionality on their website
      - Used to track your 3D Model using your webcam/phone etc.
 - [**VSeeFace**](https://www.vseeface.icu/)
@@ -561,7 +561,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [XOXO Comics](https://xoxocomics.com/)
 - Direct Download
     - [Anna’s Archive](https://annas-archive.org/)
-    - [Desuarchive](https://desuarchive.org/) <Badge type="Dark" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
+    - [Desuarchive](https://desuarchive.org/) <Badge type="tip" text="Win-O'-Thread" link="https://desuarchive.org/co/search/subject/Official%20Win-O'-Thread/" />
     - [Get Comics](https://getcomics.info/)
     - [Comics All](https://comics-all.com/) | [New comic](https://newcomic.info/)
     - [Libgen](https://libgen.is/)

@@ -48,7 +48,7 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Navidrome Kodi Plugin](https://github.com/BobHasNoSoul/plugin.audio.navidrome#readme)
 - [HTTPDirFS](https://github.com/fangfufu/httpdirfs#readme)
 - [upmpdcli](https://www.lesbonscomptes.com/upmpdcli/index.html)
-    - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="dark" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
+    - Expose Navidrome as a UPnP/DLNA media library. See the <Badge type="tip" text="discussion" link="https://github.com/navidrome/navidrome/discussions/2324" />
 
 :::
 

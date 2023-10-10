@@ -27,28 +27,28 @@ Information and guides pertaining to the world of fan translation, everything fr
 == Reader
 
 - [Bilingual Manga](https://bilingualmanga.net/)
-- [Hachi Raw](https://hachiraw.com/) <Badge type="info" text="R+" />
-- [KL Manga](https://klmanga.com/) <Badge type="info" text="R" />
-- [Mangaraw Japan](https://mangaraw.to/) <Badge type="info" text="R+" />
+- [Hachi Raw](https://hachiraw.com/) <Badge type="danger" text="R+" />
+- [KL Manga](https://klmanga.com/) <Badge type="warning" text="R" />
+- [Mangaraw Japan](https://mangaraw.to/) <Badge type="danger" text="R+" />
 - [Mangaraw+](https://mangarawplus.co/)
-- [Raw Kuma](https://rawkuma.com/) <Badge type="info" text="R" />
-- [Sen Manga](https://raw.senmanga.com/) <Badge type="info" text="R+" />
-- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="info" text="R" />
+- [Raw Kuma](https://rawkuma.com/) <Badge type="warning" text="R" />
+- [Sen Manga](https://raw.senmanga.com/) <Badge type="danger" text="R+" />
+- [We Love Manga](https://welovemanga.one/) | [Manga 1000](https://manga1000.top/) <Badge type="warning" text="R" />
 
 == Direct Download
 
-- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="info" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [A-Z Manga](https://www.a-zmanga.net/) <Badge type="danger" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Asia Media Blog](https://asiamediablog.com/media/comic/manga/) <Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Book Share Zip](https://bszip.com/) <Badge type="info" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [Comic 77](https://comic77.com/) <Badge type="info" text="R+" />
-- [Comics 888](https://comics888.com/) <Badge type="info" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw co](https://dl-raw.co/) <Badge type="info" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="info" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
-- [DL Zip](https://dl-zip.com/) <Badge type="info" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [Book Share Zip](https://bszip.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [Comic 77](https://comic77.com/) <Badge type="danger" text="R+" />
+- [Comics 888](https://comics888.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Raw co](https://dl-raw.co/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Raw net](https://dlraw.net/category/raw-manga/) [Manga Zip](https://manga-zip.info/category/raw-manga/) <Badge type="danger" text="R+" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
+- [DL Zip](https://dl-zip.com/) <Badge type="warning" text="R" /><Badge type="info" text="Novel" /><Badge type="info" text="Magazine" />
 - [Itazura Neko](https://djtguide.github.io/library/manga/subete) <Badge type="info" text="Novel" />
-- [JP DDL](https://jpddl.com/manga) <Badge type="info" text="R" />
+- [JP DDL](https://jpddl.com/manga) <Badge type="warning" text="R" />
 - [Manga Zone](http://www.manga-zone.org/) <Badge type="info" text="Novel" />
-- [Raw Cans](http://raw-cans.net/) <Badge type="info" text="R+" /><Badge type="info" text="Magazine" />
+- [Raw Cans](http://raw-cans.net/) <Badge type="danger" text="R+" /><Badge type="info" text="Magazine" />
 
 >You can use [okdebrid](https://okdebrid.com/), [rapidgrab](https://rapidgrab.pl/), & [newscon](https://www.newscon.net/d/) to download free & premium files from the file hosters.
 
@@ -88,7 +88,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 
 == Redrawing guides
 
-- Fascans Redrawing guide <Badge type="dark" text="Part 1" link="https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="dark" text="Part 2" link="https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
+- Fascans Redrawing guide <Badge type="tip" text="Part 1" link="https://fascans.com/featured/basic-redrawing-tutorials-part-1-using-clone-stamp-tool-effectively/" /><Badge type="tip" text="Part 2" link="https://fascans.com/position/redrawer/basic-redrawing-tutorials-part-2-dealing-with-linesspeed-lines/" />
 - [Rain's Redraw Tutorials](https://web.archive.org/web/20140814131939/http://www.redhawkscans.com/showthread.php?7057-Rain-s-Redraw-Tutorials&p=112119&viewfull=1#post112119)
 
 :::
@@ -110,7 +110,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [GIMP](https://www.gimp.org/)
 - [Real ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine)
-- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="dark" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="dark" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="dark" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="dark" text="nunif" link="https://github.com/nagadomi/nunif" />
+- [Waifu2X](https://github.com/nagadomi/waifu2x) <Badge type="tip" text="caffe" link="https://github.com/lltcggie/waifu2x-caffe" /><Badge type="tip" text="ncnn Vulkan" link="https://github.com/nihui/waifu2x-ncnn-vulkan" /><Badge type="tip" text="Ext GUI" link="https://github.com/AaronFeng753/Waifu2x-Extension-GUI" /><Badge type="tip" text="nunif" link="https://github.com/nagadomi/nunif" />
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer)
 
 == Miscellaneous
@@ -118,7 +118,7 @@ Information and guides pertaining to the world of fan translation, everything fr
 - [Alex's Raw Downloader](https://raws.alexeliot.xyz/) <Badge type="info" text="Free chapters only" />
 - [Bubble Blaster](https://github.com/Aeonss/BubbleBlaster)
 - [DeDRM tools](https://github.com/noDRM/DeDRM_tools)
-- Font Finder <Badge type="dark" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="dark" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="dark" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="dark" text="What font is" link="https://www.whatfontis.com/" />
+- Font Finder <Badge type="tip" text="Font Spring" link="https://www.fontspring.com/matcherator" /><Badge type="tip" text="Font Squirrel" link="https://www.fontsquirrel.com/matcherator" /><Badge type="tip" text="MyFonts" link="https://www.myfonts.com/pages/whatthefont" /><Badge type="tip" text="What font is" link="https://www.whatfontis.com/" />
 - [Manga Bubble Shaper](https://github.com/Codecy2160/manga-bubble-shaper)
 - [Manga downloader](https://github.com/xuzhengyi1995/Manga_downloader)
 - [Monochrome](https://github.com/MonochromeCMS/monochrome)

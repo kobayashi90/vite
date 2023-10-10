@@ -1,6 +1,7 @@
 ---
 title: Brewing
 description: Cool projects under development.
+next: false
 ---
 
 ![](https://cdn.apollo.moe/img/brew.png)

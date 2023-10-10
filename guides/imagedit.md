@@ -1,9 +1,5 @@
 ---
 title: Manga Image Editing
-author:  
-  name: "Oakminati"
-  link: https://nyaa.si/user/Oakminati
-  avatar: /pfp/oak.png
 ---
 
 ![](/thumb/imgedit.png)
