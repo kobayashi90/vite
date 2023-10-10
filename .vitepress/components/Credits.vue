@@ -83,7 +83,8 @@ const thanks = [
       <template #title>Contributors</template>
       <template #lead>Thank you to all the contributors for your dedications and resources.</template>
     </VPTeamPageTitle>
-    <VPTeamMembers size="medium" :members="contributors" />
+    <VPTeamMembers size="small" :members="contributors" />
+    <br />
     <VPTeamPageSection>
       <template #title>Special Thanks to</template>
       <template #members>

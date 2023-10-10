@@ -3,14 +3,10 @@ dist
 pnpm-lock.yaml
 package-lock.json
 yarn.lock
-cache
-.cache
 package.json
 public
-CHANGELOG.md
 .yarn
 node_modules
-.next
 .vitepress/dist
 .vitepress/cache
 *.md
