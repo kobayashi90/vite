@@ -10,19 +10,18 @@ description: Curated websites for anime, manga, ln & vn.
 Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
 
 ::: details Rating System
-- <Badge type="caution" text="R+" />Uploads NSFW content on a regular basis.
-- <Badge type="info" text="R" />Uploads NSFW content, but not always/all of them.
-- <Badge type="info" text="R-" />Rarely uploads NSFW content.
-- <Badge type="success" text="E" />Only SFW content.
-- <Badge type="info" text="NR" />Haven't been rated yet.
+- <Badge type="danger" text="R+" /> Uploads NSFW content on a regular basis.
+- <Badge type="warning" text="R" /> Uploads NSFW content, but not always/all of them.
+- <Badge type="info" text="R-" /> Rarely uploads NSFW content.
+- <Badge type="tip" text="E" /> Only SFW content.
 
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 
 :::
 
->Use <Badge type="dark" icon="/icon/ada.png" text="AdAway" link="https://adaway.org/" />or <Badge type="dark" icon="/icon/adg.png" text="Adguard" link="https://adguard.com/en/welcome.html" />on Android and <Badge type="dark" icon="/icon/ubo.png" text="uBlock Origin" link="https://ublockorigin.com/" />in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="dark" icon="/icon/ahadns.png" text="AhaDNS" link="https://blitz-setup.ahadns.com/" />as profile.
-
->Use <Badge type="dark" icon="/static/icon/ada.png" text="AdAway" link="https://adaway.org/" />or <Badge type="dark" icon="/static/icon/adg.png" text="Adguard" link="https://adguard.com/en/welcome.html" />on Android and <Badge type="dark" icon="/static/icon/ubo.png" text="uBlock Origin" link="https://ublockorigin.com/" />in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="dark" icon="/static/icon/ahadns.png" text="AhaDNS" link="https://blitz-setup.ahadns.com/" />as profile.
+::: tip Ad blocking {open}
+Use [**AdAway**](https://adaway.org/) or [**Adguard**](https://adguard.com/en/welcome.html/) on Android and [**uBlock Origin**](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [**AhaDNS**](https://blitz-setup.ahadns.com/) as profile.
+:::
 
 ![](/banner/anime.png)
 
@@ -34,7 +33,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 == Stream
 
-- [**Aniwave**](https://aniwave.to/home) <Badge type="Dark" text="formerly 9anime" />
+- [**Aniwave**](https://aniwave.to/home) <Badge text="formerly 9anime"/>
   - Huge library with Watch Together feature
   - Less amount of compression compared to other sites that use 3rd party hosts
   - Has both hardsub and softsub (multilingual)
@@ -45,7 +44,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - Duck has the highest overall bitrate but may have buffer issue.
   - Has both hardsub(duck) & softsub(rest)
   - Has missing titles. But, you can request them in their support server
-- [**Aniwatch**](https://aniwatch.to/home) <Badge type="Dark" text="formerly Zoro" />
+- [**Aniwatch**](https://aniwatch.to/home) <Badge text="formerly Zoro"/>
   - Huge library with Watch Together feature
   - Re-encodes shows for smaller size with lower overall bitrate.
   - Softsubs may create issues in different scenarios, but can be beneficial for multi-language support
@@ -70,8 +69,8 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is <Badge type="dark" icon="/icon/lt.png" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="dark" icon="/icon/qb.svg" text="qBittorrent" link="https://www.qbittorrent.org/" />or <Badge type="dark" icon="/icon/trans.png" text="Transmission" link="https://transmissionbt.com/" />.
-4. For VPN, use <Badge type="dark" icon="/icon/mv.png" text="Mullvad" link="https://mullvad.net/" />or <Badge type="dark" icon="/icon/ivpn.png" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="dark" icon="/icon/wind.png" text="Windscribe" link="https://windscribe.com/" />.
+3. Recommended torrent client for Android is [**libretorrent**](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [**qBittorrent**](https://www.qbittorrent.org/) or [**Transmission**](https://transmissionbt.com/).
+4. For VPN, use [**Mullvad**](https://mullvad.net/) or [**IVPN**](https://www.ivpn.net/). If you want a free alternative, use [**Windscribe**](https://windscribe.com/).
 5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android.
 
@@ -90,7 +89,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [JPLearner](http://www.jplearner.to/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Misc" /><Badge type="info" text="Host" />
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
 
->To download in Android, use <Badge type="dark" icon="/icon/1dm.png" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />, <Badge type="dark" icon="/icon/fdm.png" text="FDM" link="https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US" />or <Badge type="dark" icon="/icon/adm.png" text="ADM" link="https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US" />. For PC, use <Badge type="dark" icon="/icon/idm.webp" text="IDM" link="https://www.internetdownloadmanager.com/" />, <Badge type="dark" icon="/icon/jdl.png" text="JDL" link="https://jdownloader.org/" />or <Badge type="dark" icon="/icon/fdm.png" text="FDM" link="https://www.freedownloadmanager.org/" />. You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+>To download on Android, use [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US), [**FDM**](https://play.google.com/store/apps/details?id=org.freedownloadmanager.fdm&hl=en&gl=US), or [**ADM**](https://play.google.com/store/apps/details?id=com.dv.adm&hl=en&gl=US). For PC, use [**IDM**](https://www.internetdownloadmanager.com/), [**JDL**](https://jdownloader.org/), or [**FDM**](https://www.freedownloadmanager.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
 
 == IRC
 
@@ -163,7 +162,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
   - [Muse Asia](https://www.youtube.com/@MuseAsia/)
   - [Ani-One Asia](https://www.youtube.com/AniOneAsia/)
 - **TV**
-  - [Funcube](https://funcube.space/) <Badge type="info" text="Backup" link="https://backup.funcube.space/" />
+  - [Funcube](https://funcube.space/) <Badge text="Backup" link="https://backup.funcube.space/" />
   - [Toonami Aftermath](https://www.toonamiaftermath.com/)
 
 :::
