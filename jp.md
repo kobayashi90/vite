@@ -303,7 +303,7 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
   - [memento](https://github.com/ripose-jp/Memento)
-    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
   - [Voracious](https://voracious.app/)
 - Practice
   - Learn Japanese! - Kanji <Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />

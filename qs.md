@@ -14,7 +14,7 @@ The most important things to get you started.
 
 == Anime
 
-- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge icon="i-octicon-heart" text="Formerly 9anime"/>
+- [Aniwave](https://aniwave.to/home) | [Alt UI](https://9animehq.to/home) <Badge text="Formerly 9anime"/>
 - [KickAssAnime](https://kickassanime.am/) (use duckstream if available)
 - [Tokyo Insider](https://www.tokyoinsider.com/) <Badge text="DDL" />
 
@@ -46,7 +46,7 @@ The most important things to get you started.
 == Android
 
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/)
-  <Badge icon="globe" text="Web" link="https://tachiyomi.org/"/>
+  <Badge icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/"/>
   <Badge icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   <Badge text="Manga" />
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" />

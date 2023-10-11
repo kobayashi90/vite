@@ -324,7 +324,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 == Stream
 
 - **OP/ED**
-  - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AnimeThemes" />
+  - [Anithemes.moe](https://animethemes.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AnimeThemes" />
   - [Themes.moe](https://themes.moe/)
   - [Karaoke Mugen](https://kara.moe)
   - [Squidify](https://www.squidify.org/)

@@ -57,13 +57,13 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - DailyAL <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" /><Badge type="info" text="MyAnimeList" />
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="/icon/apple.png" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
-- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="globe" text="Web" link="https://moelist.net/" /><Badge type="info" text="MyAnimeList" />
+- [MoeList](https://github.com/axiel7/MoeList) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://moelist.net/" /><Badge type="info" text="MyAnimeList" />
 
 == Others
 
 - [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US)
 - Illustrations
-  - Anime Boxes <Badge type="info" icon="globe" text="Web" link="https://www.animebox.es/" />
+  - Anime Boxes <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.animebox.es/" />
   - [Boorusphere](https://github.com/nullxception/boorusphere)
   - Pixiv <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=jp.pxv.android" />
 - # [KizzyRPC](https://github.com/dead8309/KizzyRPC)
@@ -84,7 +84,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Plex](https://www.plex.tv/)
 - [Plex Anisync](https://github.com/RickDB/PlexAniSync)
 - [PlexAniSync-Mappings](https://github.com/mizz141/PlexAniSync-Mappings)
-- [Shoko Anime](https://github.com/shokoanime) <Badge type="info" icon="globe" text="Web" link="https://shokoanime.com/" />
+- [Shoko Anime](https://github.com/shokoanime) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shokoanime.com/" />
 - [Shokofin](https://github.com/ShokoAnime/Shokofin)
 
 == Manga
@@ -100,11 +100,11 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Trackers
 
 - [Animeo](https://github.com/Jenrykster/animeo) <Badge type="info" text="Stremio" />
-- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="globe" text="Web" link="https://malupdaterosx.moe/hachidori/" /><Badge type="info" text="MacOS" />
-- [MALClient](https://github.com/Drutol/MALClient) <Badge type="tip" icon="globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" /><Badge type="info" text="Windows" />
-- [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Windows" /><Badge type="info" text="Downloader" />
-- [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
-- [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
+- [Hachidori](https://github.com/Atelier-Shiori/hachidori) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malupdaterosx.moe/hachidori/" /><Badge type="info" text="MacOS" />
+- [MALClient](https://github.com/Drutol/MALClient) <Badge type="tip" icon="i-octicon-globe" text="Store" link="https://apps.microsoft.com/store/detail/malclient/9NBLGGH5F3BL" /><Badge type="info" text="Windows" />
+- [Taiga](https://github.com/erengy/taiga) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://taiga.moe/" /><Badge type="info" text="Windows" /><Badge type="info" text="Downloader" />
+- [Trackma](https://github.com/z411/trackma) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://z411.github.io/trackma/" /><Badge type="info" text="Linux" />
+- [Tundra](https://github.com/m4tx/tundra) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tundra.moe/" /><Badge type="info" text="Linux" />
 
 == mpv
 
@@ -142,13 +142,13 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 
 == Discord bots
 
-- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
+- [AniSearch](https://github.com/IchBinLeoon/anisearch-discord-bot) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://ichbinleoon.github.io/anisearch-discord-bot/#/" />
 - [Ryuuzaki Ryuusei](https://github.com/nattadasu/ryuuRyuusei)
 - [Yuuko](https://github.com/YuuCorp/Yuuko)
 - [MangaUpdates Bot](https://github.com/jckli/mangaupdates-bot)
 - [Manhwa Updates Bot](https://github.com/MooshiMochi/ManhwaUpdatesBot)
 - [Rinbot](https://rinbot.moe/)
-- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="globe" text="Web" link="https://michelle.jacenboy.com/" />
+- [Michelle](https://github.com/JacenBoy/michelle) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://michelle.jacenboy.com/" />
 - Sneedex <Badge type="info" icon="/icon/discord.svg" text="Invite" link="https://discord.com/oauth2/authorize?client_id=908762267913424897&permissions=139586751552&scope=applications.commands%20bot" />
 - [Picsiv](https://github.com/jckli/picsiv)
 - [Poketwo](https://poketwo.net/)
@@ -193,26 +193,26 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 
 == Anime
 
-- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) <Badge type="info" icon="globe" text="Web" link="https://animewatchparties.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" />
+- [Anime Watch Parties](https://github.com/Dragicafit/Anime-Watch-Parties/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://animewatchparties.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-watch-parties/goinehmnmhnoaepodbngfgdgjeibgelh/" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" />
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) <Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/" />
-- [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="globe" text="Web" link="https://anime-skip.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
+- [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://anime-skip.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
-- Substital <Badge type="info" icon="globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- Substital <Badge type="info" icon="i-octicon-globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
 
 == Manga
 
-- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="globe" text="Web" link="https://www.allmangasreader.com/" />
-- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
+- [All Manga Reader](https://gitlab.com/all-mangas-reader/all-mangas-reader-2) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.allmangasreader.com/" />
+- [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
 - [Similar Manga](https://github.com/similar-manga/similar) <Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" />
 
 == Others
 
 - [Booru Shinshi](https://github.com/kuanyui/BooruShinshi) <Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/" />
 - Improve Crunchyroll <Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/improve-crunchyroll/elmhfjhlecffodalffipmgpploaihjgh" />
-- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
-- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
-- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
+- [KellyC Image Downloader](https://github.com/NC22/KellyC-Image-Downloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kellydownloader.com/en/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/kellyc-image-downloader/mbhkdmjolnhcppnkldbdfaomeabjiofm" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/ru/firefox/addon/kellyc-favorites/" />
+- [MAL Redesigned](https://github.com/HritikVaishnav/Myanimelist-Redesigned) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://hritikvaishnav.github.io/Project-Redesign/mal.html" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/myanimelist-redesign/knegaeodgehajemjpfbhlgjdcloklkal" /><Badge type="tip" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/myanimelist-redesign/" />
+- [Pixiv Batch Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://pixiv.download/" /><Badge type="tip" icon="/icon/crm.svg" text="Chrome" link="https://chrome.google.com/webstore/detail/powerful-pixiv-downloader/dkndmhgdcmjdmkdonmbgjpijejdcilfh" />
 - [Search by Image](https://github.com/dessant/search-by-image)
 
 :::

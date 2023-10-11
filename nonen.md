@@ -29,8 +29,8 @@ Otaku resources for other languages/regions.
 
 == Others
 - Apps
-    - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
-    - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+    - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+    - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
 :::
 
 
@@ -208,7 +208,7 @@ Otaku resources for other languages/regions.
 - [Komiku](https://komiku.id/)
 - [Komik Cast](https://komikcast.site/)
 - [Mangaku](https://mangaku.fun/)
-- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
+- [Ryukomik](https://komik.ryukoproject.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AzwarKusumah/ryukomik" />
 - [Shinigami ID](https://shinigami.id/)
 :::
 
@@ -315,12 +315,12 @@ Otaku resources for other languages/regions.
 - [AnimeLib](https://animelib.me)
 - [Anime Stars](https://animestars.org/) <Badge type="info" text="Sub" />
 - [AnimeGO](https://animego.org/) <Badge type="info" text="Sub" />
-- [Averlist](https://averlist.xyz/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/Averito/Averlist" />
+- [Averlist](https://averlist.xyz/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Averito/Averlist" />
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [JUT.SU](https://jut.su/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
-- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
+- [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
 - [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
 - [Dark Libria](https://darklibria.it/) <Badge type="info" text="Stream" /><Badge type="info" text="DDL" />
 
@@ -350,7 +350,7 @@ Otaku resources for other languages/regions.
 - Extension
     - [Shikimorist](https://github.com/Hokid/shikimorist) <Badge text="Chrome" />
 - Brewing
-    - [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/YockyMai/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
+    - [ANIFOX](https://anifox.club/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/YockyMai/ANIFOX" /><Badge type="info" icon="/icon/russia.png" text="RU" />
 
 :::
 
@@ -408,7 +408,7 @@ Otaku resources for other languages/regions.
 
 - [Bao Tang Truyen Tranh](https://baotangtruyengo.com/)
 - [Kaguya](https://kaguya.app/manga)
-- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
+- [Kyoto manga](https://kyotomanga.live/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/leephan2k1/manga-app" />
 - [Net Truyen](https://www.nettruyenplus.com/)
 
 == Others

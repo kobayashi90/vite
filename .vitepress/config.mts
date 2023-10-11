@@ -97,7 +97,7 @@ export default defineConfig({
       { text: "💖 Credits", link: "/credits" },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
+      { icon: "github", link: "https://github.com/anotherduckling/vite" },
       { icon: "discord", link: "https://discord.gg/WYchhG8z8T" },
     ],
   },

@@ -64,7 +64,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Countdown](https://animecountdown.com/)
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
-- [Notify.moe](https://notify.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
+- [Notify.moe](https://notify.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />
 - [Senpai.moe](https://www.senpai.moe/)
 - [Syoboi Calendar](https://cal.syoboi.jp/)
 
@@ -73,7 +73,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 - [Anime Karma List](https://animekarmalist.com/)
 - [Anime Stats](https://anime-stats.net/)
-- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
+- [Kitsu Season Trends](https://season.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/wopian/kitsu-season-trends" />
 - [Anime Filler Guide](https://www.animefillerguide.com/)
 - [Anime Filler List](https://www.animefillerlist.com/)
 - [Chiaki](https://chiaki.site/)
@@ -177,7 +177,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Boutique Japan](https://boutiquejapan.com/)
     - [Japan Specialist](https://japanspecialist.com/)
     - [JRailPass](https://www.jrailpass.com/blog/)
-    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
+    - [Mini Tokyo 3D](https://minitokyo3d.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/nagix/mini-tokyo-3d" />
 - **Japanese**
     - [Omatsuri Japan](https://omatsurijapan.com/)
     - [Travel Research](https://www.homemate-research-tour.com/)
@@ -348,28 +348,28 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == Analysis
-- [anime.plus](https://anime.plus/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
-- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
+- [anime.plus](https://anime.plus/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/anime-plus/graph" /><Badge type="info" text="MAL" />
+- [Anistats](https://mayudev.github.io/anistats/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/mayudev/anistats" /><Badge type="info" text="AL" />
 - [MAL Badges](https://www.mal-badges.com/) <Badge type="info" text="MAL" />
 - [Randime](https://randime.moe/)
-- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
+- [Sekai](https://sekai.rl404.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/rl404/sekai" /><Badge type="info" text="MAL" />
 - [Spin.moe](https://spin.moe/)
 - [Sprout Anime Recommender](https://anime.ameo.dev/) <Badge type="info" text="MAL" /><Badge type="info" text="AL" />
 
 == Image search
 - [Multi-service image search](https://iqdb.org/)
-- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
+- [SauceKudasai](https://saucekudasai.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ayushgptaa/SauceKudasai" />
 - [SauceNAO](https://saucenao.com/)
-- [Trace](https://trace.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
+- [Trace](https://trace.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/soruly/trace.moe" />
 
 == Others
 - [3x3 Generator](https://gqgs.github.io/3x3-generator/)
 - [Anipool](https://www.anipool.app/)
-- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
+- [Imgtrans](https://touhou.ai/imgtrans/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/zyddnys/manga-image-translator" />
 - [MAL/AL/K/AP lists XML Exporter](https://malscraper.azurewebsites.net/)
-- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
+- [Trakt to MAL](https://anitrakt.huere.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/ryuuganime/aniTrakt-IndexParser" />
 - [Waif2x](https://unlimited.waifu2x.net/) <Badge type="tip" icon="mark-github" text="Github" link="https://github.com/nagadomi/waifu2x" />
-- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
+- [WaifuXL](https://waifuxl.com/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheFutureGadgetsLab/WaifuXL" />
 
 :::
 
@@ -543,7 +543,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Anime Girls Holding Programming Books](https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/)
 - [MakeGirlsMoe](https://make.girls.moe/)
 - [Anianimals](https://www.anianimals.moe/)
-- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
+- [VAGABOND HIATUS CHART](https://vagabond-hiatus-chart.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/falsepopsky/vagabond-hiatus-chart" />
 - [Absolute Territory](https://absoluteterritory.moe/)
 - [Wanwan](https://wanwan.moe/)
 
