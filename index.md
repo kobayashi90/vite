@@ -24,14 +24,14 @@ features:
     details: Software for every Operating System
     icon: 💾
     link: /software.md
+  - title: Non-English
+    details: Websites & Software for Non-Enlgish countries
+    icon: 🗺️
+    link: /nonen.md
   - title: NSFW
     details: ahem... ahem....
     icon: 🔞
     link: /nsfw.md
-  - title: Glossary
-    details: General, anime and manga terms explained
-    icon: 📖
-    link: /glossary/general.md
 
 
 ---

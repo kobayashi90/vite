@@ -9,7 +9,7 @@ title: Madokami
 [Madokami](https://manga.madokami.al/) is a private website that hosts manga, novels and artbooks. They upload the same manga rips found on nyaa without compression. You can either download from their site (upto 3 parallel downloads) or directly read in tachiyomi using their extension. You sign up by joining their IRC channel and trying your luck at gacha rolls.
 
 ## Step 0
-Install an IRC client, <Badge type="tip" icon="/icon/hex.svg" text="**HexChat**" link="https://hexchat.github.io/" />if PC and <Badge type="tip" icon="/icon/rvl.png" text="**Revolution IRC**" link="https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en&gl=US" />if Android. You can't use web IRC clients. You can find more clients [**here**](https://ircv3.net/software/clients).
+Install an IRC client, <Badge type="tip" icon="i-custom-hex" text="HexChat" link="https://hexchat.github.io/" />if PC and <Badge type="tip" icon="i-custom-rvl" text="**Revolution IRC**" link="https://play.google.com/store/apps/details?id=io.mrarm.irc&hl=en&gl=US" />if Android. You can't use web IRC clients. You can find more clients [**here**](https://ircv3.net/software/clients).
 
 ## Step 1
 
@@ -17,6 +17,7 @@ Connect to **Rizon IRC network**.
 1. Add nickname for your account
 2. Select RIZON in the networks list
 3. Click Connect
+
 ![](/ss/mado/cnnctrzn.png)
 
 ## Step 2
@@ -38,8 +39,8 @@ Now, your nickname is registered, and you've automatically been identified. You 
 Upon your next visit to Rizon IRC network, use the same nickname, and identify using the following command: `/msg NickServ IDENTIFY yourPassword`
 
 You can also set up your client to do this automatically by adding it to the **Connect/Autorun commands** for the Rizon network.
-- Hexchat: `HexChat (field in the upper left corner) >Network list >Rizon >Edit >Connect commands >Add`
-- Revolution: `Long press on the network >Edit >Autorun command field >Paste >Save`
+- Hexchat: `HexChat (field in the upper left corner) > Network list > Rizon > Edit > Connect commands > Add`
+- Revolution: `Long press on the network > Edit > Autorun command field > Paste > Save`
 
 ## Step 3
 

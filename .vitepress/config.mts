@@ -97,6 +97,28 @@ export default defineConfig({
       { text: "⚗️ Brewing", link: "/brewing" },
       { text: "💖 Credits", link: "/credits" },
     ],
+    nav: [
+      {
+        text: 'Glossary',
+        items: [
+          { text: 'General', link: '/glossary/general' },
+          { text: 'Anime', link: '/glossary/anime' },
+          { text: 'Manga', link: '/glossary/manga' },
+          { text: 'File Naming', link: '/glossary/file' },
+        ]
+      },
+      {
+        text: 'Guides',
+        items: [
+          { text: 'Digital Manga', link: '/guides/digim' },
+          { text: 'IRC', link: '/guides/irc' },
+          { text: 'Madokami', link: '/guides/mado' },
+          { text: 'Manga Image Editing', link: '/guides/imagedit' },
+          { text: 'Network Stream', link: '/guides/ns' },
+          { text: 'Squidify', link: '/guides/squidify' }
+        ]
+      }
+    ],
     socialLinks: [
       { icon: "github", link: "https://github.com/anotherduckling/vite" },
       { icon: "discord", link: "https://discord.gg/WYchhG8z8T" },
