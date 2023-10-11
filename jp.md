@@ -279,7 +279,7 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 == Anki
 
-- [Anki](https://apps.ankiweb.net/) <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.ichi2.anki" /><Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387" /><Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-anki" />
+- [Anki](https://apps.ankiweb.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.ichi2.anki" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/ankimobile-flashcards/id373493387" /><Badge type="tip" text="Guide" link="https://tatsumoto.neocities.org/blog/setting-up-anki" />
 - Card templates
   - [jp-mining-note](https://aquafina-water-bottle.github.io/jp-mining-note/)
   - [Xelieu's Modified Anime Card](https://xelieu.github.io/jp-lazy-guide/)
@@ -296,9 +296,9 @@ Interested in learning the japanese language? Here you can find resources to aid
   == Learning tools
 
 - Dictionary
-  - jidoujisho <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
+  - jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
     - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
-  - Takoboto <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
+  - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
 - Media Player
   - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
   - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
@@ -306,18 +306,18 @@ Interested in learning the japanese language? Here you can find resources to aid
     - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
   - [Voracious](https://voracious.app/)
 - Practice
-  - Learn Japanese! - Kanji <Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
-  - Kana - Hiragana and Katakana <Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
-  - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
+  - Learn Japanese! - Kanji <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
+  - Kana - Hiragana and Katakana <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
+  - [Kanji Garden](https://kanji.garden/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=is.ky.kanjigarden&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kanji-garden-japanese/id1338967114" />
 - Reader 
-  - [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
-  - [Immersion Reader](https://reader.immersionkit.com/) <Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
-  - Japanese Kanji Study <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
+  - [Easy Japanese](https://easyjapanese.net/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=mobi.eup.jpnews&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/easy-japanese-news-%E3%82%84%E3%81%95%E3%81%97%E3%81%84%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1107177166" />
+  - [Immersion Reader](https://reader.immersionkit.com/) <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/immersion-reader/id6443721334" />
+  - Japanese Kanji Study <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy&hl=en&gl=US" />
   - [mokuro](https://github.com/kha-white/mokuro) 
   - [ttu ttu Ebook Reader](https://github.com/ttu-ttu/ebook-reader) 
   - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
-  - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
-  - Write It! Japanese <Badge type="tip" icon="/icon/andy.png" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="/icon/apple.png" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
+  - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
+  - Write It! Japanese <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
 
 == Tools
 

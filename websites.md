@@ -20,7 +20,7 @@ Online resources for anime, manga, light novels and more. All links have been ca
 :::
 
 ::: tip Ad blocking {open}
-Use [**AdAway**](https://adaway.org/) or [**Adguard**](https://adguard.com/en/welcome.html/) on Android and [**uBlock Origin**](https://ublockorigin.com/) in browsers to get rid of all the ads and trackers. For iOS, use [**AhaDNS**](https://blitz-setup.ahadns.com/) as profile.
+Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" />or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" />on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" />in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-ahadns" text="AhaDNS" link="https://blitz-setup.ahadns.com/" />as profile.
 :::
 
 ![](/banner/anime.png)
@@ -69,8 +69,8 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is [**libretorrent**](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent). For Windows, Linux & macOS, use [**qBittorrent**](https://www.qbittorrent.org/) or [**Transmission**](https://transmissionbt.com/).
-4. For VPN, use [**Mullvad**](https://mullvad.net/) or [**IVPN**](https://www.ivpn.net/). If you want a free alternative, use [**Windscribe**](https://windscribe.com/).
+3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" />or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
+4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" />or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
 5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android.
 
@@ -90,7 +90,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
 
 :::tip Downloader {open}
-On Android, use [**1DM**](https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US). For PC, use [**IDM**](https://www.internetdownloadmanager.com/) or [**JDL**](https://jdownloader.org/). You can use JDL & FDM on Linux & macOS too. Use [IAS](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [this guide](https://rentry.org/jdownloader2) to debloat JDL.
+On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />. For PC, use <Badge type="tip" icon="i-custom-idm" text="IDM" link="https://www.internetdownloadmanager.com/" /> or <Badge type="tip" icon="i-custom-jdl" text="JDL" link="https://jdownloader.org/" />. You can use JDL on Linux & macOS too. Use [**IAS**](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [**this guide**](https://rentry.org/jdownloader2) to debloat JDL.
 
 == IRC
 
@@ -145,7 +145,7 @@ On Android, use [**1DM**](https://play.google.com/store/apps/details?id=idm.inte
   - Some arcs are still in [development](https://docs.google.com/presentation/d/1br66Z5J0GXPLk5B_kLN9A7gn7hFgDJFhW_pY2bDxOZc/view), with missing episodes or low resolution (480p) uploads
   - Main source is torrent based
   - Unofficial uploads on Stremio with [**One Pace add-on**](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2F6b8ba440e405-onepace-stremio-v2.baby-beamup.club%2Fmanifest.json) or on [**Rentry**](https://rentry.co/onepace)
-- [**Pokémon TV**](https://poke-tv.vercel.app/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
+- [**Pokémon TV**](https://poke-tv.vercel.app/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/seiya-dev/pokemon-tv" />
   - Organizes everything pokemon related
   - Has uploads for various dub but no JP dub
   - Uploads are upto 720p, sometimes even lower

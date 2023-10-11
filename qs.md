@@ -47,7 +47,7 @@ The most important things to get you started.
 
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/)
   <Badge icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/"/>
-  <Badge icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+  <Badge icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   <Badge text="Manga" />
 - [Aniyomi](https://github.com/jmir1/aniyomi-mpv-beta) <Badge text="Anime" />
   <Badge text="Manga" />
