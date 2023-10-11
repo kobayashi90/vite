@@ -26,7 +26,7 @@ Anime portion of the Wotaku glossary!
 | Seiyuu/VA | The voice actor/actress of the anime. |
 
 
-::: details Cour, Season, Split-cour {open} 
+:::details Cour, Season, Split-cour {open} 
 In Japanese TV, the broadcast schedule is divided into four seasons: Spring (March - May), Summer (June - August), Autumn (September - November), and Winter (December - February). This means that an anime can have 13 episodes in each season.
 
 - **Cour:** Each 13eps/season is called a cour.
