@@ -62,7 +62,7 @@ Connecting to Squidify is very easy, just login with the following credentials:
 - Port (If needed): `443`
 - Username: `Guest`
 - Password: `Guest`
-- Force Clear Text Password^1^: Disabled / Off
+- Force Clear Text Password¹: Disabled / Off
 
  1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 

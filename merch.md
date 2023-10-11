@@ -18,7 +18,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 | Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Tranportation { class="compact" } |
 |---|---|---|---|---| 
 | Surface Mail               | Lowest-Cost  | Slowest        | Offered           | :ship:                |
-| SAL (Economic Airmail)     | Low-Cost     | Slow^2^        | Not Offered^1^    | :airplane:            |    
+| SAL (Economic Airmail)     | Low-Cost     | Slow²        | Not Offered¹    | :airplane:            |    
 | Airmail                    | High-Cost    | Fast           | Offered           | :airplane:            |
 | EMS (Express Mail Service) | Highest-Cost | Fastest        | Offered           | :airplane:            |
 

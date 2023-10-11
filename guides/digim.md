@@ -20,10 +20,10 @@ This guide is intended to help you decide where to purchase your digital manga d
 ## General Platform
 Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 --- | --- | --- | --- | --- |
-[Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920)^1^ | Easy | ✅ | NO
-[Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest^2^ | Hard | ✅ | NO
+[Amazon (Kindle)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Low (x1920)¹ | Easy | ✅ | NO
+[Amazon  (Comixology)](https://www.amazon.com/kindle-dbs/comics-store/home/) | Highest² | Hard | ✅ | NO
 [Apple Books](https://www.apple.com/apple-books/)|Standard | Medium | ✅ | NO
-[BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | NO^3^
+[BookWalker Global](https://global.bookwalker.jp/)| Standard| Very Easy | ✅ | NO³
 [Google Play Books](https://play.google.com/books)| Standard| Very Easy | ✅ | YES
 [Humble Bundle](https://www.humblebundle.com/)|Highest | DRM-Free| ✅ | YES
 [Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | YES
@@ -37,21 +37,21 @@ Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 ## Publishers
 Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 --- | --- | --- | --- | --- |
-[Azuki](https://www.azuki.co/)|x4800^7^|✅|✅|Own Store
-[Dark Horse](https://digital.darkhorse.com/)|x3000+^1^ | ❌ | ✅ | Comixology
+[Azuki](https://www.azuki.co/)|x4800⁷|✅|✅|Own Store
+[Dark Horse](https://digital.darkhorse.com/)|x3000+¹ | ❌ | ✅ | Comixology
 [DENPA](https://denpa.pub/)|Varies | ❌ | ✅ | Own Store
 [FAKKU!](https://www.fakku.net/)| x3200 | ✅ | ❌ | Own Store
 [Glacier Bay Books](https://glacierbaybooks.com/)|Varies | ❌ | ✅ | Own Store
 [Irodori Comics](https://irodoricomics.com/)|x3200 | ✅ | ❌ | Own Store / Fakku
 [J-Novel Club](https://j-novel.club/)|x3840 | ✅ | ✅ | Own Store
 [Kaiten Books](https://www.kaitenbooks.com/)|~x2400 | ✅ | ✅ | Own Store
-[Kodansha USA](https://kodansha.us/)|~x3000^2^ | ❌ | ✅ | Humble Bundle / Comixology
-[Seven Seas Entertainment](https://sevenseasentertainment.com/) |x3000^3^ |❌|✅|Comixology
+[Kodansha USA](https://kodansha.us/)|~x3000² | ❌ | ✅ | Humble Bundle / Comixology
+[Seven Seas Entertainment](https://sevenseasentertainment.com/) |x3000³ |❌|✅|Comixology
 [Square Enix Manga & Books](https://squareenixmangaandbooks.square-enix-games.com/en-us)| ~x2230 |❌|✅| Same Everywhere
 [Star Fruit Books](https://starfruitbooks.com/)|Varies|✅|✅|Own Store
-[TOKYOPOP](https://tokyopop.com/)|~x2300^4^|❌|✅| Same Everywhere
-[VAST Visual](https://vastmanga.com/)|~x2250^5^ | ❌|✅| Apple Books
-[VIZ](https://www.viz.com/read)|x2100-x2475^6^ | ❌ | ✅ | Kobo
+[TOKYOPOP](https://tokyopop.com/)|~x2300⁴|❌|✅| Same Everywhere
+[VAST Visual](https://vastmanga.com/)|~x2250⁵ | ❌|✅| Apple Books
+[VIZ](https://www.viz.com/read)|x2100-x2475⁶ | ❌ | ✅ | Kobo
 [Yen Press](https://yenpress.com/)|x1350 |❌|✅| Same Everywhere
 
 1. Standard non-CMX/Amazon HD resolution is x2048 everywhere, including their own store.
