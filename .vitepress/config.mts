@@ -36,7 +36,13 @@ export default defineConfig({
   vite: {
     plugins: [
       UnoCSS({
-        presets: [presetUno(), presetAttributify(), presetIcons()],
+        presets: [
+          presetUno(),
+          presetAttributify(),
+          presetIcons({
+            extraProperties: { display: "inline-block" },
+          }),
+        ],
       }),
     ],
     resolve: {
