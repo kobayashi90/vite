@@ -7,10 +7,10 @@ order: 0
 # File Naming
 Standard file naming scheme for Anime & Manga file.
 
-=== Nyaa Color Code
+::: details Nyaa Color Code
 - **Green**: Uploaded by trusted uploader.
 - **Red**: For anime, it indicates a re-encoded video. For manga, it indicates that an edit of someone else's release, usually for the purposes of joining spread pages. Sometimes it's indicated with "ED" tag.
-===
+:::
 
 ![](/glossary/file/af.png)
 ## Anime
