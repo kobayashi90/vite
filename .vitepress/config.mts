@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import fsp from "node:fs/promises";
 import { fileURLToPath, URL } from "node:url";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
@@ -40,8 +41,28 @@ export default defineConfig({
           presetUno(),
           presetAttributify(),
           presetIcons({
+            collections: [
+              {
+                custom: {
+                  "1dm": () => fsp.readFile("../public/icon/1dm.png", "utf-8"),
+                  ada: () => fsp.readFile("../public/icon/ada.png", "utf-8"),
+                  adg: () => fsp.readFile("../public/icon/adg.png", "utf-8"),
+                  ahadns: () => fsp.readFile("../public/icon/ahadns.png", "utf-8"),
+                  fork: () => fsp.readFile("../public/icon/fork.png", "utf-8"),
+                  idm: () => fsp.readFile("../public/icon/idm.png", "utf-8"),
+                  ivpn: () => fsp.readFile("../public/icon/ivpn.png", "utf-8"),
+                  jdl: () => fsp.readFile("../public/icon/jdl.png", "utf-8"),
+                  lt: () => fsp.readFile("../public/icon/lt.png", "utf-8"),
+                  mv: () => fsp.readFile("../public/icon/mv.png", "utf-8"),
+                  qb: () => fsp.readFile("../public/icon/qb.png", "utf-8"),
+                  trans: () => fsp.readFile("../public/icon/trans.png", "utf-8"),
+                  ubo: () => fsp.readFile("../public/icon/ubo.png", "utf-8"),
+                  wind: () => fsp.readFile("../public/icon/wind.png", "utf-8"),
+                },
+              },
+            ],
             extraProperties: { display: "inline-block" },
-            scale: 1.2
+            scale: 1.2,
           }),
         ],
       }),
