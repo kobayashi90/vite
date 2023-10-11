@@ -151,7 +151,7 @@ Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning,
 #### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
-[!embed text="CL & RD by Raj (Manga: The Fragrant Flower Blooms With Dignity)"](https://www.youtube-nocookie.com/embed/lwOTTa8F3bM)
+<iframe src="https://www.youtube.com/embed/lwOTTa8F3bM" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 
 #### Translator (TL)
