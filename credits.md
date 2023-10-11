@@ -10,6 +10,9 @@ import Credits from './.vitepress/components/Contributors.vue'
 
 ![](https://cdn.apollo.moe/img/credits.png)
 
+### Contributors
+Thank you to all the contributors for your dedications and resources.
+
 <Credits />
 
 ### Resource Credits
