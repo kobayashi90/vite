@@ -25,7 +25,7 @@ features:
     icon: 💾
     link: /software.md
   - title: Non-English
-    details: Websites & Software for Non-Enlgish countries
+    details: Otaku resources for other regions
     icon: 🗺️
     link: /nonen.md
   - title: NSFW
