@@ -74,7 +74,7 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 4. Now go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
 5. After it loads the chapters, select the chapters you want to download and click **Download**
 
-[!embed](https://www.youtube.com/embed/BR3GR8S_Oqo)
+<iframe src="\https://www.youtube.com/embed/BR3GR8S_Oqo" width="560" height="315" frameborder="0" allowfullscreen></iframe>
 
 ==- More settings
 
