@@ -5,7 +5,7 @@ lastUpdated: false
 ---
 
 <script setup>
-import Credits from './.vitepress/components/Credits.vue'
+import Credits from './.vitepress/components/Contributors.vue'
 </script>
 
 ![](https://cdn.apollo.moe/img/credits.png)

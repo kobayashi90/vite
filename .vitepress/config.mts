@@ -41,6 +41,7 @@ export default defineConfig({
           presetAttributify(),
           presetIcons({
             extraProperties: { display: "inline-block" },
+            scale: 1.2
           }),
         ],
       }),

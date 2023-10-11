@@ -1,10 +1,6 @@
 ---
-
 title: Software
 description: Curated software for android, iOS & pc.
-order: 950
-icon: ":floppy_disk:"
-
 ---
 
 ![](https://cdn.apollo.moe/img/soft.png)
@@ -12,8 +8,6 @@ icon: ":floppy_disk:"
 # Software
 
 Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
-
-
 
 ![](/banner/and.png)
 
@@ -347,5 +341,8 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
 :::
+<script setup>
+import Button from "./.vitepress/components/Button.vue"
+</script>
 
->You can find more PC related tools [**here**](/addons.md/#tools)
+<Button link="/addons#tools" icon="i-octicon-tools-16">You can find more PC related tools here.</Button>
