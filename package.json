@@ -21,5 +21,13 @@
     "@types/node": "^20.8.2",
     "prettier": "^3.0.3",
     "unocss": "^0.56.5"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
   }
 }
