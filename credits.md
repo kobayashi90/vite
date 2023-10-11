@@ -12,24 +12,19 @@ import Credits from './.vitepress/components/Credits.vue'
 
 <Credits />
 
-## Art Credits
+### Resource Credits
+
+:::tabs
+
+== Art 
 
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
-- Ninomae Ina'nis's Padoru by
-  [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
+- Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
 - Ninomae Ina'nis's pixel art by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)
-- Ninomae Ina'nis's WAH! art by [Chroneco](https://www.chroneco.moe/)
-- Ninomae Ina'nis's Wahu Wahu! art by
-  [the same small vtuber previously mentioned](https://twitter.com/ninomaeinanis/status/1652829909218373632)
-- Ninomae Ina'nis's Reading art by
-  [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
+- Ninomae Ina'nis's Reading art by [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
 - Ninomae Ina'nis's back by [Himeliofon](https://twitter.com/hmlf_/status/1581015485524545536)
-- Other icons are from [Octicons](https://primer.github.io/octicons/),
-  [Flaticon](https://www.flaticon.com/),
-  [SVGRepo](https://www.svgrepo.com/),
-  [Mangadex](https://mangadex.org/)
 
-## Glossary Credits
+== Glossary
 
 - [Japanese with Anime](https://www.japanesewithanime.com/)
 - [Horimiya Vol. 15 by Yen Press](https://yenpress.com/titles/9781975324735-horimiya-vol-15)
@@ -38,6 +33,8 @@ import Credits from './.vitepress/components/Credits.vue'
 - [Bentoki from Helvetica Scans](https://discord.com/users/91862190709014528)
 - [u/rui_is_dead from Atelier du Noir](https://www.reddit.com/r/manga/comments/tc90d8/guys_can_you_explain_the_process_of/)
 
-## Guide Credits
+== Guide
 
 - [neckothy](https://gist.github.com/neckothy/6654f928fef87529646df3799f5e555a)
+
+:::

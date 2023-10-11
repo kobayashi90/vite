@@ -57,7 +57,7 @@ const thanks = [
   },
   {
     name: "Ishtar",
-    avatar: "https://ishtar.wtf/favicon.ico",
+    avatar: "/pfp/ishtar.png",
   },
   {
     name: "Kai",
