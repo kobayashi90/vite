@@ -70,8 +70,8 @@ That should get the job done. The homepage doesn't have infinite scroll due to r
 ### FMD2
 
 1. Download and install FMD2 from [**here**](https://github.com/dazedcat19/FMD2)
-2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options >Websites >Modules`
-3. Then go to `Options >Websites >Accounts` andd add your Madokami credentials. After that select Madokami and click apply.
+2. Update all the modules and restart FMD2 after the update is complete. You can check the update process in `Options > Websites > Modules`
+3. Then go to `Options > Websites > Accounts` andd add your Madokami credentials. After that select Madokami and click apply.
 4. Now go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
 5. After it loads the chapters, select the chapters you want to download and click **Download**
 
@@ -85,15 +85,15 @@ You can scan a Madokami folder automatically.
 1. Go to **Manga info** and paste the URL in **Input URL here** and click :arrow_right:
 2. Click **Add to favorites**. It will be added in the **Favorites** tab
 ![](/ss/mado/fav1.png)
-3. Go to `Options >General` and check **Minimize on start**
-4. Then go to `Options >Updates >Favorites` and check
+3. Go to `Options > General` and check **Minimize on start**
+4. Then go to `Options > Updates > Favorites` and check
     - Auto check for new chapter at startup
     - Auto check for new chapter in an interval. Default 60 should be good enough
     - Automatically diwbkiad after finish checking
 
 #### Save as
 
-By default, FMD2 will save it as folder. Go to `Options >Save to >Save download chapter as` and choose your format.
+By default, FMD2 will save it as folder. Go to `Options > Save to > Save download chapter as` and choose your format.
 
 :::
 
@@ -102,7 +102,7 @@ By default, FMD2 will save it as folder. Go to `Options >Save to >Save download 
 ### JDL2
 
 1. Download and install JDL2 from [**here**](https://rentry.org/jdownloader2)
-2. Go to `Settings >Basic Authetication` and click the **Add** button at the bottom
+2. Go to `Settings > Basic Authetication` and click the **Add** button at the bottom
 3. Now add the details
     - Server type: `http://`
     - Host/URL: `manga.madokami.al`
