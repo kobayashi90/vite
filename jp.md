@@ -1,8 +1,6 @@
 ---
 title: Learning Japanese
-order: 725
-description: Japanese learning resources.
-icon: ":japan:"
+description: Japanese learning resources
 ---
 
 ![](https://cdn.apollo.moe/img/jp.png)

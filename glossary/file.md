@@ -1,6 +1,5 @@
 ---
 title: File Naming
-order: 0
 ---
 
 ![](https://cdn.apollo.moe/img/fn.png)

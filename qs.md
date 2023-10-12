@@ -1,5 +1,6 @@
 ---
 title: Quick Start
+description: Bitsized Wotaku!
 ---
 
 ![](https://cdn.apollo.moe/img/qs.png)

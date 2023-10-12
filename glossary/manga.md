@@ -1,6 +1,5 @@
 ---
 title: Manga
-order: 95
 ---
 
 ![](https://cdn.apollo.moe/img/manga.png)

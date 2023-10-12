@@ -1,6 +1,6 @@
 ---
 title: Credits
-description: All the contributors of Wotaku.
+description: All the contributors of Wotaku
 lastUpdated: false
 ---
 

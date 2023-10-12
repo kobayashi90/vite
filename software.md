@@ -1,6 +1,6 @@
 ---
 title: Software
-description: Curated software for android, iOS & pc.
+description: Software for every OS
 ---
 
 ![](https://cdn.apollo.moe/img/soft.png)

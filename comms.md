@@ -1,8 +1,6 @@
 ---
 title: Communities
-description: All the great communities!
-order: 650
-icon: ":speaking_head_in_silhouette:"
+description: All the great otaku communities!
 ---
 
 ![](https://cdn.apollo.moe/img/comms.png)

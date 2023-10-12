@@ -1,6 +1,6 @@
 ---
 title: Scanlation
-description: Guides and resources for scanlation.
+description: Guides and resources for scanlation
 ---
 
 ![](https://cdn.apollo.moe/img/scan.png)

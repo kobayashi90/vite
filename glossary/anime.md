@@ -1,6 +1,5 @@
 ---
 title: Anime
-order: 100
 ---
 
 ![](https://cdn.apollo.moe/img/anime.png)

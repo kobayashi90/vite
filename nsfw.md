@@ -1,8 +1,6 @@
 ---
 title: NSFW
-order: 750
-description: :)
-icon: ":underage:"
+description: huh... ahem...
 ---
 
 ![](https://cdn.apollo.moe/img/nsfw.png)

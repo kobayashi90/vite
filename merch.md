@@ -1,8 +1,6 @@
 ---
 title: Merch
-order: 700
 description: Everything merch related!
-icon: ":package:"
 ---
 
 ![](https://cdn.apollo.moe/img/merch.png)

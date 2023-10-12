@@ -1,5 +1,6 @@
 ---
 title: Add-ons
+description: Sofware to make life easier
 ---
 
 ![](https://cdn.apollo.moe/img/addons.png)

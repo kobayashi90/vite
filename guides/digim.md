@@ -1,6 +1,5 @@
 ---
 title: Digital Manga
-description: To help you decide where to purchase your digital manga
 ---
 ![](https://cdn.apollo.moe/img/digim.png)
 

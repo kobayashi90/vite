@@ -1,8 +1,6 @@
 ---
 title: Non-English
-description: Websites and software for non-en demand.
-icon: ":world_map:"
-order: 800
+description: Otaku resources for other regions
 ---
 
 ![](https://cdn.apollo.moe/img/nen.png)
@@ -338,8 +336,9 @@ Otaku resources for other languages/regions.
 - [ReManga](https://remanga.org/)
 
 == Others
-- Light novels
+- Other Sites
     - [RanobeLib](https://ranobelib.me/)
+    - [HentaiLib](https://hentailib.me/)
 - Android
     - [AnilabX](https://github.com/CrazyXacker/anilabx) <Badge type="warning" text="Freemium" />
 - PC

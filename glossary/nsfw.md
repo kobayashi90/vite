@@ -1,6 +1,5 @@
 ---
 title: NSFW
-order: 90
 ---
 
 ![](https://cdn.apollo.moe/img/nsfw.png)
