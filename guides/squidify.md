@@ -34,7 +34,6 @@ Squidify is based on Navidrome which has its own set of third-party Apps besides
 - [Sublime Music](https://sublimemusic.app/) <Badge type="info" text="Linux" />
 - [Supersonic](https://github.com/dweymouth/supersonic) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - [Submariner](https://submarinerapp.com/) <Badge type="info" text="MacOS" />
-- [Feishin](https://github.com/jeffvli/feishin) <Badge type="info" text="Buggy" /><Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
 - **CLI**
     - [Jellycli](https://github.com/tryffel/jellycli#readme) <Badge type="info" text="Windows" /><Badge type="info" text="Linux" />
     - [STMP](https://github.com/wildeyedskies/stmp#readme) <Badge type="info" text="Linux" /><Badge type="info" text="MacOS" />
@@ -62,7 +61,7 @@ Connecting to Squidify is very easy, just login with the following credentials:
 - Port (If needed): `443`
 - Username: `Guest`
 - Password: `Guest`
-- Force Clear Text Password¹: Disabled / Off
+- Force Clear Text Passwordï¿½: Disabled / Off
 
  1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
 
