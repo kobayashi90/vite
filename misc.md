@@ -60,6 +60,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [AniChart](https://anichart.net/)
 - [AnimeSchedule](https://animeschedule.net/)
 - [Anime Countdown](https://animecountdown.com/)
+- [Eronews](https://en.eroeronews.com/) <Badge type="danger" text="R+" />
 - [Livechart](https://www.livechart.me/)
 - [Monthly.moe](https://www.monthly.moe/)
 - [Notify.moe](https://notify.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/animenotifier/notify.moe" />

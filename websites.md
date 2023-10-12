@@ -58,6 +58,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
+- [Animetime](https://animetime.cc/)
 - [Anirena](https://www.anirena.com/)
 - [Shana Project](https://www.shanaproject.com/) | [Tokyo tosho](https://www.tokyotosho.info/)
 - [Anime Bytes](https://animebytes.tv/) <Badge type="info" text="Private tracker" />

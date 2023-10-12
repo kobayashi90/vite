@@ -14,6 +14,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 :::tabs
 == Anime
 - [AnimeID Hentai](https://animeidhentai.com/)
+- [Eronews](https://en.eroeronews.com/) <Badge type="tip" text="Schedule & News" />
 - [Haho](https://haho.moe/)
 - [Hanime](https://hanime.tv/) <Badge type="info" text="720p" />
 - [Hentai Bar](https://hentaibar.com/)
@@ -24,7 +25,7 @@ Everyone has to let off some steam once in a while, we don't judge.
 - [Mucho Hentai](https://muchohentai.com/) <Badge type="info" text="Schedule" /><Badge type="info" text="PV" />
 - [Oppai](https://oppai.stream/) <Badge type="info" text="4K" />
 - [Rule34](https://www.rule34.dev/)
-- [Hentai Release Schedule](https://www.underhentai.net/releases/)
+
 
 == Manga
 - [E-Hentai](https://e-hentai.org/)
