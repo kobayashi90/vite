@@ -30,7 +30,7 @@ Otaku resources for other languages/regions.
 == Others
 - Apps
     - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
-    - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+    - [Aniyomi](https://github.com/jmir1/aniyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge text="Anime" /><Badge type="info" text="Manga" />
 :::
 
 
@@ -39,6 +39,7 @@ Otaku resources for other languages/regions.
 - Anime
     - [Anime titans](https://animetitans.net/)
     - [Anime4up](https://w1.anime4up.tv/)
+    - [Animeblkom](https://blkom.com/)
     - [Animelek](https://animelek.me/)
     - [Animerco](https://animerco.com/)
     - [Arabsama](https://arabsama.net/)
@@ -112,7 +113,7 @@ Otaku resources for other languages/regions.
     - [Bangumi](https://bangumi.tv/)
     - [Anime Tracker List](https://github.com/DeSireFire/animeTrackerList)
 - Script
-    - [Anilist Chinese](https://github.com/soruly/anilist-chinese)
+    - [AniList Chinese](https://github.com/soruly/AniList-chinese)
     - [Score comparison assistant](https://greasyfork.org/en/scripts/451809-%E8%AF%84%E5%88%86%E5%AF%B9%E6%AF%94%E5%8A%A9%E6%89%8B)
 - Brewing
     - [Neko Anime](https://github.com/xioneko/neko-anime)
@@ -378,6 +379,11 @@ Otaku resources for other languages/regions.
 - [Lectortmo](https://lectortmo.com/)
 - [Leer Manga](https://r2.leermanga.xyz/)
 - [Manga Crab](https://mangacrab.com/)
+
+== Others
+- Apps
+    - [UKIKU](https://ukiku.app/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/jordyamc/UKIKU" />
+
 :::
 
 ## Turkish

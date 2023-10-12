@@ -56,7 +56,6 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 == Torrent
 
 - [Nyaa](https://nyaa.si/) <Badge type="info" text="Proxy 1" link="https://nyaa.iss.one/" /><Badge type="info" text="Proxy 2" link="https://nyaa.iss.ink/" />
-- [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/) <Badge type="info" text="DDL" />
 - [Anidex](https://anidex.info/)
 - [Anirena](https://www.anirena.com/)
@@ -173,7 +172,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 ## Manga
 
 
-For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/Guides/mado.md). They have very little compression, if any.
+For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/guides/mado.md). They have very little compression, if any.
 
 :::tabs
 
@@ -227,7 +226,6 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Nyaa
 
-- [0v3r](https://nyaa.si/user/0v3r) <Badge type="info" text="compilation" />
 - [1r0n](https://nyaa.si/user/tsuna69) <Badge type="info" text="7seas" /><Badge type="info" text="comikey" /><Badge type="info" text="jnovel" /><Badge type="info" text="kmanga" /><Badge type="info" text="kodansha" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [anadius](https://nyaa.si/user/anadius) <Badge type="info" text="viz" />
 - [Danke](https://nyaa.si/?f=0&c=0_0&q=danke-empire) <Badge type="info" text="7seas" /><Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
@@ -235,7 +233,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Empy](https://nyaa.si/user/empyrealarrow) <Badge type="info" text="compilation" /><Badge type="info" text="glacier" /><Badge type="info" text="plus" />
 - [Lord_ne](https://nyaa.si/user/lord_ne) <Badge type="info" text="crunchy" /><Badge type="info" text="lezhin" /><Badge type="info" text="yen" />
 - [LuCaZ](https://nyaa.si/user/LuCaZ) <Badge type="info" text="7seas" /><Badge type="info" text="yen" />
-- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><Badge type="info" text="comikey" /><Badge type="info" text="crunchy" /><Badge type="info" text="mangamo" /><Badge type="info" text="plus" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" />
+- [Oakminati](https://nyaa.si/user/Oakminati) <Badge type="tip" text="Releases" link="https://sheet.zohopublic.com/sheet/published/3v5my3d014d3b97064f55b7114631ac87efda?sheetid=1&range=A1" /><Badge type="info" text="plus" /><Badge type="info" text="sq. enix" /><Badge type="info" text="up!" />
 - [Shellshock](https://nyaa.si/user/shellshock) <Badge type="info" text="kodansha" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [Shizu](https://nyaa.si/user/wolfsbanes) <Badge type="info" text="kodansha" /><Badge type="info" text="sublime" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
 - [Stick](https://nyaa.si/user/dumbboy58) <Badge type="info" text="audio" /><Badge type="info" text="viz" /><Badge type="info" text="yen" />
@@ -244,7 +242,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 == Direct Download
 
-- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/Guides/mado.md" />
+- [Madokami](https://manga.madokami.al) <Badge type="info" text="Guide" link="/guides/mado.md" />
 - [mp4directs](https://mp4directs.com/)
 - [jnovels](https://jnovels.com/manga-cbz-cbr-pdfs-download101/)
 - [4str0 Releases](https://sheet.zohopublic.com/sheet/open/5hed58d39c2089692421f89b9e9a0435c7475?sheetid=0&range=A13) <Badge type="danger" text="R+" />
@@ -302,7 +300,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Void Scans](https://void-scans.com/) + 🇨🇳
 - [Zero Scans](https://zeroscans.com/) + 🇨🇳 | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/dd0a3018-21f1-4488-948c-08499b179fcf/zero-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/vlkvmk7/zero-scans-discord" />
 
-== manhuaga
+== manhua
 
 - [Ansh Scans](https://anshscans.org/) | <Badge type="info" icon="i-custom-md" text="Dex" link="https://mangadex.org/group/43a13d2b-21d5-4453-ad78-cba547b7e879/ansh-scans" /><Badge type="info" icon="i-custom-mu" text="Baka" link="https://www.mangaupdates.com/group/tmszmfv/ansh-scans" />
 - [Disaster Scans](https://disasterscans.com/)
@@ -341,6 +339,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
   - [Doujin Style](https://embed.radio.co/player/735ee7b.html) <Badge type="info" text="128kbps" link="https://doujinstyle.com/listen.m3u" />
   - [Gensokyo Radio](https://gensokyoradio.net/playing/) <Badge type="info" text="256kbps" link="https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u" /><Badge type="info" text="Touhou" />
   - [Phate](https://phate.io/) <Badge type="info" text="192kbps" link="https://phate.io/phate.m3u" /><Badge type="info" text="Utaite" />
+  - [Sasalele](https://basic.pp.ua/)  <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/Mikeexe2/Internet-radio-stream-links" /><Badge type="info" text="Compilation" />
 - **Touhou**
   - [Touhou Disc](https://alist.thdisc.tk)
   - [Touhou Player](https://touhou.kuukunen.net/)
@@ -456,7 +455,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 :::tabs
 == General
 
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) <Badge type="success" text="E" />
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) <Badge type="tip" text="E" />
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)

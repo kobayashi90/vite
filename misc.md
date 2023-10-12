@@ -18,7 +18,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 
 :::tabs
 == General
-- [Anilist](https://anilist.co/)
+- [AniList](https://anilist.co/)
 - [Anime Planet](https://www.anime-planet.com/)
 - [AniSearch](https://www.anisearch.com/)
 - [Kitsu](https://kitsu.io/)
@@ -259,6 +259,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [So, you wanna get into VOCALOID](https://www.youtube.com/watch?v=y5pPALER7WU)
     - Watch this for the introduction only (till `21:42`), since the software section is outdated.
     - [So, you wanna get into VSynth Covers](https://www.youtube.com/watch?v=ySledv37IrQ)
+- [The Foundations of Making Vocaloid - A Beginner's Guide Tutorial](https://www.youtube.com/watch?v=6cisVNaOJXY)
 - [IDOL - The Terrifying Reality of Perfect Blue](https://www.youtube.com/watch?v=WAcb_57r1Bo)
 - [The Philosophy of Vtubers](https://www.youtube.com/watch?v=Z8r6jFyISBg)
 - [Smoother animation ≠ Better animation [AI ENHANCED]](https://www.youtube.com/watch?v=_KRb_qV9P4g)
@@ -292,6 +293,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Subarashii Tutorial](https://subarashii-no-fansub.github.io/Subbing-Tutorial/)
 - [Unanimated](https://unanimated.github.io/guides.htm)
 - [Yukisubs](https://yukisubs.wordpress.com/guides/)
+- [Zeriyu's Fansub Guide](https://github.com/zeriyu/fansub-guide)
 
 == Portals
 

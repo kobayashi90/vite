@@ -34,8 +34,8 @@ The most important things to get you started.
 == Torrent
 
 - [Nyaa](https://nyaa.si/)
-- [Animek](https://animek.fun/)
 - [Anime Tosho](https://animetosho.org/)
+- [Anidex](https://anidex.info/)
 
 :::
 

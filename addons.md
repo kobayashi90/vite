@@ -53,7 +53,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 == Trackers
 
 - [AniHyou](https://github.com/axiel7/AniHyou-android) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.axiel7.anihyou" /><Badge type="info" text="AL" />
-- [Apps for Anilist](https://anilist.co/apps) <Badge type="info" text="AL" />
+- [Apps for AniList](https://AniList.co/apps) <Badge type="info" text="AL" />
 - DailyAL <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.teen.dailyanimelist&hl=en&gl=US" /><Badge type="info" text="MAL" />
 - [Kitsu](https://github.com/hummingbird-me/kitsu-mobile) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.everfox.animetrackerandroid&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/kitsu-anime/id590452826" /><Badge type="info" text="Kitsu" />
 - [Kitsune](https://github.com/Drumber/Kitsune) <Badge type="info" text="Kitsu" />
@@ -199,6 +199,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - [Animepahe Plus](https://github.com/Cyan903/Animepahe-plus) <Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-CA/firefox/addon/animepahe-plus/" />
 - [Anime Skip Player](https://github.com/anime-skip/player) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://anime-skip.com/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/anime-skip/mgmdkjcljneegjfajchedjpdhbadklcf" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-skip" />
 - [Aniskip](https://github.com/lexesjan/typescript-aniskip-extension) <Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/aniskip/" />
+- [Crunchyroll With Better Seasons](https://github.com/Dragicafit/Crunchyroll-With-Better-Seasons)
 - [MALSync](https://github.com/MALSync/MALSync) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://malsync.moe/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/mal-sync/kekjfbackdeiabghhcdklcdoekaanoel" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/mal-sync/" />
 - Substital <Badge type="info" icon="i-octicon-globe" text="Web" link="https://substital.com/" /><Badge type="tip" icon="i-logos-chrome" text="Chrome" link="https://chrome.google.com/webstore/detail/substital/kkkbiiikppgjdiebcabomlbidfodipjg" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/substital/" />
 
@@ -232,10 +233,10 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
 - Find on Nyaa <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/379776-find-on-nyaa" />
 - [MAL-Sync](https://github.com/MALSync/MALSync/releases/latest/download/malsync.user.js)
 
-== Anilist
+== AniList
 
-- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/404465-anilist-unlimited-score-in-header" />
-- Anilist External Links <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/442599-anilist-external-links" />
+- [AniList Unlimited](https://github.com/mysticflute/ani-list-unlimited) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/404465-AniList-unlimited-score-in-header" />
+- AniList External Links <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/442599-AniList-external-links" />
 - Anisongs <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/374785-anisongs" />
 - [Automail](https://github.com/hohMiyazawa/Automail) <Badge type="tip" icon="i-custom-fork" text="Fork" link="https://greasyfork.org/en/scripts/370473-automail" />
 
