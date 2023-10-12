@@ -182,6 +182,7 @@ Using Machine Translation to translate manga will be a mess. Manga has lots of s
   - [Spicetify](https://spicetify.app/)
   - [WACUP](https://getwacup.com/)
 - [osu! Cleaner](https://github.com/TCNOco/TcNo-osu-Cleaner)
+- [PreMiD](https://premid.app/)
 - [Textractor](https://github.com/Artikash/Textractor)
 
 :::

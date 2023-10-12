@@ -9,6 +9,8 @@ description: Curated software for android, iOS & pc.
 
 Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
 
+
+
 ![](/banner/and.png)
 
 ## Android
@@ -17,13 +19,13 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 == Anime
 
-- [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="globe" text="Web" link="https://cloudstream.on.fleek.co/" />
+- [**Cloudstream**](https://github.com/recloudstream/cloudstream) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://cloudstream.on.fleek.co/" />
   - Minimalist Customizable UI
   - Offers other types of media too
   - Tracking & backup support
   - Local player support
   - Extensions often break
-- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="Manga" />
+- [**Aniyomi**](https://github.com/aniyomiorg/aniyomi) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aniyomi.org/" /><Badge type="info" text="MPV" link="https://github.com/jmir1/aniyomi-mpv-beta" /><Badge type="info" text="Manga" />
   - Unofficial Tachiyomi fork for anime
   - Clean and minimal design
   - Offers other types of media too
@@ -33,7 +35,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 :::details More {open}
 
-- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
+- [Kaizoyu!](https://github.com/astarivi/Kaizoyu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kaizoyu.ovh" /><Badge type="info" text="XDCC" />
 - [Animiru](https://github.com/Quickdesh/Animiru) <Badge type="info" text="Anime only" /><Badge type="info" text="RPC" />
 - [Animity](https://github.com/kl3jvi/animity)
 - [Enimax](https://github.com/enimax-anime/enimax)
@@ -42,7 +44,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 == Manga
 
-- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
+- [**Tachiyomi**](https://github.com/tachiyomiorg/tachiyomi/) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://tachiyomi.org/" /><Badge type="info" icon="i-octicon-repo-forked" text="Forks" link="https://tachiyomi.org/forks/" />
   - Great Customizable UI
   - Ton of manga sources
   - Download and local reader support
@@ -54,7 +56,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - Support for all the comic formats.
   - The app is light but the UI looks old
   - A few features are behind paywall
-- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Badge type="info" icon="globe" text="Web" link="https://kotatsu.app/" />
+- [**Kotatsu**](https://github.com/KotatsuApp/Kotatsu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://kotatsu.app/" />
   - Minimalist UI with limited customization
   - Offers Manga Suggestions
   - Download and local reader support
@@ -76,7 +78,7 @@ Apps and programs for your various devices to take your hobbies wherever you go.
   - No in-app reading analytics
   - Good amount of features are behind paywall
   - No online source & tracker support
-- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Badge type="info" icon="globe" text="Web" link="https://shosetsu.app/" />
+- [**Shosetsu**](https://gitlab.com/shosetsuorg/shosetsu) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://shosetsu.app/" />
   - Minimal UI with a lot of customization
   - Has CSS support
   - Slow dowload and no epub conversion
@@ -186,10 +188,10 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 ### Light Novel
 
-- [Kavita](https://github.com/Kareadita/Kavita) <Badge type="info" icon="globe" text="Web" link="https://www.kavitareader.com/" />
+- [Kavita](https://github.com/Kareadita/Kavita) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://www.kavitareader.com/" />
 - [Thorium reader](https://github.com/edrlab/thorium-reader)
 - [Novel Reader](https://github.com/Kevin-Umali/NovelReader)
-- [Koodo Reader](https://github.com/troyeguo/koodo-reader) <Badge type="info" icon="globe" text="Web" link="https://koodo.960960.xyz/en" />
+- [Koodo Reader](https://github.com/troyeguo/koodo-reader) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://koodo.960960.xyz/en" />
 
 ![](/banner/ios.png)
 
@@ -214,12 +216,12 @@ Apps and programs for your various devices to take your hobbies wherever you go.
 
 == Manga
 
-- [**Paperback**](https://github.com/Paperback-iOS/app) <Badge type="info" icon="globe" text="Web" link="https://paperback.moe/" />
+- [**Paperback**](https://github.com/Paperback-iOS/app) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://paperback.moe/" />
   - Very clean UI with changeable theme
   - Tracker & sync support
   - Many different download options
   - AppStore Release only for selected countries
-- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Badge type="info" icon="globe" text="Web" link="https://aidoku.app/" />
+- [**Aidoku**](https://github.com/Aidoku/Aidoku) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://aidoku.app/" />
   - Available on Tesflight (no Sideloading needed)
   - Many sources
   - Tracker support
