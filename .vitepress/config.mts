@@ -151,7 +151,7 @@ export default withPwa(defineConfig({
     mode: 'development',
     base: '/',
     scope: '/',
-    includeAssets: ['favicon.svg'],
+    includeAssets: ['/asset/podarufav.png'],
     manifest: {
       name: 'Wotaku PWA',
       short_name: 'WotakuPWA',
