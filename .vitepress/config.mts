@@ -19,7 +19,7 @@ export default withPwa(defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
   appearance: "dark",
-  titleTemplate: ":title • Wotaku",
+  titleTemplate: ":title • Wotaku by Duck",
   head: [
     ["meta", { name: "theme-color", content: "#7bc5e4" }],
     ["meta", { name: "og:type", content: "website" }],
@@ -81,7 +81,7 @@ export default withPwa(defineConfig({
     search: {
       provider: "local",
     },
-    logo: { src: "/asset/inaidle.webp", width: 24, height: 24 },
+    logo: { src: "/asset/inaidle.webp", width: 29, height: 24 },
     sidebar: [
       { text: "⚡ Quick Start", link: "/qs" },
       { text: "🌏 Websites", link: "/websites" },
@@ -138,6 +138,17 @@ export default withPwa(defineConfig({
           { text: 'Manga Image Editing', link: '/guides/imagedit' },
           { text: 'Network Stream', link: '/guides/ns' },
           { text: 'Squidify', link: '/guides/squidify' }
+        ]
+      },
+      {
+        text: 'Others',
+        items: [
+          { text: "Misc-sites", link: "/misc" },
+          { text: "Add-ons", link: "/addons" },
+          { text: "Learning Japanese", link: "/jp" },
+          { text: "Merch", link: "/merch" },
+          { text: "Communities", link: "/comms" },
+          { text: "Scanlation", link: "/scanlation" },
         ]
       }
     ],
