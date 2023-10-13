@@ -21,6 +21,7 @@
     "@iconify-json/octicon": "^1.1.49",
     "@iconify-json/simple-icons": "^1.1.74",
     "@types/node": "^20.8.2",
+    "@vite-pwa/vitepress": "^0.2.1",
     "prettier": "^3.0.3",
     "unocss": "^0.56.5"
   },
