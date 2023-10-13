@@ -15,6 +15,7 @@ hero:
       text: Discord
       link: https://discord.gg/WYchhG8z8T
 
+
 features:
   - title: Websites
     details: Websites for anime, manga, music, light novels & games
