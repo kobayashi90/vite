@@ -5,13 +5,12 @@ import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import UnoCSS from "unocss/vite";
 import { presetUno, presetAttributify, presetIcons } from "unocss";
 import { generateImages, generateMeta } from "./hooks";
-import { withPwa } from '@vite-pwa/vitepress'
 
 // FIXME: remove this after we are done
 const hostname: string = "https://wvite.pages.dev";
 
 // https://vitepress.dev/reference/site-config
-export default withPwa(defineConfig({
+export default defineConfig({
   title: "Wotaku",
   description: "The Otaku Index",
   lang: "en-US",
@@ -146,43 +145,4 @@ export default withPwa(defineConfig({
       { icon: "discord", link: "https://discord.gg/WYchhG8z8T" },
     ],
   },
-
-  pwa: {
-    mode: 'development',
-    base: '/',
-    scope: '/',
-    includeAssets: ['favicon.svg'],
-    manifest: {
-      name: 'Wotaku PWA',
-      short_name: 'WotakuPWA',
-      theme_color: '#ffffff',
-      icons: [
-        {
-          src: '/asset/pwa-192x192.png',
-          sizes: '192x192',
-          type: 'image/png',
-        },
-        {
-          src: '/asset/pwa-512x512.png',
-          sizes: '512x512',
-          type: 'image/png',
-        },
-        {
-          src: '/asset/pwa-512x512.png',
-          sizes: '512x512',
-          type: 'image/png',
-          purpose: 'any maskable',
-        },
-      ],
-    },
-    workbox: {
-      globPatterns: ['**/*.{css,js,html,svg,png,ico,txt,woff2}'],
-      globIgnores: ['**/404.html'],
-    },
-    devOptions: {
-      enabled: true,
-      suppressWarnings: false,
-      navigateFallback: '/',
-    },
-  },
-}))
+});

@@ -7,12 +7,11 @@ import "uno.css";
 import { onMounted, watch, nextTick } from "vue";
 import { useRoute } from "vitepress";
 import mediumZoom from "medium-zoom";
-import ReloadPrompt from '/.vitepress/components/ReloadPrompt.vue'
 
 export default {
   extends: Theme,
-  Layout: () => {return h(Theme.Layout, null, {
-      'layout-bottom': () => h(ReloadPrompt),
+  Layout: () => {
+    return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
     });
   },
