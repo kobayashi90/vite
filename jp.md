@@ -294,14 +294,8 @@ Interested in learning the japanese language? Here you can find resources to aid
 
 - Dictionary
   - jidoujisho <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/lrorpilla/jidoujisho" />
-    - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
+  - [Shirabe Jisho](https://apps.apple.com/us/app/shirabe-jisho/id1005203380)
   - Takoboto <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=jp.takoboto" />
-- Media Player
-  - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
-  - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
-  - [memento](https://github.com/ripose-jp/Memento)
-    - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
-  - [Voracious](https://voracious.app/)
 - Practice
   - Learn Japanese! - Kanji <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/learn-japanese-kanji/id1078107994" />
   - Kana - Hiragana and Katakana <Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/kana-hiragana-and-katakana/id1454200955" />
@@ -315,9 +309,17 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Typhon Reader](https://play.google.com/store/apps/details?id=net.zorgblub.typhon) 
   - [Satori Reader](https://www.satorireader.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/satori-reader/id1382950847" />
   - Write It! Japanese <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.jernung.writeit.jpn&hl=en&gl=US" /><Badge type="tip" icon="i-logos-apple-app-store" text="Apple" link="https://apps.apple.com/us/app/write-it-japanese/id1268225663" />
-
+- Word Lookup
+  - [JL](https://github.com/rampaa/JL)
+  
 == Tools
 
+- Media Player
+  - [Anime Subtitle Player](https://github.com/LostArrows27/anime-subtitle-player)
+  - [mpvacious](https://github.com/Ajatt-Tools/mpvacious)
+  - [memento](https://github.com/ripose-jp/Memento)
+  - [Asbplayer](https://killergerbah.github.io/asbplayer/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/killergerbah/asbplayer" />
+  - [Voracious](https://voracious.app/)
 - Extension
   - [jimaku player](https://github.com/sheodox/jimaku-player)
   - [JP Study tools](https://github.com/rudnam/JP-study)
@@ -328,8 +330,6 @@ Interested in learning the japanese language? Here you can find resources to aid
   - [Yomichan Dictionaries](https://github.com/MarvNC/yomichan-dictionaries/)
   - [Yomichan Grammar Dictionaries](https://github.com/aiko-tanaka/Grammar-Dictionaries)
   - [JPDB Web Reader](https://github.com/max-kamps/jpd-breader)
-- Word Lookup
-  - [JL](https://github.com/rampaa/JL)
 - Condensed Audio
   - [subs2cia](https://github.com/dxing97/subs2cia)
   - [Automatic Condensed Audio Dialogue Script](https://anacreondjt.gitlab.io/docs/condensed_audio/)
