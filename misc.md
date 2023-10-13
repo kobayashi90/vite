@@ -407,6 +407,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [Crash Landing Studios](https://www.youtube.com/@CrashLandingStudio)
     - [Tripl3en](https://www.youtube.com/@Tripl3en)
     - [H and Mr.H](https://www.youtube.com/@HandMrH)
+    - [cbo](https://www.youtube.com/@cbo_ch)
 - **News**
     - [FalseEyeD](https://www.youtube.com/@FalseEyeD)
     - [Khyo](https://www.youtube.com/@Khyo)
