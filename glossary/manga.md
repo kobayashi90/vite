@@ -3,7 +3,6 @@ title: Manga
 ---
 # Manga Glossary
 Manga portion of the Wotaku glossary!
-
 <br>
 
 ## Terms 

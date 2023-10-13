@@ -3,7 +3,6 @@ title: Digital Manga
 ---
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
-
 <br>
 
 ## Things to consider when buying

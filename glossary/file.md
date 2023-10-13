@@ -3,7 +3,6 @@ title: File Naming
 ---
 # File Naming
 Standard file naming scheme for Anime & Manga file.
-
 <br>
 
 ::: details Nyaa Color Code

@@ -22,8 +22,6 @@ Thank you to all the contributors for your dedications and resources.
 - AO-chan by [3ton](https://www.pixiv.net/en/artworks/110412826)
 - Ninomae Ina'nis's Padoru by [how-dee](https://www.reddit.com/r/Padoru/comments/iu6jvx/ninomae_inanis_hololive/)
 - Ninomae Ina'nis's pixel art by [Holocure team](https://holocure.fandom.com/wiki/Ninomae_Ina%27nis)
-- Ninomae Ina'nis's Reading art by [the small vtuber](https://twitter.com/ninomaeinanis/status/1340047328963510273)
-- Ninomae Ina'nis's back by [Himeliofon](https://twitter.com/hmlf_/status/1581015485524545536)
 
 == Glossary
 

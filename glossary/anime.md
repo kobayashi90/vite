@@ -3,7 +3,6 @@ title: Anime
 ---
 # Anime Glossary
 Anime portion of the Wotaku glossary!
-
 <br>
 
 ## Terms

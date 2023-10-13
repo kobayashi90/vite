@@ -3,7 +3,6 @@ title: General
 ---
 # Wotaku Glossary
 Want to increase your otaku knowledge? Look for no further! Presenting the Glossary section.
-
 <br>
 
 ## Region

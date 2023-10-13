@@ -4,7 +4,6 @@ description: Everything merch related!
 ---
 # Merch
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
-
 <br>
 
 :::details :warning: Important Information

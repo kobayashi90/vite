@@ -4,7 +4,6 @@ description: Japanese learning resources
 ---
 # Learning Japanese
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
-
 <br>
 
 ![](/banner/sites.png)

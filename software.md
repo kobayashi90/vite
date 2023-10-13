@@ -3,8 +3,7 @@ title: Software
 description: Software for every OS
 ---
 # Software
-Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
-
+Apps and programs for your various devices to watch or read stuff. Covering all the operating systems.
 <br>
 
 ![](/banner/and.png)

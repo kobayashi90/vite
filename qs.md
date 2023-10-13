@@ -3,9 +3,7 @@ title: Quick Start
 description: Bitsized Wotaku!
 ---
 # Quick Start
-The most important things to get you started.
-
-<br>
+The basic things to get you started.
 
 ## Websites
 

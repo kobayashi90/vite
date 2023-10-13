@@ -4,7 +4,6 @@ description: Various sites for info, guide & tools
 ---
 # Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
-
 <br>
 
 ![](/banner/info.png)

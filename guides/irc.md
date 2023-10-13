@@ -2,13 +2,8 @@
 title: IRC
 ---
 # IRC & XDCC
-
+IRC (Internet Relay Chat) is a real-time messaging protocol, while XDCC (eXtended DCC) is a method used on IRC to facilitate file sharing through direct client-to-client connections.
 <br>
-
->IRC stands for Internet Relay Chat. It's a real-time chat protocol that allows people to communicate with each other in online chat rooms. IRC has been around since the late 1980s and is still used today, although it has largely been replaced by newer chat technologies like Discord.
-
->XDCC is a file-sharing protocol that is often used on IRC. XDCC stands for "eXtended DCC," and it allows users to send and receive files through direct client-to-client (DCC) transfers. This is typically done using a bot, which acts as a file server and manages the file transfers. XDCC has been used for many years as a way to share files, but it has become less popular over time due to the rise of other file-sharing technologies.
-
 
 # Getting Started
 1. Install an [**IRC Client**](#irc-client) on your device.

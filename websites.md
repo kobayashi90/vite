@@ -4,7 +4,6 @@ description: Websites for anime, manga, light novels & more
 ---
 # Websites
 Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
-
 <br>
 
 ::: details Rating System
@@ -171,7 +170,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 ## Manga
 
 
-For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/guides/mado.md). They have very little compression, if any.
+For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Madokami**](/guides/mado.md). They have very little compression, if any (ignoring jpeg or other image formats' compression).
 
 :::tabs
 

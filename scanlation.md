@@ -4,7 +4,6 @@ description: Guides and resources for scanlation
 ---
 # Scanlation
 Guides and resources for scanlating manga.
-
 <br>
 
 ![](/banner/comms.png)

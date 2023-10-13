@@ -4,7 +4,6 @@ description: All the great otaku communities!
 ---
 # Communities
 A list of other otaku communities to check out based on your specific interests.
-
 <br>
 
 ## Forums

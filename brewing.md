@@ -5,7 +5,6 @@ next: false
 ---
 # Brewing
 Cool prospective projects under works worth looking into, or maybe contributing too!
-
 <br>
 
 ![](/banner/sites.png)

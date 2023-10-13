@@ -4,7 +4,6 @@ description: Otaku resources for other regions
 ---
 # Non-English
 Otaku resources for other languages/regions.
-
 <br>
 
 ## Multi
