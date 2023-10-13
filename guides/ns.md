@@ -12,7 +12,7 @@ The basic process:
 
 >You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/). You can get more good DDL sites [**here**](/Websites.md/#direct-download).
 
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/1dsTb8YoNDM" width="560" height="315" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/1dsTb8YoNDM" width="560" allowfullscreen></iframe></div>
 
 
 ## IRC
@@ -22,4 +22,4 @@ Read the [full guide](/Guides/IRC.md) on IRC. When you start the download, a fil
 ## Torrent
 The same procedure as DDL network streaming, you have to use magnet link instead. For the software, we are using [Webtorrent](https://webtorrent.io/desktop/) to network streaming. If you don't like the internal player of webtorrent, you can choose external player in the webtorrent settings.
 
-<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/abkKsVsyRdE" width="560" height="315" frameborder="0" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://www.youtube.com/embed/abkKsVsyRdE" frameborder="0" allowfullscreen></iframe></div>

@@ -44,7 +44,7 @@ export default defineConfig({
             collections: [
               {
                 custom: {
-                  "1dm": () => fsp.readFile("../public/icon/1dm.png", "utf-8"),
+                  "1dm": () => fsp.readFile("../public/custom/1dm.svg", "utf-8"),
                   ada: () => fsp.readFile("../public/icon/ada.png", "utf-8"),
                   adg: () => fsp.readFile("../public/icon/adg.png", "utf-8"),
                   ahadns: () => fsp.readFile("../public/icon/ahadns.png", "utf-8"),
