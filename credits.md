@@ -8,8 +8,6 @@ lastUpdated: false
 import Credits from './.vitepress/components/Contributors.vue'
 </script>
 
-![](https://cdn.apollo.moe/img/credits.png)
-
 ### Contributors
 Thank you to all the contributors for your dedications and resources.
 

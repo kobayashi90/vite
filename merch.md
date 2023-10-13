@@ -2,12 +2,10 @@
 title: Merch
 description: Everything merch related!
 ---
-
-![](https://cdn.apollo.moe/img/merch.png)
 # Merch
-
 Looking to buy memorabilia from your favourite series and support the creators? Here you will find information on figurines, plushes, books, CDs and more!
 
+<br>
 
 :::details :warning: Important Information
 

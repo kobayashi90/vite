@@ -2,12 +2,10 @@
 title: Non-English
 description: Otaku resources for other regions
 ---
-
-![](https://cdn.apollo.moe/img/nen.png)
 # Non-English
-
 Otaku resources for other languages/regions.
 
+<br>
 
 ## Multi
 

@@ -1,11 +1,10 @@
 ---
 title: Anime
 ---
-
-![](https://cdn.apollo.moe/img/anime.png)
 # Anime Glossary
 Anime portion of the Wotaku glossary!
 
+<br>
 
 ## Terms
 

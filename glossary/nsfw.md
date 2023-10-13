@@ -1,10 +1,10 @@
 ---
 title: NSFW
 ---
-
-![](https://cdn.apollo.moe/img/nsfw.png)
 # NSFW
 Want to learn what those elusive tags on hentai sites mean? Then this page is for you!
+
+<br>
 
 | Term | Meaning |
 | --- | --- |

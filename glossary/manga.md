@@ -1,11 +1,10 @@
 ---
 title: Manga
 ---
-
-![](https://cdn.apollo.moe/img/manga.png)
 # Manga Glossary
 Manga portion of the Wotaku glossary!
 
+<br>
 
 ## Terms 
 

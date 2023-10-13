@@ -3,23 +3,21 @@ title: Brewing
 description: Cool projects under development.
 next: false
 ---
-
-![](https://cdn.apollo.moe/img/brew.png)
-
 # Brewing
-
 Cool prospective projects under works worth looking into, or maybe contributing too!
+
+<br>
 
 ![](/banner/sites.png)
 
 ## Websites
 
 - **Manga**
-    - [Atsumaru](https://atsu.moe/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
+    - [Atsumaru](https://atsu.moe/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/TheUndo/Atsumaru" /><Badge type="info" text="Mangasee" />
 - **Anime**
-    - [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
+    - [CoreProject](https://coreproject.moe/anime) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/baseplate-admin/CoreProject" />
 - **Miscellaneous**
-    - [Tankobon](https://tankobon.net/) <Badge type="info" icon="mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
+    - [Tankobon](https://tankobon.net/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/crxssed7/tankobon" />
 
 ![](/banner/software.png)
 
@@ -36,7 +34,7 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 == PC
 
 - **Manga**
-    - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="globe" text="Web" link="https://atsumeru.xyz/" />
+    - [Atsumeru](https://github.com/AtsumeruDev/Atsumeru) <Badge type="info" icon="i-octicon-globe" text="Web" link="https://atsumeru.xyz/" />
     - [Fukayo](https://github.com/JiPaix/Fukayo/)
     - [Special Eureka](https://github.com/tonymushah/special-eureka)
 - **Anime**
@@ -57,6 +55,6 @@ Cool prospective projects under works worth looking into, or maybe contributing 
 - [Novee](https://github.com/ZhichGaming/Novee)
 
 == Misc
-- [Kurozora](https://kurozora.app/welcome) <Badge type="dark" icon="/icon/apple.png" text="iOS" link="https://github.com/Kurozora/kurozora-app" /><Badge type="dark" icon="/icon/andy.png" text="Android" link="https://github.com/Kurozora/kurozora-android" /><Badge type="dark" icon="/icon/ff.webp" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" /><Badge type="dark" icon="/icon/discord.svg" text="Discord" link="https://github.com/Kurozora/kurozora-discord-bot" />
+- [Kurozora](https://kurozora.app/welcome) <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://github.com/Kurozora/kurozora-app" /><Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://github.com/Kurozora/kurozora-android" /><Badge type="tip" icon="i-logos-firefox" text="Firefox" link="https://addons.mozilla.org/en-US/firefox/addon/anime-watch-parties/" /><Badge type="tip" icon="i-logos-discord-icon" text="Discord" link="https://github.com/Kurozora/kurozora-discord-bot" />
 
 :::

@@ -2,14 +2,10 @@
 title: Software
 description: Software for every OS
 ---
-
-![](https://cdn.apollo.moe/img/soft.png)
-
 # Software
-
 Apps and programs for your various devices to take your hobbies wherever you go. Covering (almost) all the operating systems.
 
-
+<br>
 
 ![](/banner/and.png)
 

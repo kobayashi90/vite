@@ -2,12 +2,10 @@
 title: Scanlation
 description: Guides and resources for scanlation
 ---
-
-![](https://cdn.apollo.moe/img/scan.png)
-
 # Scanlation
+Guides and resources for scanlating manga.
 
-Information and guides pertaining to the world of fan translation, everything from behind-the-scenes looks to tutorials.
+<br>
 
 ![](/banner/comms.png)
 

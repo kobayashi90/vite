@@ -1,11 +1,10 @@
 ---
 title: Squidify
 ---
-
-![](/ss/squidify.png)
 # Squidify
-
 Squidify is a public music streaming service that offers a vast collection of Anime, Video Game, Movie & TV Soundtracks. You listen to your music collection from any browser or mobile device. Squidify is compatible with the Subsonic/Airsonic API, allowing you to use a wide range of third-party mobile apps to access your music.
+
+<br>
 
 ## Clients
 
@@ -61,9 +60,10 @@ Connecting to Squidify is very easy, just login with the following credentials:
 - Port (If needed): `443`
 - Username: `Guest`
 - Password: `Guest`
-- Force Clear Text Password�: Disabled / Off
+- Force Clear Text Password<sup>1</sup>: Disabled / Off
 
- 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
+> 1. We recommend sending the Password as Token + Salt. Not all Clients have this option though.
+
 
 :::tip Query
 To request additional soundtracks or inquire about Squidify, join [**SquidBoard**](https://www.squid-board.org/).

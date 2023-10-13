@@ -1,11 +1,10 @@
 ---
 title: Network Stream
 ---
-![](https://cdn.apollo.moe/img/nsw.png)
-
 # Network Stream
-
 Network streaming DDL, IRC and Torrent video files.
+
+<br>
 
 ## DDL
 The basic process:

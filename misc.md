@@ -2,12 +2,10 @@
 title: Misc-sites
 description: Various sites for info, guide & tools
 ---
-
-![](https://cdn.apollo.moe/img/ms.png)
-
 # Misc-sites
 Welcome to the misc-sites page, home to various communities, guides, and tools for your otaku needs and interests.
 
+<br>
 
 ![](/banner/info.png)
 ## Info

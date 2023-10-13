@@ -1,11 +1,10 @@
 ---
 title: Manga Image Editing
 ---
-
-![](/thumb/imgedit.png)
 # Manga Image Editing
 A simple to understand guide covering the most important page edits.
 
+<br>
 
 ## Simple Denoising
 

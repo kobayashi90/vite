@@ -2,10 +2,10 @@
 title: Learning Japanese
 description: Japanese learning resources
 ---
-
-![](https://cdn.apollo.moe/img/jp.png)
 # Learning Japanese
 Interested in learning the japanese language? Here you can find resources to aid you on your journey.
+
+<br>
 
 ![](/banner/sites.png)
 

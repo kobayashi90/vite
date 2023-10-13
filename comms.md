@@ -2,12 +2,10 @@
 title: Communities
 description: All the great otaku communities!
 ---
-
-![](https://cdn.apollo.moe/img/comms.png)
-
 # Communities
-
 A list of other otaku communities to check out based on your specific interests.
+
+<br>
 
 ## Forums
 

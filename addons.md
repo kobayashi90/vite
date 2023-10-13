@@ -2,12 +2,10 @@
 title: Add-ons
 description: Sofware to make life easier
 ---
-
-![](https://cdn.apollo.moe/img/addons.png)
-
 # Add-ons
-
 Various add-ons to enhance your otaku experience. Includes anime/manga tracking, Discord bots, browser extensions, scripts and more!
+
+<br>
 
 ![](/banner/apps.png)
 

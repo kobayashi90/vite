@@ -2,12 +2,10 @@
 title: Quick Start
 description: Bitsized Wotaku!
 ---
-
-![](https://cdn.apollo.moe/img/qs.png)
-
 # Quick Start
-
 The most important things to get you started.
+
+<br>
 
 ## Websites
 

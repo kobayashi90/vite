@@ -1,10 +1,10 @@
 ---
 title: File Naming
 ---
-
-![](https://cdn.apollo.moe/img/fn.png)
 # File Naming
 Standard file naming scheme for Anime & Manga file.
+
+<br>
 
 ::: details Nyaa Color Code
 - **Green**: Uploaded by trusted uploader.

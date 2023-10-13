@@ -2,12 +2,10 @@
 title: Websites
 description: Websites for anime, manga, light novels & more
 ---
-
-![](https://cdn.apollo.moe/img/web.png)
-
 # Websites
-
 Online resources for anime, manga, light novels and more. All links have been carefully selected and vetted by our contributors.
+
+<br>
 
 ::: details Rating System
 - <Badge type="danger" text="R+" /> Uploads NSFW content on a regular basis.

@@ -1,11 +1,10 @@
 ---
 title: Digital Manga
 ---
-![](https://cdn.apollo.moe/img/digim.png)
-
 # Digital Manga Buyer's Guide
 This guide is intended to help you decide where to purchase your digital manga depending on your needs.
 
+<br>
 
 ## Things to consider when buying
 - Image quality varies by publisher **and** by platform
@@ -27,10 +26,11 @@ Store | Resolution | DRM Removal | SFW | Recommended { class="compact" } |
 [Humble Bundle](https://www.humblebundle.com/)|Highest | DRM-Free| ✅ | YES
 [Kobo](https://www.kobo.com/)|Standard | Easy | ✅ | YES
 
+:::tip Notes {open}
 1. Blurry downscales for anything that would be above that on other platforms
 2. Excluding Humble PDFs and a few publishers
 3. Unless they have exclusives or discounts, as other platforms are easier
-
+:::
 
 
 ## Publishers
@@ -53,6 +53,7 @@ Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 [VIZ](https://www.viz.com/read)|x2100-x2475⁶ | ❌ | ✅ | Kobo
 [Yen Press](https://yenpress.com/)|x1350 |❌|✅| Same Everywhere
 
+:::tip Notes {open}
 1. Standard non-CMX/Amazon HD resolution is x2048 everywhere, including their own store.
 2. Humble Bundle PDF export resolution ranges from x4500 - x4913. CMX resolution varies, older volumes were mostly between x3056 and x3684, and post-CMX Amazon HD volumes are ~x2700. Standard non-CMX/Amazon HD resolution ranges between x227x - x2400 (except for their own storefront which should be avoided, as it offers the worst quality and resolution combination at x2160 q40). K Manga simulpub chapters are x1378, CMX simulpub chapters were generally x3056.
 3. Ranges between x3206 - x3713 for Comixology volumes. Post-CMX Amazon HD volume res has been downgraded to x2565 - ~x2722 (with outlier x3072 volumes). Standard non-CMX/Amazon HD resolution is x2000 everywhere except for Bookwalker where it is x1500.
@@ -60,3 +61,4 @@ Store | Resolution | DRM-Free | SFW | Highest Quality { class="compact" } |
 5. Older titles are low quality, recent titles are decent quality. Apple Books has the highest quality.
 6. Upscaled at Comixology so volumes should be bought from elsewhere.
 7. Standard resolution outside of their own storefront is x2400, chapters are also x2400 - these figures are only validated for their own licenses.
+:::

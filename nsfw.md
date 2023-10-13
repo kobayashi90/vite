@@ -2,11 +2,10 @@
 title: NSFW
 description: huh... ahem...
 ---
-
-![](https://cdn.apollo.moe/img/nsfw.png)
 # NSFW
 Everyone has to let off some steam once in a while, we don't judge.
 
+<br>
 
 ![](/banner/sites.png)
 ## Websites
