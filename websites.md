@@ -111,7 +111,7 @@ On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://p
 - [**SunXDCC**](https://sunxdcc.com/)
 - [**Anidex**](https://xdcc.anidex.moe/) (`Michiko` bot is over at `#Doki`)
 
->To learn how to use IRC, you can read [**the guide**](/Guides/IRC.md).
+<Button link="/guides/irc" icon="i-octicon-command-palette-16">To learn how to use IRC, you can read the guide</Button>
 
 :::
 
@@ -478,7 +478,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 - [Vimm's Lair](https://vimm.net/vault/)
 
->For emulation, check [**Emulation General Wiki**](https://emulation.gametechwiki.com/index.php/Main_Page)
+<Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
 
 == VN
 
@@ -488,7 +488,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 :::
 
-> 🚫 [**List of Untrusted Game Downloading Websites**](https://rentry.org/pgames#untrusted-sites)
+<Button link="https://rentry.org/pgames#untrusted-sites" icon="i-fxemoji-noentrysign"> List of Untrusted Game Downloading Websites</Button>
 
 >Try searching with Japanese titles on Nyaa/Sukebei. Also, for Sukebei, try searching with the [DLSite](https://www.dlsite.com/index.html?locale=en_US) product ID.
 
