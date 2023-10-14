@@ -8,12 +8,20 @@
     "og:dev": "x-satori -t ./.vitepress/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
+    "@mdit/plugin-align": "^0.4.8",
+    "@mdit/plugin-figure": "^0.4.8",
+    "@mdit/plugin-footnote": "^0.4.8",
+    "@mdit/plugin-img-lazyload": "^0.4.8",
+    "@mdit/plugin-img-size": "^0.4.8",
+    "@mdit/plugin-mark": "^0.4.8",
     "@resvg/resvg-js": "^2.4.1",
+    "@vite-pwa/vitepress": "^0.2.1",
     "medium-zoom": "^1.0.8",
     "unocss": "^0.56.5",
     "vitepress": "1.0.0-rc.20",
     "vitepress-plugin-tabs": "^0.4.1",
     "vue": "^3.3.4",
+    "workbox-window": "^7.0.0",
     "x-satori": "^0.1.5"
   },
   "devDependencies": {
