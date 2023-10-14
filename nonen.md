@@ -315,6 +315,7 @@ Otaku resources for other languages/regions.
 - [Dream Cast](https://dreamerscast.com/)
 - [Freedub Studio](https://freedubstudio.club/)
 - [JUT.SU](https://jut.su/)
+- [YUMMY ANIME](https://yummyanime.org/)
 - [SovetRomantica](https://sovetromantica.com/) <Badge type="info" text="Sub" />
 - [Tunime](https://an0ncer.github.io/) <Badge type="info" icon="i-octicon-mark-github" text="Github" link="https://github.com/AN0NCER/an0ncer.github.io" /><Badge type="info" text="Sub" />
 - [Anime Layer](http://animelayer.ru/) <Badge type="info" text="Torrent" />
