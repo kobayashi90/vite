@@ -1,64 +1,52 @@
 <script setup lang="ts">
-import { onBeforeMount, ref } from 'vue'
+import { onBeforeMount, ref } from "vue";
 
-const offlineReady = ref(false)
-const needRefresh = ref(false)
+const offlineReady = ref(false);
+const needRefresh = ref(false);
 
-let updateServiceWorker: (() => Promise<void>) | undefined
+let updateServiceWorker: (() => Promise<void>) | undefined;
 
 function onOfflineReady() {
-  offlineReady.value = true
+  offlineReady.value = true;
 }
 function onNeedRefresh() {
-  needRefresh.value = true
+  needRefresh.value = true;
 }
 async function close() {
-  offlineReady.value = false
-  needRefresh.value = false
+  offlineReady.value = false;
+  needRefresh.value = false;
 }
 
 onBeforeMount(async () => {
-  const { registerSW } = await import('virtual:pwa-register')
+  const { registerSW } = await import("virtual:pwa-register");
   updateServiceWorker = registerSW({
     immediate: true,
     onOfflineReady,
     onNeedRefresh,
     onRegistered() {
-      // eslint-disable-next-line no-console
-      console.info('Service Worker registered')
+      console.info("Service Worker registered.");
     },
     onRegisterError(e) {
-      console.error('Service Worker registration error!', e)
+      console.error("Service Worker registration error!", e);
     },
-  })
-})
+  });
+});
 </script>
 
 <template>
   <template v-if="offlineReady || needRefresh">
-    <div
-      class="pwa-toast"
-      role="alertdialog"
-      aria-labelledby="pwa-message"
-    >
+    <div class="pwa-toast" role="alertdialog" aria-labelledby="pwa-message">
       <div id="pwa-message" class="mb-3">
-        {{ offlineReady ? 'App ready to work offline' : 'New content available, click the reload button to update.' }}
+        {{
+          offlineReady
+            ? "App ready to work offline."
+            : "New content available, click the reload button to update."
+        }}
       </div>
-      <button
-        v-if="needRefresh"
-        type="button"
-        class="pwa-refresh"
-        @click="updateServiceWorker?.()"
-      >
+      <button v-if="needRefresh" type="button" class="pwa-refresh" @click="updateServiceWorker?.()">
         Reload
       </button>
-      <button
-        type="button"
-        class="pwa-cancel"
-        @click="close"
-      >
-        Close
-      </button>
+      <button type="button" class="pwa-cancel" @click="close">Close</button>
     </div>
   </template>
 </template>
