@@ -338,8 +338,5 @@ Apps and programs for your various devices to watch or read stuff. Covering all 
 - [PixivUtil2](https://github.com/Nandaka/PixivUtil2)
 
 :::
-<script setup>
-import Button from "./.vitepress/components/Button.vue"
-</script>
 
 <Button link="/addons#tools" icon="i-octicon-tools-16">You can find more PC related tools here.</Button>
