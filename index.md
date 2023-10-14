@@ -14,7 +14,8 @@ hero:
     - theme: alt
       text: Discord
       link: https://discord.gg/WYchhG8z8T
-
+      
+aside: left
 
 features:
   - title: Websites
