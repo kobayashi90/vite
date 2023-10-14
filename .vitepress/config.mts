@@ -35,9 +35,9 @@ export default withPwa(
       // PWA
       ["link", { rel: "icon", href: "/asset/podarufav.png", type: "image/svg+xml" }],
       ["link", { rel: "alternate icon", href: "/asset/podarufav.png" }],
-      ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#ffffff" }],
+      ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#7bc5e4" }],
       // prettier-ignore
-      ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Weeb" }],
+      ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
       ["link", { rel: "apple-touch-icon", href: "/assets/podarufav.png", sizes: "192x192" }],
     ],
     transformHead: async (context) => generateMeta(context, hostname),
@@ -82,7 +82,7 @@ export default withPwa(
                   },
                 },
               ],
-              extraProperties: { display: "inline-block" },
+              extraProperties: {},
               scale: 1.2,
             }),
           ],
@@ -178,7 +178,6 @@ export default withPwa(
       ],
     },
     pwa: {
-      // mode: "development",
       base: "/",
       scope: "/",
       includeAssets: ["/asset/podarufav.png"],
@@ -186,7 +185,7 @@ export default withPwa(
       manifest: {
         name: "Wotaku",
         description: "The Otaku Index",
-        categories: ["anime", "manga", "weeb", "otaku"],
+        categories: ["anime", "manga", "weeb", "hentai", "otaku"],
         short_name: "Wotaku",
         theme_color: "#7bc5e4",
         icons: [
