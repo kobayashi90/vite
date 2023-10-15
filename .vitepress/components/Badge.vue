@@ -21,7 +21,7 @@ withDefaults(defineProps<Props>(), {
 
 <style scoped>
 .VPBadge {
-  display: inline-block;
+  display: inline-flex;
   margin-left: 2px;
   border: 1px solid transparent;
   border-radius: 12px;
@@ -30,6 +30,9 @@ withDefaults(defineProps<Props>(), {
   font-size: 12px;
   font-weight: 500;
   transform: translateY(-2px);
+  align-items: center;
+  gap: 0.2rem;
+  padding-right: 10px;
 }
 
 .vp-doc h1 > .VPBadge {
