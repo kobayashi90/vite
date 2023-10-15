@@ -477,6 +477,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [NoPayStation](https://nopaystation.com/) <Badge type="info" text="Playstation" />
 - [AlvRo's Collection](https://docs.google.com/spreadsheets/d/19tAZ1KNEUZ58e-4kPJGh947alDb1oyrNpzcnCLk7DEE/pubhtml)
 - [Vimm's Lair](https://vimm.net/vault/)
+- [Squid Proxy](https://www.squid-proxy.xyz/) <Badge type="info" text="General" />
 
 <Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
 
