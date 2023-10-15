@@ -43,6 +43,6 @@ In Japanese TV, the broadcast schedule is divided into four seasons: Spring (Mar
 |  Mixed OP  |  When the OP is overlaid with the plot of the anime.  |
 |  Eyecatch  | The animated sequence before the ad break or the end of first part. It's generally a still frame. [Example](https://www.youtube.com/watch?v=9h4IQHBX63k)  |
 |  ED |   The ending sequence of the anime.  |
-|  Mixed ED  |  Same as Mixed OP but for ED. [Example](https://www.youtube.com/watch?v=2ikL1vGhMLw)  |
+|  Mixed ED  |  Same as Mixed OP but for ED. [Chainsaw-man Ep 12](https://www.youtube.com/watch?v=2ikL1vGhMLw) & [Relife Ep 13](https://animethemes.moe/anime/relife/ED13-NCBD1080)  |
 |  Omake  |   An extra portion of the episode. Generally a filler. [Example](https://www.youtube.com/watch?v=Dtu_1bzSmL8)   |
 |  Preview  |   Shows a glimpse of the next episode generally action sequence. This is also used as PV.   |
