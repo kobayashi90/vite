@@ -8,7 +8,7 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 
 :::details :warning: Important Information
 
-#### Delivery Types
+### Delivery Types
 
 | Delivery Types             | Value        | Shipping Speed | Offered as Option | Mode of Tranportation { class="compact" } |
 |---|---|---|---|---| 
@@ -22,11 +22,13 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 
 ![Illustration of speed of the options](/ss/shipping.gif)
 
+<br>
 
 - [Beginners guide to international mail shipping](https://www.post.japanpost.jp/int/howto/index_en.html)
 - [Checking service avaliability in your country](https://www.post.japanpost.jp/int/information/overview_en.html)
 - [Further details on delivery types offered by Japan Post](https://www.post.japanpost.jp/int/service/index_en.html)
 
+<br>
 
 - Aside from Japan post you also have your usual private couriers, like DHL, FEDEX, UPS, etc. They are also  very expensive, you will have to go to their respective site to see their policies and prices they offer, or at checkout, storefronts usual show the full price of shipping in your country.
 - [Here](https://www.post.japanpost.jp/cgi-charge/index.php?lang=_en) you will find JP Post's rates and delivery days calculator if you want to get an idea on the estimate of what you are ordering
@@ -34,14 +36,14 @@ Looking to buy memorabilia from your favourite series and support the creators? 
 
 > 💡 There are several ways to avoid paying for customs taxes. Additional information can be found [**here**](https://buyfags.moe/Shipping#How_do_I_avoid_paying_customs_taxes.3F). Be sure to visit the country specific information from the link provided.
 
-#### Agent Types
+### Agent Types
 
 - **Forwarder**
     - Used in cases when you want to buy goods/Items, but the service or person doesn't ship overseas. You then rely on a forwarder, that will give you a temporary Japanese address to which you can ship the things you need. The forwarder will charge you storage fees + international shipping to send the goods/items to you. You can simply think of this as someone that literally forwards the goods to you, because you don't have a Japanese address of your own.
 - **Proxy**
     - Someone acting on your behalf that buys, accepts, and ships the goods to you, unlike a forwarder. Generally, recommended for beginners (especially if you are nervous about buying stuff online), however more expensive. They will charge you the purchase fees for the goods + domestic shipping + international shipping fees + any additional fees as per their policy. 
 
-#### Additional Guides
+### Additional Guides
 - [Types of Merch](https://buyfags.moe/Details_for_each_type_of_buyfaggotry)
     - An overall good coverage of all the types of merch out there
 - [Bootleg Guide](https://solarisjapan.com/blogs/news/ultimate-guide-bootlegs-fake-anime-figures)
