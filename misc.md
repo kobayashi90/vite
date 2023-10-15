@@ -434,6 +434,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Hololive Councilrys RPG](https://kebbie.itch.io/councilrysrpg)
 - [smol Ame](https://moocow-games.itch.io/smol-ame)
 - [Mumei's Memory Juggling](https://david-wu-softdev.itch.io/mumeis-memory-juggling)
+- [Holo on Watermelon](https://unityroom.com/games/holo_watermelon)
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
 
 == Tools

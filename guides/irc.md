@@ -16,9 +16,7 @@ Standard XDCC command `/msg [bot name] xdcc send #[packet number]`
 4. Join the server and the channel of the bot and send the command message
 5. It will show a pop up for the download.
 
-::: warning ⚠️
-You may face some issue if you turn on SSL while logging in.
-:::
+> ⚠️You may face some issue if you turn on SSL while logging in.
 
 
 ## IRC Client
@@ -52,9 +50,9 @@ You may face some issue if you turn on SSL while logging in.
 - [**XDCC EU**](https://www.xdcc.eu/)	<Badge type="info" text="General" />
 - [**SunXDCC**](https://sunxdcc.com/)	<Badge type="info" text="General" />
 
-::: info 💡
-Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
-:::
+
+> 💡 Both **XDCC EU** and **SunXDCC** don't have a single bot channel. They mention the server and the channel address in the search result.
+
 
 :::info XDCC EU
 1. Click on the ℹ️ button
