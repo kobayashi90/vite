@@ -7,30 +7,30 @@ Manga portion of the Wotaku glossary!
 
 ## Terms 
 
-#### Adaptation
+### Adaptation
 Not original content but based on an already existing work (light novel, anime, picture book etc.). Example: [Josee, the Tiger and the Fish](https://mangadex.org/search?q=Josee%2C+the+Tiger+and+the+Fish) which was a [Light Novel](https://yenpress.com/titles/9781975340469-josee-the-tiger-and-the-fish-light-novel) adapatation.
 
 
-#### Doujinshi
+### Doujinshi
 Doujinshi refers to self-published works. It can be a standalone self-published work, but it can also be a derivative of an existing published franchise or work. Doujinshi need not be NSFW, anything self-published counts. Example: [Ganbare, Douki-chan (Pre-serialization)](https://mangadex.org/title/190616bc-7da6-45fd-abd4-dd2ca656c183/ganbare-douki-chan)
 
 
-#### Mangaka
+### Mangaka
 Mangaka means the artist of the manga. Mangaka can also be the story writer. Generally, mangaka does everything by himself, but sometimes he may employ assistants to speed up the work and cope with the weekly release schedule.
 
 
-#### Omake
+### Omake
 A bonus/extra chapter which doesn't really affect the main story. Generally gives artworks, character backgrounds, mangaka notes or an extra story.
 
-#### Omnibus
+### Omnibus
 A release type characteristic of western publishers where multiple tankoubon volumes are contained in one book. It's most commonly seen as 2-in-1 or 3-in-1 editions, tho it can sometimes contain an entire series, like in the case of the Death Note All-in-One volume. They're usually larger format and can contain extras, especially if the series already had a tankoubon release previously.
 
 ![Naruto 3-in-1 volume(left) & Death Note All-in-One (right)](/glossary/manga/omnibus.png)
 
-#### One-Shot
+### One-Shot
 A manga that's been published at once. The length of the story depends on the mangaka. Also, it can be serialized later. Example: [Kimi no Kaketeru Tokomo Suki](https://mangadex.org/title/690540ab-5f55-4b44-910d-4d2ed0a0faa9/kimi-no-kaketeru-tokomo-suki)
 
-#### Panels
+### Panels
 
 :::tabs
 
@@ -95,18 +95,18 @@ They can sometimes cover multiple pages, which is solved by having fold-outs.
 
 :::
 
-#### Raw
+### Raw
 The term 'RAW' refers to manga (Japan), manhwa (Korea), or manhua (China) that has not been modified in any way from its original form. It can be both physical (scanned) or digital (ripped). Nowadays most of the raws are digital.
 
 ![We are Magical Boys (left, physical) & Jujustsu Kaisen (right, digital)](/glossary/manga/raw.png)
 
-#### Simulpub
+### Simulpub
 Simultaneous publication, meaning releasing and translating the latest chapters alongside their country of origin.
 
-#### Backfilling
+### Backfilling
 When the translation of a series starts at the latest chapters, with the publisher later working on the rest, starting from the beginning.
 
-#### Sound Effects
+### Sound Effects
 Sound effects in manga visualizes the characters physical or mental state, environment of the scenario, motions or just sounds(obviously). A [collection](https://www.muri.se/misc/soundfx.html) of Japanese Sound effects.
 
 ![365 Days To The Wedding; The sfx here is どよおーん” (“Doyoooon”) which means “depressed atmosphere”](/glossary/manga/sfx.png)
@@ -115,12 +115,12 @@ Sound effects in manga visualizes the characters physical or mental state, envir
 ![Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout ep. 5](/glossary/manga/symbol.gif)
 
 
-#### Tankoubon
+### Tankoubon
 Tankoubon means the volume release. Many manga are initially published in magazines such as [Weekly Shonen Jump](http://www.shonenjump.com/j/index.html). If a manga becomes very popular, it can receive a volume release a.k.a. Tankoubon. These volumes often include redrawn content, extra chapters, and notes from the mangaka. Sometimes, Tankoubon collections can feature various works by the mangaka, similar to an anthology.
 
 ![One Piece](/glossary/manga/Tankoubon.jpg)
 
-#### Other volume types
+### Other volume types
 
 | Term | Meaning { class="compact" } |
 | --- | --- |
@@ -133,35 +133,35 @@ Tankoubon means the volume release. Many manga are initially published in magazi
 | Wide-ban | A larger (A5 size) edition. Many manga, particularly seinen and josei, are published in wide-ban editions after magazine serialization, and are never released in the tankoubon format that is common in shounen and shoujo manga. When a series originally published in tankoubon format is re-released in wide-ban, each volume will contain more pages than the original edition, thus consisting of fewer volumes. |
 
 
-#### Webcomic/Webmanga
+### Webcomic/Webmanga
 Was originally published on a web platform. The platform can be free(twitter, pixiv etc) or paid (Comico, comic-walker etc.). Example: [ReLife](https://mangadex.org/title/6e3553b9-ddb5-4d37-b7a3-99998044774e/relife) ([comico](https://www.comico.jp/comic/23)) & [A Story About Smoking at the Back of the Supermarket](https://mangadex.org/title/baa95345-24fb-47a9-83e9-434ff671f968/super-no-ura-de-yani-suu-hanashi) ([twitter](https://twitter.com/jinusi822))
 
 
 ## Scanlation
 
-#### Scanlator
+### Scanlator
 A group that fan translate a manga/manhwa/manhua. The group takes the raw file and translate the whole manga (including dialogue, sfx & other forms of text). Also, sometimes the [wordplays](https://psychology.fandom.com/wiki/Japanese_wordplay) & cultural references provided in that chapter are explained in the credit section.
 
-#### Cleaner (CL)
+### Cleaner (CL)
 Cleaner takes the raw file, fixes any faults (such as artifacts due to scanning, color shifts, tilts, etc.), and cleans all of the original text including SFX, if necessary. But these days, this can be only removing texts since digital raw is widely available.
 
-#### Redrawer (RD)
+### Redrawer (RD)
 Redrawer redraws all the erased parts by the cleaner and makes them as smooth as possible. They patch everything that was affected due to scanning or other issues. Nowadays, cleaning and redrawing are often done by a single person since these two tasks are closely related.
 
 <div class="video_wrapper"><iframe src="https://www.youtube.com/embed/lwOTTa8F3bM" frameborder="0" allowfullscreen></iframe></div>
 
-#### Translator (TL)
+### Translator (TL)
 The translator translates all the text in the manga, including dialogues, sound effects, and other texts in the panels. They also provide explanations for all the jokes, cultural references, or wordplays.
 
 ![TL script of Living, Eating, and Sleeping Together ch. 1 (Page 1-5) (Helvetica Scans)](/glossary/manga/tl.png)
 
-#### Typesetter (TS)
+### Typesetter (TS)
 Typesetter takes the translated script from the translator and typeset it on the panel with appropriate font, formatting & sfx drawing. Sometimes TS can do both translation and typesetting.
 
-#### Proof reader (PR)
+### Proof reader (PR)
 PR reviews all translated text to correct any typos, awkward translations, or grammar issues. It is essential that PR is fluent in the translation language. The job of PR may become unnecessary if the TL is highly experienced, as QC could potentially take on the responsibilities.
 
-#### Quality checker (QC)
+### Quality checker (QC)
 Quality checker oversees all processes, including checking the translated manga for typos, grammar errors, translation issues, and redrawing problems. However, whether or not this role exists depends on the project or group's working strategy.
 
 ![Kilroy Was Here (SL by Atelier du Noir)](/glossary/manga/compare.jpg)
