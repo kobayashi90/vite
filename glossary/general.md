@@ -29,28 +29,28 @@ Want to increase your otaku knowledge? Look for no further! Presenting the Gloss
 
 ## Genre
 
-#### Ecchi
+### Ecchi
 Anime or manga with lewd scenes but is not necessarily explicit or pornographic. Example: [Highschool DxD](https://anilist.co/anime/11617/High-School-DxD/)
 
-#### Isekai
+### Isekai
 Type of story where MC is transported to another world. Example: [Mushoku Tensei](https://anilist.co/anime/108465/Mushoku-Tensei-Jobless-Reincarnation/)
 
-#### Mahou Shoujo
+### Mahou Shoujo
 Literally 'Magical Girl', it's a subgenre of fantasy centered around young girls who possess magical abilities, which they typically use through an ideal alter ego into which they can transform. Example: [Sailor Moon](https://anilist.co/anime/530/Sailor-Moon/)
 
-#### Mecha
+### Mecha
 Abbreviation for 'Mechanical', these shows heavily feature or focus on mechanical innovation. Robots, cyborgs, androids, and space stations, for example, all fall under the wide umbrella of mecha; however, robots are usually the primary focus. Example: [Neon Genesis Evangelion](https://anilist.co/anime/30/Shin-Seiki-Evangelion)
 
-#### Shoujo-ai
+### Shoujo-ai
 Anime and manga that explore emotional, but largely platonic, homoerotic relationships between women. Stories with explicit content of such type, are generally referred to as 'Yuri' or 'GL'. Note that this distinction is only used by western audiences.
 
-#### Shounen-ai
+### Shounen-ai
 Anime and manga that explore emotional, but largely platonic, homoerotic relationships between men. Stories with explicit content of such type, are generally referred to as 'Yaoi' or 'BL'. Note that this distinction is only used by western audiences.
 
-#### Slice of Life
+### Slice of Life
 Shows that mostly focuses on the day-to-day lives of fictional characters. They are usually chill experiences focusing on relatability and feel-good vibes.Example: [Nichijou](https://anilist.co/anime/10165/Nichijou)
 
-#### Wuxia
+### Wuxia
 Literally means “Martial Heroes”. Fictional stories about regular humans who can achieve supernatural fighting ability through Chinese martial arts training and internal energy cultivation. Themes of chivalry, tragedy, revenge & romance are common.
 
 
