@@ -218,7 +218,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Mangahasu](https://mangahasu.se/) <Badge type="danger" text="R+" />
 - [Mangahub](https://mangahub.io/) <Badge type="danger" text="R+" /><Badge type="info" text="Needs account" />
 - [Manga Buddy](https://mangabuddy.com/home) | [Manga Forest](https://mangaforest.com/home) | [Manga Mirror](https://mangamirror.com/home-page) <Badge type="warning" text="R" /><Badge type="info" text="Manhwa/hua centric" />
-- [Mangacultivator](https://mangacultivator.com) <Badge type="info" text="E" /><Badge type="info" text="Manhwa/hua centric" />
+- [Mangacultivator](https://mangacultivator.com) <Badge type="green" text="E" /><Badge type="info" text="Manhwa/hua centric" />
 - [Like Manga](https://likemanga.io) <Badge type="info" text="R-" /><Badge type="info" text="Manhwa/hua centric" />
 - [Manga Here](https://www.mangahere.cc/) | [Manga Fox](https://fanfox.net/) <Badge type="danger" text="R+" />
 - [Manganato](https://chapmanganato.com/nato) <Badge type="warning" text="R" />
