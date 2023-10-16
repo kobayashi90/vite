@@ -92,7 +92,7 @@ export default withPwa(
         alias: [
           {
             find: /^.*\/VPBadge\.vue$/,
-            replacement: fileURLToPath(new URL("./components/Badge.vue", import.meta.url)),
+            replacement: fileURLToPath(new URL("./theme/components/Badge.vue", import.meta.url)),
           },
         ],
       },

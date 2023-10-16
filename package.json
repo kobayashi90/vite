@@ -5,7 +5,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "format": "prettier --cache -w .",
-    "og:dev": "x-satori -t ./.vitepress/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./.vitepress/theme/components/OgImageTemplate.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@mdit/plugin-align": "^0.4.8",

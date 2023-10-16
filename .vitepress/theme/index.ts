@@ -1,16 +1,14 @@
 // https://vitepress.dev/guide/custom-theme
 import { h } from "vue";
 import Theme from "vitepress/theme";
+import "uno.css";
 import "./style.css";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
-import "uno.css";
-import { onMounted, watch, nextTick } from "vue";
-import { useRoute } from "vitepress";
-import mediumZoom from "medium-zoom";
+import { createMediumZoomProvider } from "./composables";
 // @ts-expect-error
-import ReloadPrompt from "../components/ReloadPrompt.vue";
+import ReloadPrompt from "./components/ReloadPrompt.vue";
 // @ts-expect-error
-import Button from "../components/Button.vue"
+import Button from "./components/Button.vue";
 
 export default {
   extends: Theme,
@@ -22,19 +20,7 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     enhanceAppWithTabs(app);
-    app.component('Button', Button)
-  },
-  setup() {
-    const route = useRoute();
-    const initZoom = () => {
-      mediumZoom(".main img", { background: "var(--vp-c-bg)" });
-    };
-    onMounted(() => {
-      initZoom();
-    });
-    watch(
-      () => route.path,
-      () => nextTick(() => initZoom()),
-    );
+    app.component("Button", Button);
+    createMediumZoomProvider(app, router);
   },
 };

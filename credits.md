@@ -5,7 +5,7 @@ lastUpdated: false
 ---
 
 <script setup>
-import Credits from './.vitepress/components/Contributors.vue'
+import Credits from './.vitepress/theme/components/Contributors.vue'
 </script>
 
 ### Contributors

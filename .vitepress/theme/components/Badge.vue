@@ -12,10 +12,8 @@ withDefaults(defineProps<Props>(), {
 
 <template>
   <component :is="link ? 'a' : 'span'" class="VPBadge" :class="link ? 'tip' : type" :href="link">
-    <slot>
-      <div v-if="icon" :class="icon"></div>
-      {{ text }}</slot
-    >
+    <div v-if="icon" :class="icon" />
+    <slot>{{ text }}</slot>
   </component>
 </template>
 
