@@ -5,6 +5,8 @@ description: Bitsized Wotaku!
 # Quick Start
 The basic things to get you started.
 
+:i-octicon-globe:
+
 ## Websites
 
 :::tabs
