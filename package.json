@@ -16,6 +16,7 @@
     "@mdit/plugin-mark": "^0.4.8",
     "@resvg/resvg-js": "^2.5.0",
     "@vite-pwa/vitepress": "^0.2.3",
+    "fast-glob": "^3.3.1",
     "medium-zoom": "^1.0.8",
     "unocss": "^0.56.5",
     "vitepress": "1.0.0-rc.22",
