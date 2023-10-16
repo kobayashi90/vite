@@ -1,5 +1,4 @@
 import { defineConfig } from "vitepress";
-import fsp from "node:fs/promises";
 import { fileURLToPath, URL } from "node:url";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
@@ -14,6 +13,7 @@ import { generateImages, generateMeta } from "./hooks";
 import { withPwa } from "@vite-pwa/vitepress";
 import fg from "fast-glob";
 import { resolve } from "node:path";
+import { FileSystemIconLoader } from "@iconify/utils/lib/loader/node-loaders";
 
 // FIXME: remove this after we are done
 const hostname: string = "https://wvite.pages.dev";
@@ -71,26 +71,10 @@ export default withPwa(
             presetUno(),
             presetAttributify(),
             presetIcons({
-              collections: [
-                {
-                  custom: {
-                    "1dm": () => fsp.readFile("../public/custom/1dm.svg", "utf-8"),
-                    ada: () => fsp.readFile("../public/icon/ada.png", "utf-8"),
-                    adg: () => fsp.readFile("../public/icon/adg.png", "utf-8"),
-                    ahadns: () => fsp.readFile("../public/icon/ahadns.png", "utf-8"),
-                    fork: () => fsp.readFile("../public/icon/fork.png", "utf-8"),
-                    idm: () => fsp.readFile("../public/icon/idm.png", "utf-8"),
-                    ivpn: () => fsp.readFile("../public/icon/ivpn.png", "utf-8"),
-                    jdl: () => fsp.readFile("../public/icon/jdl.png", "utf-8"),
-                    lt: () => fsp.readFile("../public/icon/lt.png", "utf-8"),
-                    mv: () => fsp.readFile("../public/icon/mv.png", "utf-8"),
-                    qb: () => fsp.readFile("../public/icon/qb.png", "utf-8"),
-                    trans: () => fsp.readFile("../public/icon/trans.png", "utf-8"),
-                    ubo: () => fsp.readFile("../public/icon/ubo.png", "utf-8"),
-                    wind: () => fsp.readFile("../public/icon/wind.png", "utf-8"),
-                  },
-                },
-              ],
+              warn: true,
+              collections: {
+                custom: FileSystemIconLoader(resolve(__dirname, "../public/custom")),
+              },
               extraProperties: {},
               scale: 1.2,
             }),
