@@ -17,7 +17,7 @@ Online resources for anime, manga, light novels and more. All links have been ca
 :::
 
 ::: tip Ad blocking {open}
-Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" />or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" />on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" />in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-ahadns" text="AhaDNS" link="https://blitz-setup.ahadns.com/" />as profile.
+Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" /> or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" /> on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" /> in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-ahadns" text="AhaDNS" link="https://blitz-setup.ahadns.com/" /> as profile.
 :::
 
 
@@ -67,8 +67,8 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 
 1. [Torrent Terms](https://en.wikipedia.org/wiki/Glossary_of_BitTorrent_terms).
 2. [Private Tracker Guide](https://rentry.co/private-trackers)
-3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" />or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
-4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" />or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
+3. Recommended torrent client for Android is <Badge type="tip" icon="i-custom-lt" text="libretorrent" link="https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent" />. For Windows, Linux & macOS, use <Badge type="tip" icon="i-custom-qb" text="qBittorrent" link="https://www.qbittorrent.org/" /> or <Badge type="tip" icon="i-custom-trans" text="Transmission" link="https://transmissionbt.com/" />
+4. For VPN, use <Badge type="tip" icon="i-custom-mv" text="Mullvad" link="https://mullvad.net/" /> or <Badge type="tip" icon="i-custom-ivpn" text="IVPN" link="https://www.ivpn.net/" />. If you want free alternative, use <Badge type="tip" icon="i-custom-wind" text="Windscribe" link="https://windscribe.com/" />.
 5. Use [Seadex](https://releases.moe/) or [Sneedex](https://sneedex.moe/) to find the best uploads available.
 6. Use [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa&hl=en&gl=US) as a Nyaa client on android.
 
@@ -88,7 +88,7 @@ If you want to get the best quality, use direct download, IRC, or torrent. You c
 - [AnimeRSS](https://animerss.com/) <Badge type="info" text="Blu-ray" /><Badge type="info" text="Host" />
 
 :::tip Downloader {open}
-On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />. For PC, use <Badge type="tip" icon="i-custom-idm" text="IDM" link="https://www.internetdownloadmanager.com/" /> or <Badge type="tip" icon="i-custom-jdl" text="JDL" link="https://jdownloader.org/" />. You can use JDL on Linux & macOS too. Use [**IAS**](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [**this guide**](https://rentry.org/jdownloader2) to debloat JDL.
+On Android, use <Badge type="tip" icon="i-custom-1dm" text="1DM" link="https://play.google.com/store/apps/details?id=idm.internet.download.manager&hl=en&gl=US" />. For PC, use <Badge type="tip" icon="i-custom-idm" text="IDM" link="https://www.internetdownloadmanager.com/" /> or <Badge type="tip" icon="i-custom-jdl" text="JDL" link="https://jdownloader.org/" /> . You can use JDL on Linux & macOS too. Use [**IAS**](https://massgrave.dev/idm-activation-script.html) to activate IDM. Read [**this guide**](https://rentry.org/jdownloader2) to debloat JDL.
 
 == IRC
 
