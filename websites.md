@@ -481,6 +481,36 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 
 <Button link="https://emulation.gametechwiki.com/index.php/Main_Page" icon="i-octicon-codespaces-24 ">For emulation, check Emulation General Wiki</Button>
 
+== Pokémon
+
+### Wiki / Websites
+- [Pokémon](https://www.pokemon.com/us) <Badge type="info" text="Official" />
+- [Bulbagarden](https://bulbagarden.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number" />
+- [Serebii.net](https://www.serebii.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.serebii.net/pokemon/" />
+- [Pokémon Database](https://pokemondb.net/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemondb.net/pokedex" />
+- [Pokémon Fandom](https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon" />
+- [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
+- [Pokés](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/dex/" />
+- [PokéJungle](https://pokejungle.net/)
+
+### Pokédex
+- [ER Dex](https://ydarissep.github.io/Elite-Redux-Pokedex/)
+- [Prokedex](https://play.google.com/store/apps/details?id=com.locuthor.prodex) <Badge type="info" text="Android" />
+- [Pocket Gallery](https://play.google.com/store/apps/details?id=com.eurekaffeine.pokedex) <Badge type="info" text="Android" />
+
+### Online Games
+- [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
+- [Deluge RPG](https://www.delugerpg.com/)
+- [Pokemon Revolution](https://pokemonrevolution.net/home)
+- [Who's that Pokémon](https://gearoid.me/pokemon/)
+- [Pokedoku](https://pokedoku.com/)
+
+### Tool
+- Nuzlocke Chart <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.pseudocode.nuzlockechart" /> <Badge type="tip" icon="i-logos-apple-app-store" text="iOS" link="https://apps.apple.com/us/app/nuzlocke-chart/id1573090300" />
+- [Nuzlock tracker](https://nuzlocke.app/)
+- [PKHeX](https://github.com/kwsch/PKHeX)
+- [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx/)
+
 == VN
 
 - [CPG Repacks](https://cpgrepacks.site)

@@ -536,7 +536,6 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [Wired Sound For Wired People](https://fauux.neocities.org/)
 - [Smug](https://smug.moe/)
 - [Endless Eight](https://endless8.moe/)
-- [Showdown!](https://play.pokemonshowdown.com/)
 - [Neko Network](https://live.neko-network.net/)
 - [Satania](https://satania.moe/)
 - [AIDN](https://aidn.jp/contents/)
