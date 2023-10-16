@@ -2,7 +2,7 @@
 interface Props {
   text?: string;
   link?: string;
-  type?: "info" | "tip" | "warning" | "danger";
+  type?: "info" | "tip" | "warning" | "danger" | "green";
   icon?: string;
 }
 withDefaults(defineProps<Props>(), {
@@ -11,7 +11,12 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <component :is="link ? 'a' : 'span'" class="VPBadge" :class="link ? 'tip' : type" :href="link">
+  <component
+    :target="link ? '_blank' : undefined"
+    :is="link ? 'a' : 'span'"
+    class="VPBadge"
+    :class="link ? 'tip' : type"
+    :href="link">
     <div v-if="icon" :class="icon" />
     <slot>{{ text }}</slot>
   </component>
@@ -77,5 +82,11 @@ withDefaults(defineProps<Props>(), {
   border-color: var(--vp-badge-danger-border);
   color: var(--vp-badge-danger-text);
   background-color: var(--vp-badge-danger-bg);
+}
+
+.VPBadge.green {
+  border-color: var(--vp-custom-block-tip-border);
+  color: var(--vp-custom-block-tip-text);
+  background-color: var(--vp-custom-block-tip-bg);
 }
 </style>

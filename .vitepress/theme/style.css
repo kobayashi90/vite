@@ -1,6 +1,7 @@
 :root {
   --vp-layout-max-width: 1490px;
   --vp-sidebar-width: 280px;
+  --vp-nav-logo-height: 36px;
   --vp-c-brand: #7bc5e4;
   --vp-c-brand-light: #a4d5ec;
   --vp-c-brand-lighter: #c4e2f2;
@@ -46,7 +47,6 @@
   --vp-custom-block-danger-border: rgba(248, 113, 113, 1);
   --vp-custom-block-danger-text: rgb(196, 46, 46);
   --vp-custom-block-danger-text-deep: rgba(220, 38, 38, 1);
-  --vp-nav-logo-height: 36px;
 }
 
 .dark {
@@ -169,8 +169,4 @@ main figure figcaption {
   margin-top: 1.25rem;
   font-size: 0.875rem;
   color: var(--vp-c-text-2);
-}
-
-main figure > a .external-link-icon {
-  display: none;
 }
