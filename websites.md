@@ -540,7 +540,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Netflix](https://www.netflix.com)
 - [Prime Video](https://www.primevideo.com/)
 
-== Manga/hwa/hua
+== Manga
 
 - **Manga**
   - [Azuki](https://www.azuki.co/)
