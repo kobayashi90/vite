@@ -10,7 +10,7 @@ Online resources for anime, manga, light novels and more. All links have been ca
 - <Badge type="danger" text="R+" /> Uploads NSFW content on a regular basis.
 - <Badge type="warning" text="R" /> Uploads NSFW content, but not always/all of them.
 - <Badge type="info" text="R-" /> Rarely uploads NSFW content.
-- <Badge type="tip" text="E" /> Only SFW content.
+- <Badge type="green" text="E" /> Only SFW content.
 
 **Note**: None of the websites mentioned are exclusively dedicated to NSFW content. [**Click here**](/nsfw.md) for the dedicated sites.
 
@@ -19,6 +19,7 @@ Online resources for anime, manga, light novels and more. All links have been ca
 ::: tip Ad blocking {open}
 Use <Badge type="tip" icon="i-custom-ada" text="AdAway" link="https://adaway.org/" />or <Badge type="tip" icon="i-custom-adg" text="Adguard" link="https://adguard.com/en/welcome.html" />on Android and <Badge type="tip" icon="i-custom-ubo" text="uBlock Origin" link="https://ublockorigin.com/" />in browsers to get rid of all the ads and trackers. For iOS, use <Badge type="tip" icon="i-custom-ahadns" text="AhaDNS" link="https://blitz-setup.ahadns.com/" />as profile.
 :::
+
 
 ![](/banner/anime.png)
 
@@ -453,7 +454,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 :::tabs
 == General
 
-- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) <Badge type="tip" text="E" />
+- [Nyaa](https://nyaa.si/?f=0&c=6_2&q=) <Badge type="green" text="E" />
 - [Nyaa sukebei](https://sukebei.nyaa.si/?f=0&c=1_3&q=)
 - [Ova Games](https://www.ovagames.com/)
 - [Dodi](https://dodi-repacks.site/)
