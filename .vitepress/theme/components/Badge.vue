@@ -11,11 +11,7 @@ withDefaults(defineProps<Props>(), {
 </script>
 
 <template>
-  <component
-    :target="link ? '_blank' : undefined"
-    :is="link ? 'a' : 'span'"
-    class="VPBadge"
-    :class="link ? 'tip' : type"
+  <component :target="link ? '_blank' : undefined" :is="link ? 'a' : 'span'" class="VPBadge" :class="link ? 'tip' : type"
     :href="link">
     <div v-if="icon" :class="icon" />
     <slot>{{ text }}</slot>
@@ -38,54 +34,49 @@ withDefaults(defineProps<Props>(), {
   padding-right: 10px;
 }
 
-.vp-doc h1 > .VPBadge {
+.vp-doc h1>.VPBadge {
   margin-top: 4px;
   vertical-align: top;
 }
 
-.vp-doc h2 > .VPBadge {
+.vp-doc h2>.VPBadge {
   margin-top: 3px;
   padding: 0 8px;
   vertical-align: top;
 }
 
-.vp-doc h3 > .VPBadge {
+.vp-doc h3>.VPBadge {
   vertical-align: middle;
 }
 
-.vp-doc h4 > .VPBadge,
-.vp-doc h5 > .VPBadge,
-.vp-doc h6 > .VPBadge {
+.vp-doc h4>.VPBadge,
+.vp-doc h5>.VPBadge,
+.vp-doc h6>.VPBadge {
   vertical-align: middle;
   line-height: 18px;
 }
 
 .VPBadge.info {
-  border-color: var(--vp-badge-info-border);
   color: var(--vp-badge-info-text);
   background-color: var(--vp-badge-info-bg);
 }
 
 .VPBadge.tip {
-  border-color: var(--vp-badge-tip-border);
   color: var(--vp-badge-tip-text);
   background-color: var(--vp-badge-tip-bg);
 }
 
 .VPBadge.warning {
-  border-color: var(--vp-badge-warning-border);
   color: var(--vp-badge-warning-text);
   background-color: var(--vp-badge-warning-bg);
 }
 
 .VPBadge.danger {
-  border-color: var(--vp-badge-danger-border);
   color: var(--vp-badge-danger-text);
   background-color: var(--vp-badge-danger-bg);
 }
 
 .VPBadge.green {
-  border-color: var(--vp-custom-block-tip-border);
   color: var(--vp-custom-block-tip-text);
   background-color: var(--vp-custom-block-tip-bg);
 }
