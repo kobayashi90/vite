@@ -58,6 +58,12 @@ devDependencies:
   '@iconify-json/fxemoji':
     specifier: ^1.1.5
     version: 1.1.5
+  '@iconify-json/gg':
+    specifier: ^1.1.6
+    version: 1.1.6
+  '@iconify-json/ic':
+    specifier: ^1.1.14
+    version: 1.1.14
   '@iconify-json/logos':
     specifier: ^1.1.37
     version: 1.1.37
@@ -1643,6 +1649,18 @@ packages:
 
   /@iconify-json/fxemoji@1.1.5:
     resolution: {integrity: sha512-DN9KdFVuwjs1X/UGztXLDPspo+wg5WLz4dbePnSWJ0Xf4DhVvjoVXlpbifHSzjiTjgh+1ieBHY2sv3wZR2ZMOw==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/gg@1.1.6:
+    resolution: {integrity: sha512-K3x0trDMUmy46PB3qD/5L+3YzC3ZHHyEoXwaWP40RRYWAUtRB/OG53HWIIEnS6ADbSGUbvhUpbl6bSJtmd+JCA==}
+    dependencies:
+      '@iconify/types': 2.0.0
+    dev: true
+
+  /@iconify-json/ic@1.1.14:
+    resolution: {integrity: sha512-vbATa9uwb9pIsRWQ+iXObQCgLTePk/0vo4shBr3Td0GnTjsAU/7VUGTkrZFVf5vpgiG6OsXkcKMPzBPvt966sg==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
