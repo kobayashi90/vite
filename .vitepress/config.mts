@@ -35,7 +35,7 @@ export default withPwa(
     cleanUrls: true,
     ignoreDeadLinks: true,
     appearance: "dark",
-    titleTemplate: ":title • Wotaku by Duck",
+    titleTemplate: ":title • Wotaku.moe by Duck",
     head: [
       ["meta", { name: "theme-color", content: "#7bc5e4" }],
       ["meta", { name: "og:type", content: "website" }],
