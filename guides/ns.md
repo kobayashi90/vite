@@ -12,7 +12,7 @@ The basic process:
 
 >You can't play videos from some sources like Google drive, Mega etc. For this example, we will use [Tokyo Insider](https://www.tokyoinsider.com/). You can get more good DDL sites [**here**](/Websites.md/#direct-download).
 
-<div class="video_wrapper"><iframe src="https://youtube.com/embed/1dsTb8YoNDM" width="560" allowfullscreen></iframe></div>
+<div class="video_wrapper"><iframe src="https://youtube.com/embed/1dsTb8YoNDM" frameborder="0" allowfullscreen></iframe></div>
 
 
 ## IRC
