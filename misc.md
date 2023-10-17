@@ -246,6 +246,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - [How culture made Japanese Internet design "Weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY)
 - [Pachinko: Japan's Biggest Gaming Obsession Explained](https://www.youtube.com/watch?v=-tBy2jemw4s)
 - [Social problems in Japan](https://www.youtube.com/playlist?list=PLpIWoYf9KNFV_I-719B3pk673xaHZ6fYY)
+- [Why some Asian accents swap Ls and Rs in English](https://www.youtube.com/watch?v=2yzMUs3badc)
 - [Why Most Japanese Clip Art Looks Like This](https://www.youtube.com/watch?v=g3CyRZY90M4)
 
 #### Otaku

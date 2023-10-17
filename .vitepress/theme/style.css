@@ -181,5 +181,5 @@ main figure figcaption {
 
 /* target a div with class .content-container*/
 .content-container {
-  max-width: 85% !important; /* 888px is the default max-width */
+  max-width: 80% !important; /* 888px is the default max-width */
 }
