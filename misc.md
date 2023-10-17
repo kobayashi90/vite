@@ -476,7 +476,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
      - Free
      - Feature rich and great functionality, you may still prefer 3Tene for its UI, just test both out.
 
-#### Tutorials
+### Tutorials
 - **2D**
     - Although they may not be 100% up to date, [**Brian Tsui**](https://www.youtube.com/@brian_tsui/)'s tutorials give a good understanding of how rigging works and what you need to know before you start
         - Introduction to Tools and Technical Concepts [Video](https://www.youtube.com/watch?v=Wr37T3S6LQU&list=PLhha8OGApHGMkC4F41zN3fFaSBRu-YIrc)
