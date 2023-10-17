@@ -171,15 +171,14 @@ main figure figcaption {
   color: var(--vp-c-text-2);
 }
 
-/**
- * override default layout width
- * -------------------------------------------------------------------------- */
- :root {
-  --vp-layout-max-width: 100% !important; /* 100% of the viewport width */
-  --vp-sidebar-width: 400px !important; /* increase sidebar width from default 272px */
-}
+@media (min-width: 1440px) {
+  :root {
+    --vp-layout-max-width: 100% !important; /* 100% of the viewport width */
+    --vp-sidebar-width: 400px !important; /* increase sidebar width from default 272px */
+  }
 
-/* target a div with class .content-container*/
-.content-container {
-  max-width: 80% !important; /* 888px is the default max-width */
+  /* target a div with class .content-container*/
+  .content-container {
+    max-width: 80% !important; /* 888px is the default max-width */
+  }
 }
