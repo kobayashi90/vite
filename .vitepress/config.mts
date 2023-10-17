@@ -167,7 +167,7 @@ export default withPwa(
       ],
       socialLinks: [
         { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
-        { icon: "discord", link: "https://discord.gg/WYchhG8z8T" },
+        { icon: "discord", link: "https://discord.wotaku.moe/" },
       ],
     },
     pwa: {

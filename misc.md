@@ -114,9 +114,9 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 ## Illustrations
 - [Pixiv](https://www.pixiv.net) <Badge type="danger" text="R+" />
 - [Anime Pictures](https://anime-pictures.net/)
-- [Danbooru](https://danbooru.donmai.us/) <Badge type="green" text="SFW Ver" link="https://safebooru.donmai.us/" /><Badge type="danger" text="R+" />
+- [Danbooru](https://danbooru.donmai.us/) <Badge type="danger" text="R+" /> <Badge type="green" link="https://safebooru.donmai.us/" text="SFW Ver"/>
 - [Gelbooru](https://gelbooru.com/) <Badge type="danger" text="R+" />
-- [Studio Ghibli](https://www.ghibli.jp/info/013772/)
+- [Studio Ghibli](https://www.ghibli.jp/info/013772/) <Badge type="green" text="E" />
 - [Kona chan](https://konachan.com/) <Badge type="danger" text="R+" />
 - [Safebooru](https://safebooru.org/) <Badge type="green" text="E" />
 - [Yandere](https://yande.re/post) <Badge type="danger" text="R+" />
