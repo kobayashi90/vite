@@ -170,3 +170,16 @@ main figure figcaption {
   font-size: 0.875rem;
   color: var(--vp-c-text-2);
 }
+
+/**
+ * override default layout width
+ * -------------------------------------------------------------------------- */
+ :root {
+  --vp-layout-max-width: 100% !important; /* 100% of the viewport width */
+  --vp-sidebar-width: 400px !important; /* increase sidebar width from default 272px */
+}
+
+/* target a div with class .content-container*/
+.content-container {
+  max-width: 85% !important; /* 888px is the default max-width */
+}
