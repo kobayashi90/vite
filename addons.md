@@ -46,7 +46,7 @@ Various add-ons to enhance your otaku experience. Includes anime/manga tracking,
 - [Poweramp](https://powerampapp.com/) <Badge type="tip" icon="i-logos-android-icon" text="Android" link="https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US" />
 - [SpotC++](https://github.com/SpotCompiled/SpotC-Plus-Plus) <Badge type="info" text="iOS" /><Badge type="info" text="Spotify" />
 - [Spotify++](https://appdb.to/app/cydia/1900000540) <Badge type="info" text="iOS" />
-- [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Spotify" />
+- [xManager](https://www.xmanagerapp.com/) <Badge type="info" text="Android" /><Badge type="info" text="Spotify" />
 
 == Trackers
 

@@ -493,6 +493,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Smogon University](https://www.smogon.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.smogon.com/dex/" />
 - [Pokés](https://www.pokeos.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://www.pokeos.com/dex/" />
 - [PokéJungle](https://pokejungle.net/)
+- [PokéHarbor](https://www.pokeharbor.com/) <Badge type="info" text="Download" />
 
 ### Pokédex
 - [ER Dex](https://ydarissep.github.io/Elite-Redux-Pokedex/)
@@ -503,7 +504,7 @@ For Offcial releases(web, volume, omnibus etc.), download from **Nyaa** or [**Ma
 - [Pokémon Showdown!](https://play.pokemonshowdown.com/) <Badge type="info" icon="i-ic-sharp-catching-pokemon" text="Dex" link="https://dex.pokemonshowdown.com/" />
 - [Deluge RPG](https://www.delugerpg.com/)
 - [Pokemon Revolution](https://pokemonrevolution.net/home)
-- [Who's that Pokémon](https://gearoid.me/pokemon/)
+- [Who's that Pokémon?](https://gearoid.me/pokemon/)
 - [Pokedoku](https://pokedoku.com/)
 
 ### Tool
