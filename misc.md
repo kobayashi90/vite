@@ -439,7 +439,8 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 - [hololive ERROR](https://store.steampowered.com/app/2062550/hololive_ERROR/)
 
 == Tools
-#### 2D
+
+### 2D
 - [**Live2D**](https://www.live2d.com/en/about/)
     - Needs model split into many different layers, you can use Photoshop(paid), Clip Studio Paint(paid) or Krita(free) for this
     - Very feature-rich and difficult program and takes a lot of time to practice
@@ -454,7 +455,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
     - Costs 8,19€ (one-time)
     - Has to be used with a tracking input application like [**ifacialmocap**](https://apps.apple.com/us/app/ifacialmocap/id1489470545) <Badge type="info" text="iOS" />, [**Facemotion3d**](https://apps.apple.com/us/app/facemotion3d/id1507538005) <Badge type="info" text="iOS" />, [**Meowface**](https://play.google.com/store/apps/details?id=com.suvidriel.meowface&hl=en_US) <Badge type="info" text="Android" />
 
-#### 3D
+### 3D
 - [**VRoidStudio**](https://vroid.com/en/studio)
      - Used for model creation
      - Very easy to use, free but not really professional, most of the time you will not get great results.
