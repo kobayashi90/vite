@@ -83,7 +83,7 @@ Welcome to the misc-sites page, home to various communities, guides, and tools f
 :::tabs
 == Info
 
-- [Bookmeter](https://bookmeter.com/) <Badge type="info" icon="/icon/jp.png" text="JP" />
+- [Bookmeter](https://bookmeter.com/) 🇯🇵
 - [Manga Groups Portal](https://discord.gg/9KGMzP2)
 - [r/LightNovels reading order](https://www.reddit.com/r/LightNovels/wiki/reading_order)
 
