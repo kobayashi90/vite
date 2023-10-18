@@ -47,7 +47,7 @@ export default withPwa(
       ["link", { rel: "mask-icon", href: "/asset/podarufav.png", color: "#7bc5e4" }],
       // prettier-ignore
       ["meta", { name: "keywords", content: "Anime, Manga, Otaku, Hentai, Weeb" }],
-      ["link", { rel: "apple-touch-icon", href: "/assets/podarufav.png", sizes: "192x192" }],
+      ["link", { rel: "apple-touch-icon", href: "/asset/podarufav.png", sizes: "192x192" }],
     ],
     transformHead: async (context) => generateMeta(context, hostname),
     buildEnd: async (context) => {
@@ -166,7 +166,7 @@ export default withPwa(
         },
       ],
       socialLinks: [
-        { icon: "github", link: "https://github.com/anotherduckling/Wotaku" },
+        { icon: "github", link: "https://github.com/anotherduckling/vite" },
         { icon: "discord", link: "https://discord.wotaku.moe/" },
       ],
     },
